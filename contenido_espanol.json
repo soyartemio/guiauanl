@@ -1,0 +1,121 @@
+[
+  {
+    "id": "ambito_estudio",
+    "titulo_ambito": "ÁMBITO: ESTUDIO",
+    "secciones": [
+      {
+        "id_seccion": "analisis_textos",
+        "titulo_seccion": "1. Análisis de Textos",
+        "subsecciones": [
+          {
+            "subtitulo": "1.1. Partes de un Libro",
+            "contenido": [
+              {"tipo": "p", "texto": "Conocer las partes de un libro te ayuda a encontrar la información que necesitas de forma más eficiente, ¡es como tener el mapa del tesoro!"},
+              {"tipo": "p", "texto": "<strong>Partes Externas (lo que ves por fuera):</strong>"},
+              {"tipo": "lista", "elementos": [
+                "<strong>Lomo:</strong> Es la 'columna vertebral' del libro. Generalmente tiene el título, el autor y la editorial. ¡Es lo que ves cuando los libros están ordenaditos en un estante!",
+                "<strong>Cubiertas (Portada y Contraportada):</strong> La portada es la 'cara' del libro; muestra el título, autor, editorial y a menudo un diseño o imagen atractiva. La contraportada (la 'espalda') puede tener un resumen, opiniones sobre el libro o datos del autor.",
+                "<strong>Solapas:</strong> Son las extensiones de la cubierta dobladas hacia adentro. A veces traen una breve biografía del autor, un resumen de la obra o comentarios."
+              ]},
+              {"tipo": "p", "texto": "<strong>Partes Internas (lo que encuentras al abrirlo):</strong>"},
+              {"tipo": "p", "texto": "<em>Secciones de Entrada (antes del contenido principal):</em>"},
+              {"tipo": "lista", "elementos": [
+                "<strong>Guardas:</strong> Hojas (a veces en blanco o decoradas) que unen las cubiertas con el bloque de páginas interiores.",
+                "<strong>Portada interior (o falsa portada):</strong> Una de las primeras páginas, a veces solo con el título o también con el autor. Es más sencilla que la cubierta.",
+                "<strong>Página legal o de créditos:</strong> Contiene información importante como el ISBN (número de identificación del libro), derechos de autor (copyright ©), editorial, lugar y año de edición. ¡Los datos 'oficiales' del libro!",
+                "<strong>Dedicatoria:</strong> Espacio donde el autor dedica la obra a personas especiales.",
+                "<strong>Prólogo o Prefacio:</strong> Escrito por el autor u otra persona, presenta la obra, explica sus motivos, su contenido o la forma en que debe leerse. ¡Es como una introducción especial antes de que empiece la película!",
+                "<strong>Índice:</strong> Lista ordenada de los capítulos o secciones del libro con el número de página donde comienzan. ¡Tu guía para no perderte!",
+                "<strong>Introducción:</strong> Presenta el tema general del libro, sus objetivos y cómo está organizado."
+              ]},
+              {"tipo": "p", "texto": "<em>Cuerpo de la obra o Contenido:</em> Es la parte principal y más extensa, donde se desarrolla todo el tema o la historia, dividida usualmente en capítulos o secciones."},
+              {"tipo": "p", "texto": "<em>Secciones de Salida (después del contenido principal):</em>"},
+              {"tipo": "lista", "elementos": [
+                "<strong>Epílogo:</strong> Una sección final que puede dar un cierre adicional, una reflexión o contar qué pasó después con los personajes (en obras narrativas).",
+                "<strong>Apéndices o Anexos:</strong> Contienen material complementario que no encajaba directamente en el cuerpo principal pero es útil (tablas, gráficos, documentos, glosarios).",
+                "<strong>Bibliografía:</strong> Lista de las fuentes (libros, artículos, etc.) que el autor consultó para escribir su obra. ¡Importante para saber de dónde sacó la información!",
+                "<strong>Colofón:</strong> Una nota breve al final del libro con datos sobre la impresión: nombre de la imprenta, lugar y fecha de finalización de la impresión, y a veces el número de ejemplares."
+              ]},
+              {"tipo": "interactivo", "id_interactivo": "partes_libro_q1", "pregunta": "¿En qué parte del libro encontrarías normalmente el ISBN y los datos de copyright?", "opciones": ["Prólogo", "Índice", "Página legal o de créditos", "Colofón"], "respuesta_correcta": 2, "explicacion": "La página legal o de créditos contiene la información técnica y legal del libro."}
+            ]
+          },
+          {
+            "subtitulo": "1.2. Tipos de Textos y su Propósito",
+            "contenido": [
+              {"tipo": "p", "texto": "Cada tipo de texto tiene una misión diferente, ¡como los diferentes personajes de los Avengers cada uno con su habilidad especial!"},
+              {"tipo": "lista", "elementos": [
+                "<strong>Textos Literarios:</strong> <em>Propósito:</em> Provocar emociones, deleite estético, contar historias, expresar sentimientos. Usan un lenguaje cuidado y a menudo figurado. <em>Ejemplos:</em> Poemas ('Las Rimas' de Bécquer), cuentos ('El principito'), novelas ('Cien años de soledad'), obras de teatro. <em>Referencia Pop:</em> Las letras de tus canciones favoritas suelen tener mucho de lenguaje literario.",
+                "<strong>Textos Periodísticos:</strong> <em>Propósito:</em> Informar de manera objetiva y actual sobre hechos relevantes para la sociedad. También pueden opinar e influir. <em>Ejemplos:</em> Noticias (¿Qué pasó?), reportajes (investigación profunda), crónicas (narración detallada de un suceso), editoriales (opinión del periódico). <em>Ejemplo:</em> La sección de deportes del periódico que te cuenta cómo le fue a tu equipo.",
+                "<strong>Textos Científicos o Técnicos:</strong> <em>Propósito:</em> Comunicar conocimiento especializado y resultados de investigaciones de forma precisa y rigurosa. Dirigidos a expertos o estudiantes de un área. <em>Ejemplos:</em> Artículos de investigación en revistas científicas, tesis doctorales, manuales técnicos muy especializados. <em>Dato:</em> Usan terminología específica (jerga técnica).",
+                "<strong>Textos de Divulgación:</strong> <em>Propósito:</em> Explicar temas científicos o técnicos de manera clara y accesible para un público general, no especializado. Buscan despertar el interés por la ciencia. <em>Ejemplos:</em> Artículos en revistas como 'Muy Interesante' o 'National Geographic', documentales de ciencia. ¡Como cuando Carl Sagan explicaba el cosmos!"
+              ]},
+              {"tipo": "interactivo", "id_interactivo": "tipo_texto_q1", "pregunta": "Un artículo en una revista que explica el funcionamiento de los volcanes para el público general es un texto de tipo:", "opciones": ["Literario", "Periodístico (noticia)", "Científico", "De Divulgación"], "respuesta_correcta": 3, "explicacion": "Los textos de divulgación hacen la ciencia accesible a todos."}
+            ]
+          }
+        ]
+      },
+      {
+        "id_seccion": "lectura_comprensiva",
+        "titulo_seccion": "2. Lectura Comprensiva",
+        "subsecciones": [
+          {
+            "subtitulo": "2.1. Identificación de Ideas Principales y Secundarias",
+            "contenido": [
+              {"tipo": "p", "texto": "Leer no es solo pasar los ojos por las palabras, ¡es entender el mensaje! Como cuando escuchas una canción y captas de qué trata."},
+              {"tipo": "p", "texto": "<strong>Idea Principal:</strong> Es el núcleo del mensaje, la información más importante del párrafo o del texto completo. Si la eliminas, el texto pierde su sentido esencial. Usualmente responde a la pregunta: <em>¿De qué o de quién se habla principalmente y qué es lo más importante que se dice al respecto?</em>"},
+              {"tipo": "p", "texto": "<strong>Ideas Secundarias:</strong> Son las que explican, ejemplifican, amplían, detallan o argumentan la idea principal. Le dan 'carnita' y soporte. Son como los detalles que hacen una buena historia o los argumentos que convencen en un debate."},
+              {"tipo": "p", "texto": "<em>Estrategia para encontrarlas:</em> Primero, lee el párrafo completo. Luego, intenta resumir en una sola frase de qué trata. Esa suele ser la idea principal. Lo demás, son ideas secundarias."},
+              {"tipo": "ejemplo_interactivo_ideas", "id_interactivo": "ej_ideas_1", 
+               "parrafo": "La contaminación del aire es un problema grave en muchas ciudades grandes. Esta contaminación es causada principalmente por las emisiones de los vehículos y las industrias. Respirar aire contaminado puede provocar enfermedades respiratorias y cardiovasculares, afectando especialmente a niños y ancianos. Es crucial tomar medidas para reducir las fuentes de polución.",
+               "pregunta": "Identifica la idea principal del párrafo anterior.",
+               "opciones": [
+                 "Los niños y ancianos son los más afectados por la contaminación.",
+                 "Los vehículos y las industrias causan contaminación.",
+                 "La contaminación del aire es un problema grave que requiere acción y tiene causas y efectos definidos.",
+                 "Respirar aire contaminado causa enfermedades."
+               ],
+               "respuesta_correcta": 2,
+               "explicacion": "La opción C engloba el problema, sus causas, efectos y la necesidad de acción, que es el mensaje central del párrafo."
+              }
+            ]
+          },
+          {
+            "subtitulo": "2.2. Técnicas de Comprensión: Resumen y Paráfrasis",
+            "contenido": [
+              {"tipo": "p", "texto": "Para demostrar que entendiste, puedes usar estas técnicas:"},
+              {"tipo": "p", "texto": "<strong>Resumen:</strong> Es reducir un texto a sus ideas esenciales, usando las <strong>palabras del autor</strong>. Se eliminan detalles secundarios, ejemplos extensos y repeticiones. ¡Es como contar la película en 5 minutos sin perder lo importante!"},
+              {"tipo": "lista", "elementos": [
+                "<em>Pasos para un buen resumen:</em>",
+                "1. Lee atentamente el texto original.",
+                "2. Subraya o identifica las ideas principales de cada párrafo.",
+                "3. Organiza esas ideas de forma lógica y coherente.",
+                "4. Redacta el nuevo texto con las palabras del autor, pero más corto y conciso."
+              ]},
+              {"tipo": "p", "texto": "<strong>Paráfrasis:</strong> Es explicar un texto con <strong>tus propias palabras</strong>, pero manteniendo el significado original. Demuestra que realmente comprendiste el mensaje y lo puedes reinterpretar. ¡Es como contarle a tu amigo lo que entendiste de un tema complicado, pero con tu estilo!"},
+              {"tipo": "lista", "elementos": [
+                "<em>Claves para una buena paráfrasis:</em>",
+                "1. Comprende totalmente el texto original.",
+                "2. Usa sinónimos y estructuras de frases diferentes.",
+                "3. Mantén la idea central y los detalles importantes del autor.",
+                "4. Asegúrate de que sea más claro o sencillo que el original, si es posible."
+              ]},
+              {"tipo": "interactivo", "id_interactivo": "parafrasis_q1", 
+              "texto_original": "El canino doméstico, un mamífero cuadrúpedo perteneciente a la familia de los cánidos, ha sido un compañero del ser humano desde tiempos ancestrales, desempeñando roles diversos como guardián, pastor y animal de compañía.",
+              "pregunta": "¿Cuál sería una buena paráfrasis del texto anterior?", 
+              "opciones": [
+                "Los perros son animales de cuatro patas que siempre han vivido con la gente para cuidarlos y ser amigos.",
+                "El canino doméstico es un mamífero que tiene un rol ancestral.",
+                "Los perros, que son mamíferos de cuatro patas de la familia de los cánidos, han acompañado a las personas desde hace mucho tiempo, sirviendo como protectores, ayudantes con el ganado y como mascotas.",
+                "Los perros tienen cuatro patas y son cánidos que viven con humanos."
+                ], 
+              "respuesta_correcta": 2, 
+              "explicacion": "La opción C reexpresa la idea original con otras palabras manteniendo la información esencial."
+              }
+            ]
+          }
+        ]
+      }
+      // ... Más secciones (Formas de Expresión Oral, Vocabulario, etc.)
+    ]
+  }
+]
