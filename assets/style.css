@@ -1,0 +1,135 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Alinea al inicio para permitir scroll */
+    min-height: 100vh;
+}
+
+.container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: #00509e; /* Azul UANL aproximado */
+}
+
+#question-container {
+    background-color: #eef;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+#question-subject {
+    font-size: 0.9em;
+    color: #555;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+
+#options-container button {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+}
+
+#options-container button:hover:not(:disabled) {
+    background-color: #0056b3;
+}
+
+#options-container button:disabled {
+    background-color: #d4d4d4;
+    cursor: not-allowed;
+}
+
+#options-container button.correct {
+    background-color: #28a745 !important; /* Verde */
+}
+
+#options-container button.incorrect {
+    background-color: #dc3545 !important; /* Rojo */
+}
+
+#feedback-area {
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    min-height: 40px; /* Para evitar saltos de layout */
+}
+
+#feedback-area p {
+    margin: 5px 0;
+}
+
+.explanation {
+    font-size: 0.9em;
+    color: #555;
+    margin-top: 10px;
+    text-align: justify;
+}
+
+
+#feedback-text.correct {
+    color: #155724;
+    font-weight: bold;
+}
+
+#feedback-text.incorrect {
+    color: #721c24;
+    font-weight: bold;
+}
+
+#scoreboard {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+}
+
+#scoreboard p {
+    margin: 5px 0;
+    font-size: 0.95em;
+}
+
+#next-question-btn, #start-exam-btn, #restart-exam-btn {
+    padding: 12px 25px;
+    background-color: #28a745; /* Verde */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.1em;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+#next-question-btn:hover, #start-exam-btn:hover, #restart-exam-btn:hover {
+    background-color: #218838;
+}
+
+.hidden {
+    display: none;
+}
