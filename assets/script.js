@@ -2,28 +2,18 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Elementos del DOM (Examen) ---
     const questionSubjectElement = document.getElementById('question-subject');
     const questionTextElement = document.getElementById('question-text');
-    const optionsContainerElement = document.getElementById('options-container');
-    const feedbackTextElement = document.getElementById('feedback-text');
-    const explanationTextElement = document.getElementById('explanation-text');
-    const nextQuestionBtn = document.getElementById('next-question-btn');
-    const startExamBtn = document.getElementById('start-exam-btn');
-    const restartExamBtn = document.getElementById('restart-exam-btn');
-
-    const currentQNumberElement = document.getElementById('current-q-number');
-    const totalQNumberElement = document.getElementById('total-q-number');
-    const scoreCorrectElement = document.getElementById('score-correct');
-    const scoreIncorrectElement = document.getElementById('score-incorrect');
-
+    // ... (todas tus otras constantes de elementos DOM como antes) ...
     const setupArea = document.getElementById('setup-area');
     const examArea = document.getElementById('exam-area');
     const resultsArea = document.getElementById('results-area');
+    const startExamBtn = document.getElementById('start-exam-btn');
+    const nextQuestionBtn = document.getElementById('next-question-btn');
+    
+    // Botones de reiniciar
+    const restartExamBtnGlobal = document.getElementById('restart-exam-btn-global');
+    const restartExamBtnResults = document.getElementById('restart-exam-btn-results'); // El que está en el área de resultados
 
-    const finalTotalElement = document.getElementById('final-total');
-    const finalCorrectElement = document.getElementById('final-correct');
-    const finalIncorrectElement = document.getElementById('final-incorrect');
-    const finalPercentageElement = document.getElementById('final-percentage');
-
-    // Asegúrate de que estas rutas sean correctas según tu estructura en GitHub Pages
+    // ... (el resto de tus variables y el array jsonFiles como antes) ...
     const jsonFiles = [
         'ciencias/biologia.json', 
         'ciencias/fisica.json', 
@@ -51,7 +41,9 @@ document.addEventListener('DOMContentLoaded', () => {
     let scoreIncorrect = 0;
     const questionsPerExam = 200;
 
+
     async function loadQuestions() {
+        // ... (tu función loadQuestions como la tenías, asegurándote que maneje errores) ...
         allQuestions = []; 
         startExamBtn.disabled = true;
         startExamBtn.textContent = "Cargando preguntas...";
@@ -60,12 +52,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 fetch(file)
                     .then(response => {
                         if (!response.ok) {
-                            throw new Error(`Error al cargar ${file}: ${response.statusText} (Status: ${response.status})`);
+                            console.error(`Error al cargar ${file}: ${response.status} ${response.statusText}`);
+                            // Intenta mostrar más info del error si está disponible
+                            response.text().then(text => console.error("Respuesta del servidor:", text));
+                            throw new Error(`Error HTTP: ${response.status}`);
                         }
                         return response.json();
                     })
                     .catch(error => {
-                        console.error(error);
+                        console.error(`Fallo al obtener o parsear ${file}:`, error);
                         return []; 
                     })
             );
@@ -75,25 +70,26 @@ document.addEventListener('DOMContentLoaded', () => {
             
             console.log(`Total de preguntas cargadas válidas: ${allQuestions.length}`);
             if (allQuestions.length === 0) {
-                alert("No se pudieron cargar preguntas. Revisa la consola (F12) para más detalles y asegúrate que los archivos JSON estén en las rutas correctas y tengan el formato esperado.");
-                startExamBtn.textContent = "Error al cargar. Reintentar";
+                alert("No se pudieron cargar preguntas. Revisa la consola (F12) para más detalles y asegúrate que los archivos JSON estén en las rutas correctas, no estén vacíos y tengan el formato esperado.");
+                startExamBtn.textContent = "Reintentar Carga";
                 startExamBtn.disabled = false;
                 return false; 
             }
-            startExamBtn.textContent = "Iniciar Examen"; // Restaurar texto original
+            startExamBtn.textContent = "Iniciar Examen";
             startExamBtn.disabled = false;
             return true; 
             
         } catch (error) {
             console.error('Error general al cargar las preguntas:', error);
             alert('Hubo un error general al cargar las preguntas. Revisa la consola (F12).');
-            startExamBtn.textContent = "Error al cargar. Reintentar";
+            startExamBtn.textContent = "Reintentar Carga";
             startExamBtn.disabled = false;
             return false;
         }
     }
 
     function shuffleArray(array) {
+        // ... (igual que antes) ...
         for (let i = array.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
             [array[i], array[j]] = [array[j], array[i]];
@@ -101,12 +97,12 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function prepareExam() {
+        // ... (igual que antes, pero ajusta la visibilidad del botón de reiniciar global) ...
         if (allQuestions.length === 0) {
             alert("No hay preguntas cargadas. Intenta hacer clic en 'Iniciar Examen' de nuevo. Si el problema persiste, revisa la consola (F12).");
             startExamBtn.disabled = false; 
             return; 
         }
-
         shuffleArray(allQuestions);
         selectedQuestions = allQuestions.slice(0, Math.min(questionsPerExam, allQuestions.length));
         
@@ -125,6 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
         setupArea.classList.add('hidden'); 
         resultsArea.classList.add('hidden');
         examArea.classList.remove('hidden');
+        restartExamBtnGlobal.classList.remove('hidden'); // Mostrar el botón de reiniciar global
         nextQuestionBtn.classList.add('hidden');
 
         displayQuestion();
@@ -132,14 +129,14 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function displayQuestion() {
-        // ... (Esta función es igual que la versión anterior, asegúrate de tenerla completa)
+        // ... (igual que antes) ...
         if (currentQuestionIndex < selectedQuestions.length) {
             const currentQuestion = selectedQuestions[currentQuestionIndex];
             if (!currentQuestion || typeof currentQuestion.pregunta !== 'string' || typeof currentQuestion.opciones !== 'object') {
                 console.error("Pregunta malformada o incompleta:", currentQuestion);
                 questionTextElement.textContent = "Error: Pregunta no disponible.";
                 optionsContainerElement.innerHTML = '';
-                 nextQuestionBtn.classList.remove('hidden'); // Permitir avanzar si hay error
+                nextQuestionBtn.classList.remove('hidden');
                 return;
             }
 
@@ -165,8 +162,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function selectAnswer(selectedKey, clickedButton) {
-        // ... (Esta función es igual que la versión anterior, asegúrate de tenerla completa)
-        const currentQuestion = selectedQuestions[currentQuestionIndex];
+        // ... (igual que antes) ...
+         const currentQuestion = selectedQuestions[currentQuestionIndex];
         if (!currentQuestion) return; 
 
         const correctAnswerKey = currentQuestion.respuesta_correcta;
@@ -200,15 +197,15 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     
     function updateScoreboard() {
-        // ... (Esta función es igual que la versión anterior, asegúrate de tenerla completa)
-        if (!selectedQuestions || selectedQuestions.length === 0 && currentQuestionIndex === 0) { // Ajuste para el estado inicial
+        // ... (igual que antes) ...
+        if (!selectedQuestions || selectedQuestions.length === 0 && currentQuestionIndex === 0) {
             currentQNumberElement.textContent = 0;
-            totalQNumberElement.textContent = questionsPerExam; // Mostrar el objetivo
+            totalQNumberElement.textContent = questionsPerExam; 
             scoreCorrectElement.textContent = 0;
             scoreIncorrectElement.textContent = 0;
             return;
         }
-        if (selectedQuestions.length === 0) return; // Si no hay preguntas seleccionadas, no actualizar.
+        if (selectedQuestions.length === 0) return; 
 
         currentQNumberElement.textContent = currentQuestionIndex + 1 > selectedQuestions.length ? selectedQuestions.length : currentQuestionIndex + 1;
         totalQNumberElement.textContent = selectedQuestions.length;
@@ -217,7 +214,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function nextQuestion() {
-        // ... (Esta función es igual que la versión anterior, asegúrate de tenerla completa)
+        // ... (igual que antes) ...
         currentQuestionIndex++;
         if (currentQuestionIndex < selectedQuestions.length) {
             displayQuestion();
@@ -227,9 +224,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function showFinalResults() {
-        // ... (Esta función es igual que la versión anterior, asegúrate de tenerla completa)
+        // ... (igual que antes, pero asegúrate que el botón de reiniciar global esté visible) ...
         examArea.classList.add('hidden');
         resultsArea.classList.remove('hidden');
+        restartExamBtnGlobal.classList.remove('hidden'); // Asegurarse que esté visible
         
         finalTotalElement.textContent = selectedQuestions.length;
         finalCorrectElement.textContent = scoreCorrect;
@@ -238,37 +236,36 @@ document.addEventListener('DOMContentLoaded', () => {
         finalPercentageElement.textContent = percentage;
     }
 
+    // Función para reiniciar el examen
+    function resetExam() {
+        resultsArea.classList.add('hidden');
+        examArea.classList.add('hidden');
+        setupArea.classList.remove('hidden');
+        restartExamBtnGlobal.classList.add('hidden'); // Ocultar hasta que inicie el examen
+        startExamBtn.disabled = false;
+        // Opcional: si quieres que se recarguen las preguntas desde los JSON al reiniciar:
+        // allQuestions = []; 
+        // loadQuestions();
+        // Si no, se usarán las ya cargadas y se barajarán en prepareExam()
+    }
+
     startExamBtn.addEventListener('click', async () => {
-        // No hay verificación de login, directamente carga y prepara
         startExamBtn.disabled = true; 
         const questionsLoaded = await loadQuestions(); 
         if (questionsLoaded && allQuestions.length > 0) {
             prepareExam();
         } else {
+            // Mensaje de error ya se manejó en loadQuestions
             startExamBtn.disabled = false; 
-            // El mensaje de error ya se mostró en loadQuestions
         }
     });
     
     nextQuestionBtn.addEventListener('click', nextQuestion);
     
-    restartExamBtn.addEventListener('click', () => {
-        resultsArea.classList.add('hidden');
-        setupArea.classList.remove('hidden'); // Mostrar el área de setup para volver a empezar
-        // Opcional: Forzar la recarga y nueva mezcla de preguntas si se desea
-        // startExamBtn.disabled = true;
-        // loadQuestions().then(() => {
-        //     if (allQuestions.length > 0) prepareExam();
-        // });
-        // Para que simplemente permita volver a tomar el examen con las preguntas ya cargadas (pero re-barajeadas):
-        if (allQuestions.length > 0) {
-             startExamBtn.disabled = false; // Habilitar botón de inicio
-        } else {
-            // Si por alguna razón no hay preguntas, permitir que se vuelvan a cargar
-            startExamBtn.disabled = false;
-        }
-    });
+    restartExamBtnGlobal.addEventListener('click', resetExam);
+    restartExamBtnResults.addEventListener('click', resetExam); // El botón en el área de resultados también llama a resetExam
     
-    // Actualizar el marcador inicial
+    // Inicializar el marcador y el estado de los botones
     updateScoreboard(); 
+    restartExamBtnGlobal.classList.add('hidden'); // Ocultar al inicio
 });
