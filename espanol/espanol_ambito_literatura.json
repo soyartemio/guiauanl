@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1001,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Género literario al que pertenecen el cuento y la novela, que relatan acontecimientos reales o ficticios, generalmente en prosa:",
+    "opciones": {
+      "a": "Lírico",
+      "b": "Dramático",
+      "c": "Narrativo",
+      "d": "Didáctico"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El género narrativo se caracteriza por contar historias, ya sean reales o imaginarias, a través de un narrador."
+  },
+  {
+    "id": 1002,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "¿Cuál es una característica principal del cuento en comparación con la novela?",
+    "opciones": {
+      "a": "Es de larga extensión y puede requerir varias semanas de lectura.",
+      "b": "Sus personajes son numerosos y complejos.",
+      "c": "Es de corta extensión y generalmente se lee en una sola sesión.",
+      "d": "Su historia desarrolla varios temas simultáneamente."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El cuento se distingue por su brevedad, la concisión de su trama y el número reducido de personajes."
+  },
+  {
+    "id": 1003,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "La estructura de las narraciones como el cuento y la novela incluye el planteamiento del problema, el nudo o enredo y el:",
+    "opciones": {
+      "a": "Clímax",
+      "b": "Desenlace",
+      "c": "Epílogo",
+      "d": "Prólogo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El desenlace es la parte final de la narración donde se resuelven los conflictos y la tensión desaparece."
+  },
+  {
+    "id": 1004,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "La expresión literaria por excelencia, donde el autor comunica sentimientos y emociones de manera armoniosa utilizando formas bellas, es la:",
+    "opciones": {
+      "a": "Crónica",
+      "b": "Poesía",
+      "c": "Ensayo",
+      "d": "Noticia"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La poesía (género lírico) se caracteriza por el uso estético del lenguaje para expresar la subjetividad del autor."
+  },
+  {
+    "id": 1005,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Cada una de las líneas de un poema se llama:",
+    "opciones": {
+      "a": "Estrofa",
+      "b": "Párrafo",
+      "c": "Verso",
+      "d": "Rima"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un verso es la unidad básica de la poesía, que se distingue por su ritmo y musicalidad."
+  },
+  {
+    "id": 1006,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "El conjunto de versos en que se divide el poema, análogo al párrafo en la prosa, se llama:",
+    "opciones": {
+      "a": "Sílaba",
+      "b": "Estrofa",
+      "c": "Metro",
+      "d": "Cadencia"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Una estrofa es un grupo de versos que forman una unidad estructural dentro de un poema."
+  },
+  {
+    "id": 1007,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "El número de sílabas que tiene cada verso se conoce como:",
+    "opciones": {
+      "a": "Rima",
+      "b": "Ritmo",
+      "c": "Metro o métrica",
+      "d": "Acento"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El metro o métrica se refiere a la medida de los versos según el número de sílabas poéticas que contienen."
+  },
+  {
+    "id": 1008,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Fenómeno sonoro que se manifiesta cuando la vocal final de una palabra se une a la vocal inicial de la siguiente, reduciendo el número de sílabas poéticas:",
+    "opciones": {
+      "a": "Hiato",
+      "b": "Diptongo",
+      "c": "Sinalefa",
+      "d": "Sinéresis"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La sinalefa es una licencia poética que permite unir en una sola sílaba métrica la vocal final de una palabra y la vocal inicial de la siguiente."
+  },
+  {
+    "id": 1009,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "La igualdad de sonidos que tienen las últimas palabras de cada verso a partir de la vocal acentuada se llama:",
+    "opciones": {
+      "a": "Metro",
+      "b": "Ritmo",
+      "c": "Estrofa",
+      "d": "Rima"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "La rima es la repetición de sonidos al final de los versos, creando musicalidad en el poema."
+  },
+  {
+    "id": 1010,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Cuando en la rima se repiten todos los sonidos (vocales y consonantes) a partir de la vocal acentuada, la rima es:",
+    "opciones": {
+      "a": "Asonante",
+      "b": "Consonante",
+      "c": "Libre",
+      "d": "Blanca"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La rima consonante o perfecta es la coincidencia total de sonidos (vocales y consonantes) al final de los versos."
+  },
+  {
+    "id": 1011,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Figura literaria que consiste en trasladar el sentido recto de las palabras a otro figurado, dando a un ser o cosa un nombre que le es ajeno:",
+    "opciones": {
+      "a": "Comparación o símil",
+      "b": "Metáfora",
+      "c": "Hipérbole",
+      "d": "Personificación"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La metáfora establece una relación de identidad entre dos términos (uno real y otro imaginario) basándose en una semejanza."
+  },
+  {
+    "id": 1012,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "La expresión literaria comprendida dentro del género dramático, concebida para ser representada en vivo por actores en un escenario, es el:",
+    "opciones": {
+      "a": "Cuento",
+      "b": "Ensayo",
+      "c": "Teatro",
+      "d": "Poema épico"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El teatro o género dramático presenta historias a través del diálogo y la acción de personajes, destinadas a la representación escénica."
+  },
+  {
+    "id": 1013,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "En la estructura de la obra teatral, la parte donde se dan a conocer los personajes y la situación problemática se llama:",
+    "opciones": {
+      "a": "Nudo",
+      "b": "Desenlace",
+      "c": "Planteamiento",
+      "d": "Clímax"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El planteamiento introduce a los personajes, el conflicto principal y el contexto de la obra teatral."
+  },
+  {
+    "id": 1014,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Indicaciones o instrucciones que da el autor para que los actores realicen gestos, actitudes o movimientos en una obra teatral:",
+    "opciones": {
+      "a": "Diálogos",
+      "b": "Monólogos",
+      "c": "Acotaciones",
+      "d": "Apartes"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las acotaciones son notas del autor que guían la puesta en escena y la interpretación de los actores."
+  },
+  {
+    "id": 1015,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Forma teatral donde los personajes enfrentan un destino adverso que provoca la muerte del protagonista y de varios personajes, influida por la fatalidad:",
+    "opciones": {
+      "a": "Comedia",
+      "b": "Tragedia",
+      "c": "Drama (tragicomedia)",
+      "d": "Farsa"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La tragedia se caracteriza por presentar conflictos serios y personajes que se enfrentan a un destino inevitable, a menudo con un desenlace funesto."
+  },
+  {
+    "id": 1016,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Período literario que abarca del siglo V al XV, desde la caída del Imperio Romano hasta la toma de Constantinopla:",
+    "opciones": {
+      "a": "Renacimiento",
+      "b": "Barroco",
+      "c": "Edad Media",
+      "d": "Neoclasicismo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La Edad Media fue un extenso período histórico y literario en Europa, caracterizado por el feudalismo y la influencia de la Iglesia."
+  },
+  {
+    "id": 1017,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Poetas medievales que dedicaban sus composiciones a las hazañas heroicas de los guerreros, conocidas como cantares de gesta:",
+    "opciones": {
+      "a": "Trovadores",
+      "b": "Juglares",
+      "c": "Clérigos de mester de clerecía",
+      "d": "Humanistas"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los juglares eran artistas ambulantes que recitaban o cantaban poemas épicos y otras composiciones literarias."
+  },
+  {
+    "id": 1018,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "El movimiento cultural que transformó la concepción del hombre y la sociedad en los siglos XV y XVI, con una notable expansión de las artes, fue el:",
+    "opciones": {
+      "a": "Romanticismo",
+      "b": "Realismo",
+      "c": "Renacimiento",
+      "d": "Modernismo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Renacimiento marcó una transición de la Edad Media a la Edad Moderna, caracterizada por un renacer del interés por la cultura clásica."
+  },
+  {
+    "id": 1019,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Poeta español del Renacimiento, autor de 'Ojos claros, serenos...', conocido por sus famosos madrigales:",
+    "opciones": {
+      "a": "Juan Boscán",
+      "b": "Garcilaso de la Vega",
+      "c": "Gutierre de Cetina",
+      "d": "Fray Luis de León"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Gutierre de Cetina fue un poeta español del Renacimiento, célebre por sus madrigales de tema amoroso."
+  },
+  {
+    "id": 1020,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Composición poética de catorce versos endecasílabos, distribuidos en dos cuartetos y dos tercetos, considerada una forma elaborada y exquisita:",
+    "opciones": {
+      "a": "Romance",
+      "b": "Madrigal",
+      "c": "Soneto",
+      "d": "Lira"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El soneto es una forma poética estrófica de origen italiano, muy cultivada durante el Renacimiento y épocas posteriores."
+  },
+  {
+    "id": 1021,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Tipo de novela renacentista que narra las aventuras heroicas y amorosas de un caballero andante:",
+    "opciones": {
+      "a": "Pastoril",
+      "b": "Picaresca",
+      "c": "De caballerías",
+      "d": "Bizantina"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las novelas de caballerías, muy populares en el Renacimiento, relataban las hazañas fantásticas de caballeros errantes."
+  },
+  {
+    "id": 1022,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "La forma de composición literaria que relata una historia real o imaginaria, como el cuento o la novela, es la:",
+    "opciones": {
+      "a": "Descripción",
+      "b": "Diálogo",
+      "c": "Narración",
+      "d": "Exposición"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La narración consiste en contar una sucesión de hechos o acontecimientos."
+  },
+  {
+    "id": 1023,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "La forma de composición literaria que explica detallada y ordenadamente cómo son los seres, lugares y objetos es la:",
+    "opciones": {
+      "a": "Narración",
+      "b": "Descripción",
+      "c": "Argumentación",
+      "d": "Instrucción"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La descripción se enfoca en representar con palabras las características de algo o alguien."
+  },
+  {
+    "id": 1024,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Tipo de descripción que se enfoca en las cualidades y defectos físicos de una persona:",
+    "opciones": {
+      "a": "Etopeya",
+      "b": "Retrato",
+      "c": "Prosopografía",
+      "d": "Topografía"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La prosopografía describe la apariencia externa o los rasgos físicos de una persona."
+  },
+  {
+    "id": 1025,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Forma de composición literaria donde el autor hace que dos o más personajes manifiesten, de manera alterna, sus ideas o asuntos:",
+    "opciones": {
+      "a": "Monólogo",
+      "b": "Soliloquio",
+      "c": "Diálogo",
+      "d": "Aparte"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El diálogo es la conversación entre dos o más personajes."
+  },
+  {
+    "id": 1026,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Movimiento literario de la primera mitad del siglo XIX, reacción contra las reglas del Neoclasicismo, donde predomina el sentimiento sobre la razón:",
+    "opciones": {
+      "a": "Realismo",
+      "b": "Modernismo",
+      "c": "Romanticismo",
+      "d": "Vanguardismo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Romanticismo exaltó la individualidad, la emoción, la imaginación y la libertad creativa, rompiendo con las normas neoclásicas."
+  },
+  {
+    "id": 1027,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Autor español del Romanticismo, conocido por sus 'Rimas' y 'Leyendas':",
+    "opciones": {
+      "a": "José Zorrilla",
+      "b": "Lord Byron",
+      "c": "Gustavo Adolfo Bécquer",
+      "d": "Víctor Hugo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Gustavo Adolfo Bécquer es uno de los máximos exponentes del Romanticismo tardío en España, célebre por su poesía lírica e intimista."
+  },
+  {
+    "id": 1028,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Movimiento literario de la segunda mitad del siglo XIX que reacciona contra los excesos del Romanticismo y busca describir la realidad basándose en la observación:",
+    "opciones": {
+      "a": "Modernismo",
+      "b": "Simbolismo",
+      "c": "Naturalismo",
+      "d": "Realismo"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El Realismo se propuso representar la realidad de forma objetiva y fiel, abordando problemas sociales y personajes cotidianos."
+  },
+  {
+    "id": 1029,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Autor español del Realismo, conocido por obras como 'Marianela' y 'Fortunata y Jacinta':",
+    "opciones": {
+      "a": "Juan Valera",
+      "b": "Benito Pérez Galdós",
+      "c": "Leopoldo Alas 'Clarín'",
+      "d": "Emilia Pardo Bazán"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Benito Pérez Galdós es considerado uno de los novelistas más importantes de la literatura española, maestro del realismo."
+  },
+  {
+    "id": 1030,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Movimiento literario eminentemente americano que surgió a finales del siglo XIX, caracterizado por la sonoridad, el vocabulario elegante y el símbolo del cisne:",
+    "opciones": {
+      "a": "Romanticismo",
+      "b": "Realismo",
+      "c": "Modernismo",
+      "d": "Vanguardismo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Modernismo hispanoamericano buscó una renovación estética del lenguaje, con influencias del parnasianismo y simbolismo francés."
+  },
+  {
+    "id": 1031,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Poeta nicaragüense considerado el iniciador del Modernismo con su obra 'Azul':",
+    "opciones": {
+      "a": "Amado Nervo",
+      "b": "José Martí",
+      "c": "Rubén Darío",
+      "d": "Leopoldo Lugones"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Rubén Darío es la figura central del Modernismo, y su libro 'Azul' (1888) es considerado una obra fundacional del movimiento."
+  },
+  {
+    "id": 1032,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "La novela hispanoamericana contemporánea trata temas como la inestable democracia, los regímenes militares abusivos y el desigual reparto de la riqueza. Un autor representativo es:",
+    "opciones": {
+      "a": "Edgar Allan Poe",
+      "b": "Gabriel García Márquez",
+      "c": "Gustave Flaubert",
+      "d": "Miguel de Cervantes"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Gabriel García Márquez, exponente del realismo mágico, abordó en sus obras la realidad social y política de Latinoamérica."
+  },
+  {
+    "id": 1033,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "El movimiento armado de 1910 en México propició la aparición de un tipo de novela que reflejaba la problemática social y la explotación del campesinado. Esta es la novela de la:",
+    "opciones": {
+      "a": "Independencia",
+      "b": "Reforma",
+      "c": "Revolución Mexicana",
+      "d": "Conquista"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La novela de la Revolución Mexicana es un subgénero narrativo que retrata los acontecimientos y consecuencias de este conflicto."
+  },
+  {
+    "id": 1034,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Autor de 'Los de abajo', una de las novelas más representativas de la Revolución Mexicana:",
+    "opciones": {
+      "a": "José Rubén Romero",
+      "b": "Martín Luis Guzmán",
+      "c": "Mariano Azuela",
+      "d": "José Vasconcelos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "'Los de abajo' de Mariano Azuela es una obra emblemática de la novela de la Revolución Mexicana."
+  },
+  {
+    "id": 1035,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Movimiento literario más reciente que se esfuerza por mantener una tendencia renovadora que interprete fielmente las inquietudes contemporáneas:",
+    "opciones": {
+      "a": "Clasicismo",
+      "b": "Barroco",
+      "c": "Vanguardismo",
+      "d": "Costumbrismo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El vanguardismo engloba diversos movimientos artísticos y literarios del siglo XX caracterizados por la experimentación y la ruptura con las tradiciones."
+  },
+  {
+    "id": 1036,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Autor mexicano, parte del vanguardismo, conocido por obras como 'Pedro Páramo' y 'El llano en llamas':",
+    "opciones": {
+      "a": "Julio Cortázar",
+      "b": "Carlos Fuentes",
+      "c": "Juan Rulfo",
+      "d": "Mario Vargas Llosa"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Juan Rulfo es una figura clave de la literatura hispanoamericana del siglo XX, precursor del realismo mágico."
+  },
+  {
+    "id": 1037,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Tendencia de la narrativa hispanoamericana contemporánea que combina elementos fantásticos (mágicos) y elementos reales:",
+    "opciones": {
+      "a": "Realismo social",
+      "b": "Naturalismo",
+      "c": "Realismo mágico",
+      "d": "Existencialismo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El realismo mágico integra lo maravilloso y lo fantástico en un entorno realista, creando una atmósfera única."
+  },
+  {
+    "id": 1038,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Obra cumbre de Gabriel García Márquez y del realismo mágico, que narra la historia de la familia Buendía en el pueblo imaginario de Macondo:",
+    "opciones": {
+      "a": "La ciudad y los perros",
+      "b": "Rayuela",
+      "c": "Cien años de soledad",
+      "d": "La muerte de Artemio Cruz"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "'Cien años de soledad' es una novela emblemática del realismo mágico y una de las obras más importantes de la literatura en español."
+  },
+  {
+    "id": 1039,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "La obra 'Don Juan Tenorio' de José Zorrilla pertenece al movimiento literario:",
+    "opciones": {
+      "a": "Realismo",
+      "b": "Romanticismo",
+      "c": "Modernismo",
+      "d": "Neoclasicismo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "'Don Juan Tenorio' es una obra teatral emblemática del Romanticismo español, que retoma el mito de Don Juan."
+  },
+  {
+    "id": 1040,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Autor de 'El periquillo sarniento', considerada la primera novela hispanoamericana:",
+    "opciones": {
+      "a": "Manuel Acuña",
+      "b": "Ignacio M. Altamirano",
+      "c": "José Joaquín Fernández de Lizardi",
+      "d": "Guillermo Prieto"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "'El Periquillo Sarniento' de Fernández de Lizardi es una novela picaresca que marca el inicio de la novelística en Hispanoamérica."
+  },
+  {
+    "id": 1041,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "La descripción del aspecto moral y psicológico de una persona se llama:",
+    "opciones": {
+      "a": "Prosopografía",
+      "b": "Etopeya",
+      "c": "Retrato",
+      "d": "Cronografía"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La etopeya se centra en describir el carácter, las costumbres y los rasgos morales y psicológicos de un personaje."
+  },
+  {
+    "id": 1042,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Cuando en una obra teatral los personajes participan en conflictos ligeros de manera burlesca o humorística, y tiene un final divertido, se trata de una:",
+    "opciones": {
+      "a": "Tragedia",
+      "b": "Comedia",
+      "c": "Drama",
+      "d": "Farsa"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La comedia busca provocar la risa del espectador a través de situaciones divertidas, personajes caricaturescos y un desenlace feliz."
+  },
+  {
+    "id": 1043,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "El 'Cantar de Mio Cid' es una obra representativa de la literatura medieval española, perteneciente al género de los:",
+    "opciones": {
+      "a": "Romances líricos",
+      "b": "Novelas de caballerías",
+      "c": "Cantares de gesta",
+      "d": "Autos sacramentales"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los cantares de gesta son poemas épicos medievales que narran las hazañas de héroes."
+  },
+  {
+    "id": 1044,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "El soneto 'Escrito está en mi alma vuestro gesto' fue escrito por el poeta renacentista español:",
+    "opciones": {
+      "a": "Juan Boscán",
+      "b": "Garcilaso de la Vega",
+      "c": "Fray Luis de León",
+      "d": "San Juan de la Cruz"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Garcilaso de la Vega fue uno de los poetas más importantes del Renacimiento español, introductor del soneto y otras formas italianas."
+  },
+  {
+    "id": 1045,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "Tipo de novela renacentista que narra, de manera autobiográfica, los esfuerzos del protagonista para sobrevivir y mejorar su condición de vida, a menudo usando triquiñuelas:",
+    "opciones": {
+      "a": "Pastoril",
+      "b": "De caballerías",
+      "c": "Picaresca",
+      "d": "Sentimental"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La novela picaresca se caracteriza por un protagonista de baja extracción social (pícaro) que narra sus peripecias en primera persona."
+  },
+  {
+    "id": 1046,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "El poema 'Cultivo una rosa blanca' de José Martí es un ejemplo de la sencillez y profundidad del:",
+    "opciones": {
+      "a": "Romanticismo",
+      "b": "Realismo",
+      "c": "Modernismo (en su vertiente más intimista)",
+      "d": "Barroco"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "José Martí, precursor del Modernismo, escribió poemas de gran lirismo y sencillez formal, como 'Versos Sencillos' donde se incluye este poema."
+  },
+  {
+    "id": 1047,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "La obra 'Nocturno a Rosario' de Manuel Acuña es una de las cumbres del _________ mexicano.",
+    "opciones": {
+      "a": "Modernismo",
+      "b": "Romanticismo",
+      "c": "Realismo",
+      "d": "Neoclasicismo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "'Nocturno a Rosario' es un poema emblemático del Romanticismo mexicano, cargado de pasión y desesperación amorosa."
+  },
+  {
+    "id": 1048,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "'Madame Bovary' de Gustave Flaubert es una obra representativa del:",
+    "opciones": {
+      "a": "Romanticismo francés",
+      "b": "Realismo francés",
+      "c": "Naturalismo francés",
+      "d": "Simbolismo francés"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "'Madame Bovary' es una novela fundamental del Realismo, conocida por su detallada descripción de la vida provincial y la psicología de sus personajes."
+  },
+  {
+    "id": 1049,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "La obra 'La duquesa Job' es de la autoría del modernista mexicano:",
+    "opciones": {
+      "a": "Amado Nervo",
+      "b": "Manuel Gutiérrez Nájera",
+      "c": "Salvador Díaz Mirón",
+      "d": "Enrique González Martínez"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Manuel Gutiérrez Nájera, conocido como 'El Duque Job', fue una figura importante del Modernismo en México."
+  },
+  {
+    "id": 1050,
+    "materia": "Español (Ámbito: Literatura)",
+    "pregunta": "El lema 'Tuércele el cuello al cisne' pertenece a un poema de Enrique González Martínez y simboliza una reacción contra los excesos de qué movimiento?",
+    "opciones": {
+      "a": "Romanticismo",
+      "b": "Realismo",
+      "c": "Modernismo (en su fase más preciosista)",
+      "d": "Vanguardismo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Este verso representa un llamado a superar el esteticismo y el exotismo del Modernismo más superficial, buscando una poesía más profunda y reflexiva."
+  }
+]

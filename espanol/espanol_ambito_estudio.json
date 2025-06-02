@@ -1,0 +1,1172 @@
+[
+  {
+    "id": 901,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "¿Cuál es el propósito principal de los textos literarios?",
+    "opciones": {
+      "a": "Informar sobre sucesos de actualidad.",
+      "b": "Explicar fenómenos científicos de manera comprensible.",
+      "c": "Impresionar al lector provocando sentimientos, con una intención artística.",
+      "d": "Presentar argumentos para convencer sobre una tesis."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los textos literarios buscan provocar un deleite estético y despertar sentimientos en el lector a través de un uso artístico del lenguaje."
+  },
+  {
+    "id": 902,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "La noticia, el reportaje y la crónica son ejemplos de textos:",
+    "opciones": {
+      "a": "Literarios",
+      "b": "Científicos",
+      "c": "De divulgación",
+      "d": "Periodísticos"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Estos géneros son característicos de los textos periodísticos, cuyo fin es informar sobre sucesos de importancia para la sociedad."
+  },
+  {
+    "id": 903,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Textos que tienen semejanza con los científicos y técnicos, pero su lenguaje es más comprensible y se dirigen a un público no especializado:",
+    "opciones": {
+      "a": "Textos literarios",
+      "b": "Textos de divulgación",
+      "c": "Textos argumentativos",
+      "d": "Textos instructivos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los textos de divulgación buscan hacer accesible el conocimiento científico y técnico a un público amplio."
+  },
+  {
+    "id": 904,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "¿Cuál de las siguientes es una parte externa de un libro?",
+    "opciones": {
+      "a": "Prólogo",
+      "b": "Índice",
+      "c": "Lomo",
+      "d": "Epílogo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El lomo es el borde por donde se sujetan las páginas y contiene datos generales del volumen, siendo una parte externa."
+  },
+  {
+    "id": 905,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "En las partes internas de un libro, ¿cuál es la página que comenta o aclara el contenido de la obra?",
+    "opciones": {
+      "a": "Portada",
+      "b": "Índice",
+      "c": "Prólogo",
+      "d": "Colofón"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El prólogo es un escrito preliminar que presenta la obra, sus intenciones o el contexto en que fue creada."
+  },
+  {
+    "id": 906,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "La lista de los capítulos de una obra con indicación de las páginas donde aparecen se encuentra en el:",
+    "opciones": {
+      "a": "Apéndice",
+      "b": "Índice",
+      "c": "Glosario",
+      "d": "Bibliografía"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El índice facilita la localización de los contenidos dentro de un libro, listando los capítulos y sus páginas."
+  },
+  {
+    "id": 907,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Técnica de comprensión de lectura que consiste en reducir un texto empleando las palabras del autor:",
+    "opciones": {
+      "a": "Paráfrasis",
+      "b": "Cuadro sinóptico",
+      "c": "Resumen",
+      "d": "Mapa conceptual"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El resumen extrae las ideas principales de un texto y las presenta de forma concisa, manteniendo el lenguaje del autor."
+  },
+  {
+    "id": 908,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "La característica más sobresaliente del cuadro sinóptico es la utilización de ________ para indicar las relaciones entre conceptos.",
+    "opciones": {
+      "a": "Párrafos extensos",
+      "b": "Citas textuales",
+      "c": "Llaves o corchetes",
+      "d": "Narraciones detalladas"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los cuadros sinópticos utilizan llaves o corchetes para organizar y jerarquizar la información de manera visual."
+  },
+  {
+    "id": 909,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Consiste en explicar o interpretar un texto difícil mediante el empleo de sinónimos y analogías:",
+    "opciones": {
+      "a": "Resumen literal",
+      "b": "Cita directa",
+      "c": "Paráfrasis",
+      "d": "Transcripción"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La paráfrasis reexpresa un texto con palabras propias para hacerlo más comprensible, manteniendo el significado original."
+  },
+  {
+    "id": 910,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Forma de expresión oral donde varios ponentes discuten sobre un tema determinado, dirigidos por un moderador:",
+    "opciones": {
+      "a": "Monólogo",
+      "b": "Conferencia",
+      "c": "Debate",
+      "d": "Entrevista"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El debate es una discusión formal en la que diferentes partes exponen y defienden sus puntos de vista sobre un tema controversial."
+  },
+  {
+    "id": 911,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "En un debate, ¿quién otorga la palabra y controla los tiempos?",
+    "opciones": {
+      "a": "El ponente principal",
+      "b": "El público",
+      "c": "El moderador",
+      "d": "El secretario"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El moderador es el encargado de guiar la discusión, asegurar la participación equitativa y mantener el orden en un debate."
+  },
+  {
+    "id": 912,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Técnica grupal en la que 3 o más personas (nunca más de 6) exponen su punto de vista acerca de un tema, con un moderador y preguntas del público:",
+    "opciones": {
+      "a": "Simposio",
+      "b": "Panel",
+      "c": "Mesa redonda",
+      "d": "Foro"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La mesa redonda permite que un grupo de expertos exponga diferentes perspectivas sobre un tema ante una audiencia."
+  },
+  {
+    "id": 913,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Las palabras que tienen igual o semejante significado se llaman:",
+    "opciones": {
+      "a": "Antónimos",
+      "b": "Homónimos",
+      "c": "Sinónimos",
+      "d": "Parónimos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los sinónimos son palabras con significados iguales o muy parecidos (ej. burro, asno)."
+  },
+  {
+    "id": 914,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Palabras en las que se advierte una relación de contraste en su significado (ej. guerra - paz):",
+    "opciones": {
+      "a": "Sinónimos",
+      "b": "Antónimos",
+      "c": "Homófonos",
+      "d": "Polisémicas"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los antónimos son palabras que expresan ideas opuestas o contrarias."
+  },
+  {
+    "id": 915,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Palabras que tienen idéntica escritura pero su significado es distinto (ej. saco de vestir, saco de cemento, yo saco la basura):",
+    "opciones": {
+      "a": "Homófonos",
+      "b": "Parónimos",
+      "c": "Homónimos (homógrafos)",
+      "d": "Sinónimos estrictos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los homónimos homógrafos se escriben igual pero tienen diferentes significados."
+  },
+  {
+    "id": 916,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Palabras que se pronuncian igual, pero su escritura y su significado son diferentes (ej. bote de basura, vote por él):",
+    "opciones": {
+      "a": "Homónimos (homógrafos)",
+      "b": "Antónimos graduales",
+      "c": "Sinónimos conceptuales",
+      "d": "Homófonos"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Los homófonos suenan igual al pronunciarse, pero se escriben de forma diferente y tienen distintos significados."
+  },
+  {
+    "id": 917,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "¿Qué tipo de oración expresa o plantea una pregunta y generalmente se escribe entre signos de interrogación?",
+    "opciones": {
+      "a": "Declarativa",
+      "b": "Exclamativa",
+      "c": "Imperativa",
+      "d": "Interrogativa"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Las oraciones interrogativas se utilizan para formular preguntas."
+  },
+  {
+    "id": 918,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "La oración '¡Qué bello día!' es un ejemplo de oración:",
+    "opciones": {
+      "a": "Declarativa",
+      "b": "Interrogativa",
+      "c": "Exclamativa",
+      "d": "Imperativa"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las oraciones exclamativas expresan algún sentimiento o estado emocional como alegría, sorpresa o pesar."
+  },
+  {
+    "id": 919,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Las oraciones que expresan idea de mandato, ruego o consejo (ej. 'Tomad y bebed todos de él') son:",
+    "opciones": {
+      "a": "Declarativas",
+      "b": "Interrogativas",
+      "c": "Exclamativas",
+      "d": "Imperativas"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Las oraciones imperativas se usan para dar órdenes, hacer peticiones o dar consejos."
+  },
+  {
+    "id": 920,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "En la oración 'El maestro explica la clase a sus alumnos', ¿cuál es el sujeto?",
+    "opciones": {
+      "a": "explica la clase",
+      "b": "a sus alumnos",
+      "c": "El maestro",
+      "d": "la clase"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El sujeto es el elemento de quien se habla en la oración; en este caso, 'El maestro' es quien realiza la acción de explicar."
+  },
+  {
+    "id": 921,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "La posibilidad de cambiar de sitio los elementos de la oración, como cuando el sujeto va en medio o al final, se llama:",
+    "opciones": {
+      "a": "Concordancia",
+      "b": "Hipérbaton",
+      "c": "Elipsis",
+      "d": "Pleonasmo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El hipérbaton es la alteración del orden sintáctico habitual de las palabras en una frase."
+  },
+  {
+    "id": 922,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Cuando el sujeto no aparece en la oración pero se sobreentiende por la conjugación del verbo, se llama sujeto:",
+    "opciones": {
+      "a": "Explícito",
+      "b": "Compuesto",
+      "c": "Morfológico o tácito",
+      "d": "Agente"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El sujeto morfológico (tácito, omitido o elíptico) no está expreso en la oración pero se infiere por la desinencia verbal."
+  },
+  {
+    "id": 923,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "La expresión que indica lo que se dice del sujeto en una oración es el:",
+    "opciones": {
+      "a": "Núcleo del sujeto",
+      "b": "Predicado",
+      "c": "Complemento directo",
+      "d": "Modificador adverbial"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El predicado es la parte de la oración que expresa lo que se dice o se predica del sujeto."
+  },
+  {
+    "id": 924,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Palabra más importante del predicado, que expresa acción, esencia, estado o proceso:",
+    "opciones": {
+      "a": "Sustantivo",
+      "b": "Adjetivo",
+      "c": "Verbo (núcleo del predicado)",
+      "d": "Adverbio"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El verbo es el núcleo del predicado y concuerda en número y persona con el sujeto."
+  },
+  {
+    "id": 925,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Complemento verbal que recibe directamente la acción del verbo y se localiza preguntando ¿qué? al verbo:",
+    "opciones": {
+      "a": "Objeto indirecto",
+      "b": "Objeto directo",
+      "c": "Complemento circunstancial",
+      "d": "Atributo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El objeto directo (o complemento directo) es el elemento que recibe directamente la acción expresada por el verbo transitivo."
+  },
+  {
+    "id": 926,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "En la oración 'Mi papá compró muchas golosinas para los niños', ¿cuál es el objeto indirecto?",
+    "opciones": {
+      "a": "Mi papá",
+      "b": "muchas golosinas",
+      "c": "para los niños",
+      "d": "compró"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El objeto indirecto es el destinatario de la acción; se localiza preguntando ¿a quién? o ¿para quién? al verbo. Aquí es 'para los niños'."
+  },
+  {
+    "id": 927,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Complemento verbal que le añade a la acción la idea de modo, tiempo, lugar, causa, finalidad, etc.:",
+    "opciones": {
+      "a": "Objeto directo",
+      "b": "Objeto indirecto",
+      "c": "Modificador circunstancial",
+      "d": "Sujeto morfológico"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El modificador o complemento circunstancial expresa las circunstancias en que se realiza la acción verbal (tiempo, lugar, modo, etc.)."
+  },
+  {
+    "id": 928,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "El estudio del verbo desde el ángulo de su significado (acción, esencia, estado o proceso) es el criterio:",
+    "opciones": {
+      "a": "Sintáctico",
+      "b": "Morfológico",
+      "c": "Semántico",
+      "d": "Fonológico"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El criterio semántico se refiere al significado de las palabras y las relaciones de significado entre ellas."
+  },
+  {
+    "id": 929,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Los accidentes gramaticales del verbo que le dan idea de modo, tiempo, número y persona competen al estudio:",
+    "opciones": {
+      "a": "Morfológico (conjugación)",
+      "b": "Semántico",
+      "c": "Sintáctico",
+      "d": "Pragmático"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La morfología estudia la estructura interna de las palabras y sus variaciones, como las conjugaciones verbales."
+  },
+  {
+    "id": 930,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "¿Cuál modo verbal expresa hechos reales?",
+    "opciones": {
+      "a": "Subjuntivo",
+      "b": "Imperativo",
+      "c": "Indicativo",
+      "d": "Condicional"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El modo indicativo se utiliza para expresar acciones, estados o procesos que se consideran reales o ciertos."
+  },
+  {
+    "id": 931,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "El modo verbal que se utiliza para expresar órdenes o ruegos dirigidos hacia la segunda persona es el:",
+    "opciones": {
+      "a": "Indicativo",
+      "b": "Subjuntivo",
+      "c": "Imperativo",
+      "d": "Infinitivo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El modo imperativo se usa para dar órdenes, mandatos, ruegos o instrucciones."
+  },
+  {
+    "id": 932,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "En la conjugación del verbo 'estudiar' en modo indicativo, la forma 'estudié' corresponde al tiempo:",
+    "opciones": {
+      "a": "Presente",
+      "b": "Pretérito (perfecto simple)",
+      "c": "Futuro",
+      "d": "Copretérito (pretérito imperfecto)"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "'Estudié' es la primera persona del singular del pretérito perfecto simple (o pretérito indefinido) del modo indicativo."
+  },
+  {
+    "id": 933,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Los tiempos compuestos del verbo se forman con la ayuda del verbo auxiliar:",
+    "opciones": {
+      "a": "Ser",
+      "b": "Estar",
+      "c": "Haber",
+      "d": "Tener"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los tiempos compuestos se forman con el verbo auxiliar 'haber' conjugado más el participio del verbo principal."
+  },
+  {
+    "id": 934,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "En el estudio de la ortografía, la diferencia numérica entre fonemas y grafías puede dificultar el empleo correcto de letras como:",
+    "opciones": {
+      "a": "m, p, t",
+      "b": "a, e, o",
+      "c": "b, v; c, s, z; g, j",
+      "d": "l, r, n"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Estas letras representan sonidos que pueden confundirse (ej. b/v) o tener múltiples representaciones (ej. sonido /k/ con c o qu), lo que genera dudas ortográficas."
+  },
+  {
+    "id": 935,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Desde 1994, la Real Academia Española dispuso que 'ch' y 'll' dejaran de considerarse letras independientes y pasaran a ser:",
+    "opciones": {
+      "a": "Vocales especiales",
+      "b": "Dígrafos",
+      "c": "Prefijos",
+      "d": "Sufijos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Un dígrafo es un grupo de dos letras que representan un solo fonema (sonido)."
+  },
+  {
+    "id": 936,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "El acento que se detecta en la sílaba que se pronuncia con mayor intensidad (tónica), pero no siempre se escribe, es el acento:",
+    "opciones": {
+      "a": "Ortográfico o tilde",
+      "b": "Prosódico",
+      "c": "Diacrítico",
+      "d": "Enfático"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El acento prosódico es el mayor relieve con que se pronuncia una sílaba dentro de una palabra, independientemente de si lleva tilde o no."
+  },
+  {
+    "id": 937,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Las palabras agudas llevan tilde cuando terminan en:",
+    "opciones": {
+      "a": "Cualquier consonante",
+      "b": "Vocal solamente",
+      "c": "n, s o vocal",
+      "d": "Consonante que no sea n ni s"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las palabras agudas (acento en la última sílaba) se tildan si terminan en -n, -s o vocal."
+  },
+  {
+    "id": 938,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Las palabras graves o llanas llevan tilde cuando:",
+    "opciones": {
+      "a": "Terminan en n, s o vocal",
+      "b": "Terminan en cualquier vocal",
+      "c": "Terminan en consonante que no sea n ni s",
+      "d": "Siempre llevan tilde"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las palabras graves (acento en la penúltima sílaba) se tildan si no terminan en -n, -s o vocal."
+  },
+  {
+    "id": 939,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Las palabras esdrújulas (acento en la antepenúltima sílaba):",
+    "opciones": {
+      "a": "Nunca llevan tilde",
+      "b": "Llevan tilde solo si terminan en vocal",
+      "c": "Siempre llevan tilde",
+      "d": "Llevan tilde solo si terminan en n o s"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Todas las palabras esdrújulas y sobresdrújulas se acentúan gráficamente (llevan tilde)."
+  },
+  {
+    "id": 940,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "El acento que se usa en palabras como 'qué', 'quién', 'cómo', 'dónde' cuando se emplean en oraciones interrogativas o exclamativas es el acento:",
+    "opciones": {
+      "a": "Prosódico",
+      "b": "Diacrítico",
+      "c": "Enfático",
+      "d": "Ortográfico común"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El acento enfático se utiliza para dar énfasis en preguntas o exclamaciones a estos pronombres, adverbios o adjetivos interrogativos/exclamativos."
+  },
+  {
+    "id": 941,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "La tilde que sirve para diferenciar las funciones de los monosílabos (ej. 'tu' adjetivo vs 'tú' pronombre) se llama acento:",
+    "opciones": {
+      "a": "Enfático",
+      "b": "Prosódico",
+      "c": "Diacrítico",
+      "d": "Ortográfico general"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El acento diacrítico se usa para distinguir palabras que se escriben igual pero tienen significados o funciones gramaticales diferentes."
+  },
+  {
+    "id": 942,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "¿Cuál de los siguientes es un signo de puntuación que indica una pausa breve?",
+    "opciones": {
+      "a": "Punto",
+      "b": "Coma",
+      "c": "Dos puntos",
+      "d": "Puntos suspensivos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La coma se utiliza para indicar una pausa breve dentro de una oración, separar elementos de una enumeración, etc."
+  },
+  {
+    "id": 943,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Signo de puntuación que se emplea para separar oraciones que abordan el mismo tema o cuando se cambia ligeramente el tema y se inicia en otro renglón:",
+    "opciones": {
+      "a": "Coma",
+      "b": "Punto y coma",
+      "c": "Punto (y seguido, y aparte)",
+      "d": "Dos puntos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El punto y seguido separa oraciones dentro de un mismo párrafo; el punto y aparte separa párrafos distintos."
+  },
+  {
+    "id": 944,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Se usan para indicar el principio y el final de frases textuales o para señalar palabras extranjeras:",
+    "opciones": {
+      "a": "Paréntesis",
+      "b": "Guiones",
+      "c": "Comillas",
+      "d": "Corchetes"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las comillas se utilizan para enmarcar citas textuales, títulos de obras, palabras con sentido irónico o especial, o extranjerismos."
+  },
+  {
+    "id": 945,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Signo de puntuación doble que se escribe al principio y al final de la expresión para formular preguntas:",
+    "opciones": {
+      "a": "Signos de admiración",
+      "b": "Signos de interrogación",
+      "c": "Comillas",
+      "d": "Paréntesis"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los signos de interrogación (¿?) se utilizan para delimitar enunciados interrogativos directos."
+  },
+  {
+    "id": 946,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Se escriben con 'b' las palabras que lleven las sílabas:",
+    "opciones": {
+      "a": "va, ve, vi, vo, vu",
+      "b": "za, ce, ci, zo, zu",
+      "c": "bla, ble, bli, blo, blu y bra, bre, bri, bro, bru",
+      "d": "ja, je, ji, jo, ju"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Es una regla ortográfica del uso de la 'b' el escribirla en sílabas trabadas como 'bla' o 'bra'."
+  },
+  {
+    "id": 947,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Los verbos terminados en '-bir' (excepto hervir, servir, vivir) se escriben con:",
+    "opciones": {
+      "a": "b",
+      "b": "v",
+      "c": "h",
+      "d": "g"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Ejemplos: escribir, recibir, prohibir. Es una regla del uso de la 'b'."
+  },
+  {
+    "id": 948,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Se escriben con 'v' los adjetivos terminados en:",
+    "opciones": {
+      "a": "-oso, -osa",
+      "b": "-ava, -ave, -avo, -eva, -eve, -evo, -iva, -ivo",
+      "c": "-able, -ible",
+      "d": "-ísimo, -ísima"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Ejemplos: octava, suave, nuevo, activa. Excepto árabe y sílaba."
+  },
+  {
+    "id": 949,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Los verbos terminados en '-cer' y '-cir' (excepto ser, coser, toser y asir) se escriben con:",
+    "opciones": {
+      "a": "s",
+      "b": "z",
+      "c": "c",
+      "d": "x"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Ejemplos: nacer, ofrecer, decir, conducir. Es una regla del uso de la 'c'."
+  },
+  {
+    "id": 950,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Se escriben con 's' los adjetivos terminados en:",
+    "opciones": {
+      "a": "-az, -ez, -iz, -oz",
+      "b": "-sivo, -siva (excepto nocivo, lascivo)",
+      "c": "-ancia, -encia",
+      "d": "-aje, -eje"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Ejemplos: progresivo, expansivo, decisivo. Es una regla del uso de la 's'."
+  },
+  {
+    "id": 951,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Las palabras que terminan en '-azo' con sentido de aumentativo, de alabanza o de golpe, se escriben con:",
+    "opciones": {
+      "a": "s",
+      "b": "c",
+      "c": "z",
+      "d": "x"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Ejemplos: hombrazo, abogadazo, puñetazo. Es una regla del uso de la 'z'."
+  },
+  {
+    "id": 952,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Se escriben con 'g' las palabras que empiezan con 'germ' o 'gest', como:",
+    "opciones": {
+      "a": "Jeringa, jesuita",
+      "b": "Germen, gesto, gestación",
+      "c": "Jefe, jinete",
+      "d": "Legislación, legítimo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Es una regla ortográfica del uso de la 'g'."
+  },
+  {
+    "id": 953,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Se escriben con 'j' los sustantivos terminados en:",
+    "opciones": {
+      "a": "-gía, -gio",
+      "b": "-aje (ej. porcentaje, lenguaje)",
+      "c": "-ger, -gir",
+      "d": "-gésimo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Es una regla ortográfica del uso de la 'j'."
+  },
+  {
+    "id": 954,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "La 'h' es una letra que:",
+    "opciones": {
+      "a": "Siempre tiene sonido fuerte.",
+      "b": "No tiene sonido (es muda), salvo en algunos extranjerismos.",
+      "c": "Suena como 'j' al inicio de palabra.",
+      "d": "Se usa solo en combinación con la 'c'."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "En español, la 'h' generalmente no representa ningún sonido, aunque se mantiene por etimología."
+  },
+  {
+    "id": 955,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Se escriben con 'h' las palabras que empiezan con los diptongos:",
+    "opciones": {
+      "a": "ai, ei, oi",
+      "b": "au, eu, ou",
+      "c": "ia, ie, ue, ui",
+      "d": "Todas las anteriores"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Ejemplos: hiato, hielo, hueso, huir. Es una regla del uso de la 'h'."
+  },
+  {
+    "id": 956,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Las palabras que terminan con sonido de vocal 'i', pero no son agudas acentuadas en 'í', generalmente se escriben con:",
+    "opciones": {
+      "a": "ll",
+      "b": "y (ley, rey, maguey)",
+      "c": "i latina",
+      "d": "h"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Esta es una regla para el uso de la 'y' al final de palabra con sonido /i/."
+  },
+  {
+    "id": 957,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Se escriben con 'll' los diminutivos terminados en:",
+    "opciones": {
+      "a": "-ito, -ita",
+      "b": "-uelo, -uela",
+      "c": "-illo, -illa, -cillo, -cilla (pajarillo, plantilla)",
+      "d": "-ín, -ina"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Es una regla ortográfica común para el uso de la 'll'."
+  },
+  {
+    "id": 958,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Las letras de mayor tamaño que se usan al iniciar un escrito, después de punto, o en nombres propios, son las:",
+    "opciones": {
+      "a": "Minúsculas",
+      "b": "Cursivas",
+      "c": "Mayúsculas",
+      "d": "Negritas"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las mayúsculas se utilizan para destacar el inicio de textos, nombres propios y en otras situaciones específicas."
+  },
+  {
+    "id": 959,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "La expresión disminuida de una palabra o frase, que generalmente termina en punto, se llama:",
+    "opciones": {
+      "a": "Sigla",
+      "b": "Acrónimo",
+      "c": "Abreviatura",
+      "d": "Símbolo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Una abreviatura es la representación escrita de una o varias palabras mediante una o varias de sus letras."
+  },
+  {
+    "id": 960,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Las abreviaturas que se forman con las iniciales de las palabras que integran el nombre de instituciones u organismos se llaman:",
+    "opciones": {
+      "a": "Acrónimos",
+      "b": "Siglas",
+      "c": "Logotipos",
+      "d": "Marcas"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las siglas se forman con las letras iniciales de los términos que componen una expresión compleja (ej. ONU por Organización de las Naciones Unidas)."
+  },
+  {
+    "id": 961,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "La palabra que se emplea para designar seres, objetos, sentimientos, etc., y funciona como núcleo del sujeto, es el:",
+    "opciones": {
+      "a": "Verbo",
+      "b": "Adjetivo",
+      "c": "Sustantivo",
+      "d": "Artículo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El sustantivo (o nombre) es la categoría gramatical que nombra entidades, personas, lugares, cosas, ideas, etc."
+  },
+  {
+    "id": 962,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Sustantivos como 'mesa', 'lápiz', 'pluma', que pueden representarse gráficamente y tienen forma y dimensiones, son:",
+    "opciones": {
+      "a": "Abstractos",
+      "b": "Concretos",
+      "c": "Colectivos",
+      "d": "Propios"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los sustantivos concretos designan seres u objetos que se pueden percibir por los sentidos."
+  },
+  {
+    "id": 963,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Sustantivos como 'amor', 'odio', 'libertad', que carecen de forma y no pueden representarse gráficamente, son:",
+    "opciones": {
+      "a": "Concretos",
+      "b": "Propios",
+      "c": "Comunes",
+      "d": "Abstractos"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Los sustantivos abstractos designan ideas, cualidades, sentimientos o conceptos que no tienen una existencia física tangible."
+  },
+  {
+    "id": 964,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Sustantivos que nombran seres o cosas distinguiéndolas de las demás de su misma especie (ej. Guadalajara, Luis):",
+    "opciones": {
+      "a": "Comunes",
+      "b": "Propios",
+      "c": "Colectivos",
+      "d": "Individuales"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los sustantivos propios identifican a un ser o entidad de manera individual y se escriben con mayúscula inicial."
+  },
+  {
+    "id": 965,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Sustantivos que, estando en singular, dan idea de pluralidad (ej. ejército, rebaño):",
+    "opciones": {
+      "a": "Individuales",
+      "b": "Colectivos",
+      "c": "Abstractos",
+      "d": "Contables"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los sustantivos colectivos nombran en singular a un conjunto de seres u objetos de la misma especie."
+  },
+  {
+    "id": 966,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "El modificador que acompaña al sustantivo para calificarlo o determinarlo y concuerda en género y número es el:",
+    "opciones": {
+      "a": "Artículo",
+      "b": "Verbo",
+      "c": "Adjetivo",
+      "d": "Adverbio"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El adjetivo es la palabra que expresa cualidades, propiedades o estados del sustantivo al que modifica."
+  },
+  {
+    "id": 967,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Adjetivos como 'mi', 'tu', 'su', 'nuestro', 'vuestro', que indican posesión o pertenencia, son:",
+    "opciones": {
+      "a": "Demostrativos",
+      "b": "Posesivos",
+      "c": "Numerales",
+      "d": "Indefinidos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los adjetivos posesivos señalan a quién pertenece el sustantivo modificado."
+  },
+  {
+    "id": 968,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "La palabra que se antepone al sustantivo para anunciar su género y su número (ej. el, la, los, las) es el:",
+    "opciones": {
+      "a": "Pronombre",
+      "b": "Adjetivo",
+      "c": "Artículo",
+      "d": "Preposición"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El artículo es un determinante que precede al sustantivo para indicar si es conocido o desconocido, y concuerda en género y número."
+  },
+  {
+    "id": 969,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Cuando un sustantivo femenino singular comienza con 'a' tónica (acentuada), se le antepone el artículo masculino:",
+    "opciones": {
+      "a": "un",
+      "b": "la",
+      "c": "el (ej. el agua, el águila)",
+      "d": "una"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Esto se hace para evitar la cacofonía (sonido desagradable) que produciría 'la agua' o 'la águila'."
+  },
+  {
+    "id": 970,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Palabra que desempeña la misma función del sustantivo y lo reemplaza, evitando su repetición:",
+    "opciones": {
+      "a": "Adverbio",
+      "b": "Conjunción",
+      "c": "Pronombre",
+      "d": "Interjección"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El pronombre sustituye al sustantivo o a un sintagma nominal, desempeñando sus mismas funciones sintácticas."
+  },
+  {
+    "id": 971,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Pronombres como 'éste', 'ése', 'aquél', que indican o señalan, se clasifican como:",
+    "opciones": {
+      "a": "Personales",
+      "b": "Posesivos",
+      "c": "Demostrativos",
+      "d": "Indefinidos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los pronombres demostrativos indican la proximidad o lejanía del sustantivo al que se refieren con respecto al hablante."
+  },
+  {
+    "id": 972,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Los pronombres 'me', 'nos', 'te', 'lo', 'la', que se anteponen al verbo, son:",
+    "opciones": {
+      "a": "Enclíticos",
+      "b": "Proclíticos",
+      "c": "Tónicos",
+      "d": "Reflexivos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los pronombres átonos que preceden al verbo se denominan proclíticos."
+  },
+  {
+    "id": 973,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Las formas pronominales como 'conmigo', 'contigo', 'consigo' se forman con la preposición 'con' más el pronombre personal:",
+    "opciones": {
+      "a": "Yo, Tú, Él/Ella/Ello",
+      "b": "Mí, Ti, Sí",
+      "c": "Nosotros, Vosotros, Ellos/Ellas",
+      "d": "Me, Te, Se"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Estas son formas especiales que combinan la preposición 'con' con los pronombres personales tónicos mí, ti, sí."
+  },
+  {
+    "id": 974,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Categoría gramatical invariable que sirve para relacionar dos palabras e indica la dependencia que hay entre ellas (ej. a, ante, bajo, con):",
+    "opciones": {
+      "a": "Conjunción",
+      "b": "Preposición",
+      "c": "Adverbio",
+      "d": "Interjección"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las preposiciones son nexos subordinantes que establecen una relación de dependencia entre un término y su complemento."
+  },
+  {
+    "id": 975,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Las palabras 'al' y 'del' son ejemplos de:",
+    "opciones": {
+      "a": "Preposiciones simples",
+      "b": "Conjunciones coordinantes",
+      "c": "Contracciones (preposición + artículo)",
+      "d": "Adverbios de lugar"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "'Al' es la contracción de 'a + el', y 'del' es la contracción de 'de + el'."
+  },
+  {
+    "id": 976,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Cada una de las partes de un escrito que se separa del resto con un punto y aparte, comenzando con mayúscula y generalmente con sangría, es un:",
+    "opciones": {
+      "a": "Enunciado",
+      "b": "Párrafo",
+      "c": "Capítulo",
+      "d": "Verso"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El párrafo es una unidad de texto que desarrolla una idea principal o un aspecto específico de un tema."
+  },
+  {
+    "id": 977,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "En un texto informativo, el párrafo que expone o presenta el tema del escrito es el párrafo de:",
+    "opciones": {
+      "a": "Desarrollo",
+      "b": "Conclusión",
+      "c": "Introducción",
+      "d": "Transición"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El párrafo de introducción tiene como función presentar el tema, captar el interés del lector y, a menudo, exponer la tesis o idea principal."
+  },
+  {
+    "id": 978,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Oración que logra transmitir un mensaje completo utilizando un solo núcleo, tanto en el sujeto como en el predicado:",
+    "opciones": {
+      "a": "Oración compuesta coordinada",
+      "b": "Oración compuesta subordinada",
+      "c": "Oración simple",
+      "d": "Frase nominal"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Una oración simple contiene un solo verbo conjugado (un solo predicado)."
+  },
+  {
+    "id": 979,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Oraciones que participan en el enunciado manteniendo el mismo nivel sintáctico y son independientes, unidas por conjunciones como 'y', 'o', 'pero':",
+    "opciones": {
+      "a": "Oraciones subordinadas adverbiales",
+      "b": "Oraciones coordinadas",
+      "c": "Oraciones subordinadas sustantivas",
+      "d": "Oraciones unimembres"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las oraciones coordinadas son sintácticamente independientes y se unen mediante nexos coordinantes."
+  },
+  {
+    "id": 980,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "En la oración 'Juan estudia y Pedro trabaja', el nexo 'y' indica una oración coordinada de tipo:",
+    "opciones": {
+      "a": "Disyuntiva",
+      "b": "Adversativa",
+      "c": "Copulativa",
+      "d": "Causal"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las conjunciones copulativas (y, e, ni) unen elementos sumando sus significados."
+  },
+  {
+    "id": 981,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Las oraciones que dependen de otra llamada oración principal, y se unen por nexos subordinantes, son:",
+    "opciones": {
+      "a": "Coordinadas",
+      "b": "Subordinadas",
+      "c": "Yuxtapuestas",
+      "d": "Simples"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las oraciones subordinadas dependen sintácticamente de una oración principal y desempeñan una función dentro de ella."
+  },
+  {
+    "id": 982,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "El significado intrínseco de una palabra, el que nuestra mente reconoce en ella sin un contexto específico, se relaciona con la:",
+    "opciones": {
+      "a": "Connotación",
+      "b": "Denotación",
+      "c": "Polisemia",
+      "d": "Homonimia"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La denotación es el significado literal u objetivo de una palabra, tal como lo define el diccionario."
+  },
+  {
+    "id": 983,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Cuando el significado de una palabra atiende más a la intención del hablante que al significado directo, dándole una interpretación subjetiva, se habla de:",
+    "opciones": {
+      "a": "Denotación",
+      "b": "Connotación",
+      "c": "Sinonimia",
+      "d": "Antonimia"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La connotación se refiere a los significados secundarios, subjetivos o culturales asociados a una palabra, más allá de su sentido literal."
+  },
+  {
+    "id": 984,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "Las papeletas o tarjetas en las que se registran los datos o la información que se va obteniendo durante una investigación son:",
+    "opciones": {
+      "a": "Apuntes de clase",
+      "b": "Fichas (bibliográficas, de trabajo, etc.)",
+      "c": "Resúmenes ejecutivos",
+      "d": "Índices temáticos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las fichas son herramientas para organizar y registrar información de manera sistemática durante un proceso de investigación."
+  },
+  {
+    "id": 985,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "La ficha que registra los datos de identificación de un libro (autor, título, editorial, etc.) es una ficha:",
+    "opciones": {
+      "a": "De resumen",
+      "b": "De síntesis",
+      "c": "Bibliográfica",
+      "d": "Hemerográfica"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La ficha bibliográfica contiene los datos esenciales para identificar y localizar una fuente de información como un libro."
+  },
+  {
+    "id": 986,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "La ficha de trabajo donde se registra el contenido de varios párrafos o un capítulo empleando las mismas palabras del autor es una ficha de:",
+    "opciones": {
+      "a": "Síntesis",
+      "b": "Resumen",
+      "c": "Comentario",
+      "d": "Cita textual"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La ficha de resumen condensa las ideas principales de un texto utilizando el lenguaje del autor original."
+  },
+  {
+    "id": 987,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "La diferencia entre una ficha de resumen y una de síntesis es que en la de síntesis, el texto se redacta con:",
+    "opciones": {
+      "a": "Las mismas palabras del autor",
+      "b": "Palabras del investigador",
+      "c": "Citas directas únicamente",
+      "d": "Un lenguaje más técnico"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La ficha de síntesis reelabora la información con las propias palabras del investigador, interpretando y conectando las ideas del texto original."
+  },
+  {
+    "id": 988,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "La parte de la oración 'Comimos bastante tarde' es un ejemplo de:",
+    "opciones": {
+      "a": "Oración con sujeto explícito",
+      "b": "Oración con sujeto morfológico ('Nosotros')",
+      "c": "Oración impersonal",
+      "d": "Frase adverbial sin verbo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El sujeto 'Nosotros' está implícito en la conjugación del verbo 'Comimos'."
+  },
+  {
+    "id": 989,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "En 'Yo traje dos libros; tú, ninguno', la coma después de 'tú' indica:",
+    "opciones": {
+      "a": "Separación de elementos en una enumeración",
+      "b": "Inversión del orden normal de la oración",
+      "c": "Omisión de un verbo que se sobreentiende ('trajiste')",
+      "d": "Separación de una expresión intercalada"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La coma elíptica se usa para indicar la omisión de un verbo que ya ha sido mencionado o se sobreentiende."
+  },
+  {
+    "id": 990,
+    "materia": "Español (Ámbito: Estudio)",
+    "pregunta": "El uso del punto y coma es adecuado para separar oraciones que tienen sentido de proximidad o elementos de una enumeración cuando alguno ya lleva coma. ¿Cuál es un ejemplo correcto?",
+    "opciones": {
+      "a": "Fuimos al cine pero después cenamos en un café.",
+      "b": "El hombre soltó una carcajada; los niños huyeron de prisa.",
+      "c": "Son las 6:30 horas.",
+      "d": "Arturo, José Luis, Mario Alberto y Juan participaron."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El punto y coma une dos proposiciones relacionadas semánticamente pero que podrían ser oraciones independientes."
+  }
+]

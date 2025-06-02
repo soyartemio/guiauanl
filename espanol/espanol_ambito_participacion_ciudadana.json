@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1101,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "¿Cuáles son los medios que transmiten información a un número indeterminado, pero siempre numeroso, de personas?",
+    "opciones": {
+      "a": "Medios de comunicación interpersonal",
+      "b": "Medios de difusión masiva",
+      "c": "Redes sociales personales",
+      "d": "Correspondencia privada"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los medios de difusión masiva (prensa, radio, cine, televisión) están diseñados para alcanzar a grandes audiencias."
+  },
+  {
+    "id": 1102,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Medio de difusión masiva que emplea la expresión oral alternándola con música y otros aspectos de sonido, considerado el más popular por su alcance:",
+    "opciones": {
+      "a": "Prensa",
+      "b": "Radio",
+      "c": "Cine",
+      "d": "Televisión"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La radio utiliza el sonido para transmitir información y entretenimiento, y tiene una gran capacidad de penetración en diversas audiencias."
+  },
+  {
+    "id": 1103,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Medio de difusión masiva que tiene la facilidad de presentar imágenes, tanto fijas como en movimiento, cumpliendo funciones de informar, orientar y entretener:",
+    "opciones": {
+      "a": "Radio",
+      "b": "Prensa escrita",
+      "c": "Televisión",
+      "d": "Telégrafo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La televisión combina imágenes y sonido, lo que la convierte en un medio muy influyente y con gran capacidad de impacto."
+  },
+  {
+    "id": 1104,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Medio de comunicación que utiliza la forma escrita y, por su capacidad para intervenir en la formación de la opinión pública, es considerado el 'cuarto poder':",
+    "opciones": {
+      "a": "Radio",
+      "b": "Televisión",
+      "c": "Cine",
+      "d": "Prensa (diario o periódico)"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "La prensa escrita (periódicos y revistas) juega un papel crucial en la información y el debate público, influyendo en la opinión y siendo un contrapeso al poder."
+  },
+  {
+    "id": 1105,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Información de un suceso que, además de ser actual, es de interés para la comunidad y se caracteriza por su brevedad, objetividad y veracidad:",
+    "opciones": {
+      "a": "Crónica",
+      "b": "Entrevista",
+      "c": "Noticia",
+      "d": "Editorial"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La noticia es el género periodístico fundamental que informa de manera concisa y objetiva sobre un acontecimiento reciente y relevante."
+  },
+  {
+    "id": 1106,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Las preguntas básicas a las que debe responder una noticia son: ¿qué?, ¿quién?, ¿cómo?, ¿cuándo?, ¿dónde? y...?",
+    "opciones": {
+      "a": "¿Cuánto?",
+      "b": "¿Por qué?",
+      "c": "¿Para quién?",
+      "d": "¿Con qué?"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Estas seis preguntas (las 5 W + H en inglés: What, Who, When, Where, Why, How) son la base para construir una noticia completa."
+  },
+  {
+    "id": 1107,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Artículo periodístico en el que el autor hace comentarios personales sobre algunos hechos y los presenta desde su particular punto de vista, utilizando un lenguaje metafórico:",
+    "opciones": {
+      "a": "Noticia",
+      "b": "Crónica",
+      "c": "Reportaje",
+      "d": "Ensayo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La crónica combina la información con la interpretación y valoración personal del cronista, a menudo con un estilo literario."
+  },
+  {
+    "id": 1108,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Género periodístico que utiliza el diálogo como instrumento, donde el reportero formula preguntas a un personaje importante:",
+    "opciones": {
+      "a": "Editorial",
+      "b": "Crónica",
+      "c": "Noticia",
+      "d": "Entrevista"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "La entrevista es una conversación planificada entre un entrevistador y un entrevistado para obtener información u opiniones."
+  },
+  {
+    "id": 1109,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Parte inicial de una entrevista donde se habla del entrevistado y del tema principal, y suele ser breve:",
+    "opciones": {
+      "a": "Desarrollo",
+      "b": "Cierre",
+      "c": "Presentación",
+      "d": "Cuerpo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La presentación en una entrevista introduce al personaje entrevistado y el tema que se abordará."
+  },
+  {
+    "id": 1110,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Es el más completo de los artículos periodísticos, ya que en él se combinan los demás géneros y se publica para dar a conocer el resultado de una profunda investigación:",
+    "opciones": {
+      "a": "Noticia breve",
+      "b": "Columna de opinión",
+      "c": "Reportaje",
+      "d": "Editorial"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El reportaje es un trabajo periodístico de investigación exhaustiva sobre un tema de actualidad o interés, que puede incluir entrevistas, datos y análisis."
+  },
+  {
+    "id": 1111,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Artículo periodístico que refleja la postura ideológica del periódico y no se acostumbra anotar el nombre del autor, ya que su publicación es responsabilidad de todo el equipo:",
+    "opciones": {
+      "a": "Crónica",
+      "b": "Entrevista",
+      "c": "Reportaje",
+      "d": "Editorial"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El editorial expresa la opinión institucional del medio de comunicación sobre un tema de actualidad."
+  },
+  {
+    "id": 1112,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Pliego impreso que utiliza imágenes muy expresivas y textos cortos para transmitir un mensaje, generalmente pegado en paredes o tableros:",
+    "opciones": {
+      "a": "Folleto",
+      "b": "Volante",
+      "c": "Cartel",
+      "d": "Periódico mural"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El cartel es un medio de comunicación visual diseñado para transmitir un mensaje de manera rápida y efectiva a un público amplio."
+  },
+  {
+    "id": 1113,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Documentos que dan información sobre reglas, advertencias o recomendaciones para realizar una actividad o manejar un aparato:",
+    "opciones": {
+      "a": "Vales",
+      "b": "Recibos",
+      "c": "Instructivos",
+      "d": "Cartas"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los instructivos proporcionan una secuencia de pasos o indicaciones para llevar a cabo una tarea o utilizar un producto correctamente."
+  },
+  {
+    "id": 1114,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Documentos que se pueden canjear y establecen un compromiso de entregar o devolver algún objeto o cantidad en efectivo:",
+    "opciones": {
+      "a": "Instructivos",
+      "b": "Recibos",
+      "c": "Cartas personales",
+      "d": "Vales"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Un vale es un documento que acredita el derecho a recibir un bien, servicio o cantidad de dinero."
+  },
+  {
+    "id": 1115,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Documentos en los que se declara o se hace constar que se ha recibido dinero o especie:",
+    "opciones": {
+      "a": "Vales",
+      "b": "Recibos",
+      "c": "Instructivos",
+      "d": "Solicitudes"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Un recibo es un comprobante escrito de que se ha recibido algo, generalmente dinero o una mercancía."
+  },
+  {
+    "id": 1116,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "En una carta, la persona que envía el mensaje se llama:",
+    "opciones": {
+      "a": "Destinatario",
+      "b": "Cartero",
+      "c": "Remitente",
+      "d": "Receptor"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El remitente es la persona o entidad que envía la carta."
+  },
+  {
+    "id": 1117,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Las cartas que se intercambian entre personas que se dispensan un grado considerable de afectuosidad recíproca (amigos, parientes) son cartas:",
+    "opciones": {
+      "a": "Comerciales",
+      "b": "Oficiales",
+      "c": "Personales",
+      "d": "Circulares"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las cartas personales tienen un tono informal y tratan asuntos privados o afectivos."
+  },
+  {
+    "id": 1118,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "En una carta comercial, el dato impreso que encabeza el documento y contiene el nombre o razón social, logotipo y domicilio de la empresa es el:",
+    "opciones": {
+      "a": "Vocativo",
+      "b": "Membrete",
+      "c": "Antefirma",
+      "d": "Anexo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El membrete identifica a la empresa o institución que emite la carta comercial."
+  },
+  {
+    "id": 1119,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "¿Qué significa la abreviatura 'c.c.p.' que se usa en las cartas comerciales u oficiales?",
+    "opciones": {
+      "a": "Correo certificado prioritario",
+      "b": "Con copia para...",
+      "c": "Carta con porte pagado",
+      "d": "Comuníquese con prontitud"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "'c.c.p.' significa 'con copia para', indicando a quiénes más se envía una copia del documento."
+  },
+  {
+    "id": 1120,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "El proceso en el que un emisor intercambia experiencias (el mensaje) con los demás (los receptores) como consecuencia de una necesidad de expresión, es la:",
+    "opciones": {
+      "a": "Reflexión",
+      "b": "Comunicación",
+      "c": "Interpretación",
+      "d": "Meditación"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La comunicación es el proceso de transmisión e intercambio de mensajes entre un emisor y un receptor."
+  },
+  {
+    "id": 1121,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Lenguaje que emplea numerosas señales hechas con los dedos y las manos, apoyadas por actitudes corporales y gestos faciales:",
+    "opciones": {
+      "a": "Lenguaje pictográfico",
+      "b": "Lenguaje oral",
+      "c": "Lenguaje mímico (o de señas)",
+      "d": "Lenguaje escrito"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El lenguaje mímico o de señas utiliza gestos y expresiones corporales para comunicar."
+  },
+  {
+    "id": 1122,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "El uso individual que una persona hace del código colectivo (lengua) se llama:",
+    "opciones": {
+      "a": "Dialecto",
+      "b": "Jerga",
+      "c": "Habla",
+      "d": "Idioma"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El habla es la realización concreta e individual de la lengua por parte de un hablante."
+  },
+  {
+    "id": 1123,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Código de carácter regional, donde un país, además de su lengua oficial, puede tener varios de estos:",
+    "opciones": {
+      "a": "Lengua o idioma",
+      "b": "Habla",
+      "c": "Dialecto",
+      "d": "Argot"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un dialecto es una variante regional de una lengua, con particularidades fonéticas, léxicas y gramaticales."
+  },
+  {
+    "id": 1124,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "En el circuito del habla, la persona que trasmite el mensaje es el:",
+    "opciones": {
+      "a": "Receptor",
+      "b": "Canal",
+      "c": "Código",
+      "d": "Emisor"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El emisor es el punto de partida del proceso de comunicación, quien codifica y envía el mensaje."
+  },
+  {
+    "id": 1125,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "El contenido o ideas que se comunican en el circuito del habla es el:",
+    "opciones": {
+      "a": "Emisor",
+      "b": "Receptor",
+      "c": "Mensaje",
+      "d": "Canal"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El mensaje es la información, idea o sentimiento que el emisor transmite al receptor."
+  },
+  {
+    "id": 1126,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Lenguas indígenas como el tarahumara y el yaqui se hablan principalmente en la región ________ de México.",
+    "opciones": {
+      "a": "Central",
+      "b": "Noroeste",
+      "c": "Sureste",
+      "d": "Península de Yucatán"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El tarahumara (rarámuri) y el yaqui son lenguas habladas por pueblos indígenas del noroeste de México."
+  },
+  {
+    "id": 1127,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Palabras de origen indígena que la población utiliza con frecuencia en el español de México, como 'tianguis' o 'chocolate':",
+    "opciones": {
+      "a": "Extranjerismos",
+      "b": "Neologismos",
+      "c": "Indigenismos",
+      "d": "Arcaísmos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los indigenismos son palabras tomadas de las lenguas indígenas que se han incorporado al español."
+  },
+  {
+    "id": 1128,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "El lenguaje que utiliza imágenes y símbolos para representar ideas o palabras, como los jeroglíficos, es el lenguaje:",
+    "opciones": {
+      "a": "Mímico",
+      "b": "Oral",
+      "c": "Escrito alfabético",
+      "d": "Pictográfico"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El lenguaje pictográfico utiliza dibujos o pictogramas para representar conceptos o narrar historias."
+  },
+  {
+    "id": 1129,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "El medio visual o auditivo que se utiliza para enviar el mensaje en el circuito del habla es el:",
+    "opciones": {
+      "a": "Código",
+      "b": "Contexto",
+      "c": "Canal",
+      "d": "Referente"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El canal es el medio físico a través del cual se transmite el mensaje (ondas sonoras, papel, ondas electromagnéticas, etc.)."
+  },
+  {
+    "id": 1130,
+    "materia": "Español (Ámbito: Participación Ciudadana)",
+    "pregunta": "Un código empleado por un grupo de personas de un mismo oficio o estrato social, a menudo no comprensible para otros, se llama:",
+    "opciones": {
+      "a": "Lengua estándar",
+      "b": "Dialecto geográfico",
+      "c": "Jerga o argot",
+      "d": "Habla culta"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La jerga o argot es un vocabulario especializado utilizado por un grupo particular, que puede servir para identificarse o para que no los entiendan otros grupos."
+  }
+]
