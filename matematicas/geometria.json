@@ -1,0 +1,457 @@
+[
+  {
+    "id": 1401,
+    "materia": "Geometría",
+    "pregunta": "Para trazar rectas paralelas y perpendiculares se emplea como auxiliar una regla y un:",
+    "opciones": {
+      "a": "Transportador",
+      "b": "Escuadra",
+      "c": "Compás",
+      "d": "Nivel"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La regla se usa para trazar líneas rectas y el compás para trazar arcos y circunferencias, fundamentales en construcciones geométricas como paralelas y perpendiculares."
+  },
+  {
+    "id": 1402,
+    "materia": "Geometría",
+    "pregunta": "Rectas que están a la misma distancia una de otra por más que se prolonguen y nunca se intersectan:",
+    "opciones": {
+      "a": "Rectas perpendiculares",
+      "b": "Rectas secantes",
+      "c": "Rectas paralelas",
+      "d": "Rectas oblicuas"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las rectas paralelas son aquellas que, estando en el mismo plano, no se cortan en ningún punto."
+  },
+  {
+    "id": 1403,
+    "materia": "Geometría",
+    "pregunta": "Rectas que al cortarse forman ángulos de 90°:",
+    "opciones": {
+      "a": "Rectas paralelas",
+      "b": "Rectas concurrentes",
+      "c": "Rectas oblicuas",
+      "d": "Rectas perpendiculares"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Dos rectas son perpendiculares si se intersectan formando cuatro ángulos rectos (de 90 grados)."
+  },
+  {
+    "id": 1404,
+    "materia": "Geometría",
+    "pregunta": "El instrumento que se coloca en el cruce de las rectas para medir el ángulo se llama:",
+    "opciones": {
+      "a": "Regla",
+      "b": "Compás",
+      "c": "Escuadra",
+      "d": "Transportador"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El transportador es un instrumento graduado utilizado para medir o construir ángulos."
+  },
+  {
+    "id": 1405,
+    "materia": "Geometría",
+    "pregunta": "Dos triángulos son congruentes si tienen respectivamente iguales las medidas de sus tres lados. Este es el postulado:",
+    "opciones": {
+      "a": "LAL (Lado-Ángulo-Lado)",
+      "b": "ALA (Ángulo-Lado-Ángulo)",
+      "c": "LLL (Lado-Lado-Lado)",
+      "d": "LLA (Lado-Lado-Ángulo)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El criterio de congruencia LLL establece que si los tres lados de un triángulo son respectivamente iguales a los tres lados de otro triángulo, entonces los triángulos son congruentes."
+  },
+  {
+    "id": 1406,
+    "materia": "Geometría",
+    "pregunta": "Si dos triángulos tienen respectivamente iguales las medidas de dos lados y el ángulo que forman, son congruentes por el postulado:",
+    "opciones": {
+      "a": "LLL",
+      "b": "LAL",
+      "c": "ALA",
+      "d": "AAL"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El criterio LAL establece que si dos lados y el ángulo comprendido entre ellos de un triángulo son respectivamente iguales a dos lados y el ángulo comprendido de otro, los triángulos son congruentes."
+  },
+  {
+    "id": 1407,
+    "materia": "Geometría",
+    "pregunta": "Recta que divide un ángulo en dos ángulos congruentes (iguales):",
+    "opciones": {
+      "a": "Mediana",
+      "b": "Altura",
+      "c": "Mediatriz",
+      "d": "Bisectriz"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Una bisectriz es la semirrecta que parte del vértice de un ángulo y lo divide en dos partes iguales."
+  },
+  {
+    "id": 1408,
+    "materia": "Geometría",
+    "pregunta": "En todo triángulo, al lado mayor se opone el _________ mayor.",
+    "opciones": {
+      "a": "Vértice",
+      "b": "Lado",
+      "c": "Ángulo",
+      "d": "Perímetro"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Esta es una propiedad de los triángulos: a mayor lado se opone mayor ángulo, y viceversa."
+  },
+  {
+    "id": 1409,
+    "materia": "Geometría",
+    "pregunta": "Unidad de longitud del sistema métrico decimal equivalente a 1000 metros:",
+    "opciones": {
+      "a": "Hectómetro (hm)",
+      "b": "Decámetro (dam)",
+      "c": "Kilómetro (Km)",
+      "d": "Miriámetro (mam)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un kilómetro (Km) es igual a 1000 metros."
+  },
+  {
+    "id": 1410,
+    "materia": "Geometría",
+    "pregunta": "Unidad de área equivalente a 10,000 metros cuadrados (m²):",
+    "opciones": {
+      "a": "Kilómetro cuadrado (Km²)",
+      "b": "Decámetro cuadrado (dam²)",
+      "c": "Hectómetro cuadrado (hm²) o hectárea",
+      "d": "Metro cuadrado (m²)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un hectómetro cuadrado (hm²) es igual a 100 m × 100 m = 10,000 m², y también se conoce como hectárea (ha)."
+  },
+  {
+    "id": 1411,
+    "materia": "Geometría",
+    "pregunta": "Triángulo que tiene sus tres ángulos agudos (menores de 90°):",
+    "opciones": {
+      "a": "Rectángulo",
+      "b": "Obtusángulo",
+      "c": "Acutángulo",
+      "d": "Equilátero"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un triángulo acutángulo es aquel cuyos tres ángulos internos son agudos."
+  },
+  {
+    "id": 1412,
+    "materia": "Geometría",
+    "pregunta": "Triángulo que tiene un ángulo recto (90°):",
+    "opciones": {
+      "a": "Acutángulo",
+      "b": "Obtusángulo",
+      "c": "Rectángulo",
+      "d": "Isósceles"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un triángulo rectángulo es aquel que tiene un ángulo interior de 90 grados."
+  },
+  {
+    "id": 1413,
+    "materia": "Geometría",
+    "pregunta": "Triángulo que tiene sus tres lados de diferente longitud:",
+    "opciones": {
+      "a": "Equilátero",
+      "b": "Isósceles",
+      "c": "Escaleno",
+      "d": "Rectángulo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un triángulo escaleno es aquel en el que todos sus lados tienen longitudes diferentes."
+  },
+  {
+    "id": 1414,
+    "materia": "Geometría",
+    "pregunta": "La suma de todos y cada uno de los lados de un polígono es su:",
+    "opciones": {
+      "a": "Área",
+      "b": "Volumen",
+      "c": "Perímetro",
+      "d": "Diagonal"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El perímetro es la longitud total del contorno de una figura geométrica plana."
+  },
+  {
+    "id": 1415,
+    "materia": "Geometría",
+    "pregunta": "Figura en que todos sus lados tienen la misma medida:",
+    "opciones": {
+      "a": "Polígono irregular",
+      "b": "Polígono cóncavo",
+      "c": "Polígono regular",
+      "d": "Polígono convexo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un polígono regular es aquel que tiene todos sus lados y todos sus ángulos interiores iguales."
+  },
+  {
+    "id": 1416,
+    "materia": "Geometría",
+    "pregunta": "El área de un polígono regular se calcula como la mitad del producto del perímetro por su:",
+    "opciones": {
+      "a": "Diagonal",
+      "b": "Radio",
+      "c": "Apotema",
+      "d": "Lado"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La fórmula del área de un polígono regular es A = (Perímetro × apotema) / 2. La apotema es la distancia del centro a uno de sus lados."
+  },
+  {
+    "id": 1417,
+    "materia": "Geometría",
+    "pregunta": "El volumen de un prisma se calcula con el producto del área de la base (B) por la:",
+    "opciones": {
+      "a": "Apotema (a)",
+      "b": "Altura (h)",
+      "c": "Diagonal (d)",
+      "d": "Generatriz (g)"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El volumen de un prisma es V = Área de la base × altura (V = B × h)."
+  },
+  {
+    "id": 1418,
+    "materia": "Geometría",
+    "pregunta": "El volumen de un cilindro cuya base es un círculo de área πr² se calcula como:",
+    "opciones": {
+      "a": "πr² + 2πrh",
+      "b": "πr²h",
+      "c": "(1/3)πr²h",
+      "d": "2πr(h+r)"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El volumen de un cilindro es el área de su base circular (πr²) multiplicada por su altura (h)."
+  },
+  {
+    "id": 1419,
+    "materia": "Geometría",
+    "pregunta": "El volumen de una pirámide es la _________ parte del área de su base por la altura.",
+    "opciones": {
+      "a": "Mitad",
+      "b": "Cuarta",
+      "c": "Tercera",
+      "d": "Doble"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La fórmula del volumen de una pirámide es V = (Área de la base × altura) / 3."
+  },
+  {
+    "id": 1420,
+    "materia": "Geometría",
+    "pregunta": "Figura geométrica especial cuyo volumen se calcula con la fórmula V = (4/3)πr³:",
+    "opciones": {
+      "a": "Cilindro",
+      "b": "Cono",
+      "c": "Esfera",
+      "d": "Cubo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Esta es la fórmula para calcular el volumen de una esfera, donde r es el radio."
+  },
+  {
+    "id": 1421,
+    "materia": "Geometría",
+    "pregunta": "Un ángulo que mide exactamente 90° se llama ángulo:",
+    "opciones": {
+      "a": "Agudo",
+      "b": "Obtuso",
+      "c": "Recto",
+      "d": "Llano"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un ángulo recto es aquel cuya medida es de 90 grados sexagesimales."
+  },
+  {
+    "id": 1422,
+    "materia": "Geometría",
+    "pregunta": "Un ángulo que mide más de 90° pero menos de 180° se llama ángulo:",
+    "opciones": {
+      "a": "Agudo",
+      "b": "Obtuso",
+      "c": "Completo",
+      "d": "Entrante"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Un ángulo obtuso es aquel cuya medida es mayor de 90° y menor de 180°."
+  },
+  {
+    "id": 1423,
+    "materia": "Geometría",
+    "pregunta": "Dos ángulos cuya suma es un ángulo recto (90°) se llaman ángulos:",
+    "opciones": {
+      "a": "Suplementarios",
+      "b": "Complementarios",
+      "c": "Conjugados",
+      "d": "Adyacentes"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Dos ángulos son complementarios si la suma de sus medidas es igual a 90°."
+  },
+  {
+    "id": 1424,
+    "materia": "Geometría",
+    "pregunta": "Dos ángulos cuya suma es un ángulo llano (180°) se llaman ángulos:",
+    "opciones": {
+      "a": "Complementarios",
+      "b": "Opuestos por el vértice",
+      "c": "Conjugados",
+      "d": "Suplementarios"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Dos ángulos son suplementarios si la suma de sus medidas es igual a 180°."
+  },
+  {
+    "id": 1425,
+    "materia": "Geometría",
+    "pregunta": "Unidad de medida angular en el sistema sexagesimal, donde una circunferencia completa mide 360 de estas unidades:",
+    "opciones": {
+      "a": "Radián (rad)",
+      "b": "Grado (°)",
+      "c": "Minuto (')",
+      "d": "Segundo ('')"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El grado sexagesimal es la unidad de medida de ángulos más comúnmente utilizada, donde un círculo completo tiene 360°."
+  },
+  {
+    "id": 1426,
+    "materia": "Geometría",
+    "pregunta": "Un ángulo que mide 180° se llama ángulo:",
+    "opciones": {
+      "a": "Completo o perigonal",
+      "b": "Recto",
+      "c": "Llano o colineal",
+      "d": "Entrante"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un ángulo llano es aquel cuyos lados son semirrectas opuestas, formando una línea recta, y mide 180°."
+  },
+  {
+    "id": 1427,
+    "materia": "Geometría",
+    "pregunta": "Si un ángulo A mide 48° 27' 18'', ¿cuál es la medida de su ángulo complementario?",
+    "opciones": {
+      "a": "41° 32' 42''",
+      "b": "131° 32' 42''",
+      "c": "42° 33' 42''",
+      "d": "90° 00' 00''"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "El complemento se calcula restando el ángulo de 90°: 89° 59' 60'' - 48° 27' 18'' = 41° 32' 42''."
+  },
+  {
+    "id": 1428,
+    "materia": "Geometría",
+    "pregunta": "En un paralelogramo, los lados opuestos son:",
+    "opciones": {
+      "a": "Perpendiculares",
+      "b": "Desiguales",
+      "c": "Iguales y paralelos",
+      "d": "Secantes"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Una propiedad fundamental de los paralelogramos es que sus lados opuestos son de igual longitud y paralelos entre sí."
+  },
+  {
+    "id": 1429,
+    "materia": "Geometría",
+    "pregunta": "Un decímetro (dm) equivale a:",
+    "opciones": {
+      "a": "100 metros",
+      "b": "10 metros",
+      "c": "0.01 metros",
+      "d": "0.1 metros"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Un decímetro es la décima parte de un metro, es decir, 0.1 metros o 10 centímetros."
+  },
+  {
+    "id": 1430,
+    "materia": "Geometría",
+    "pregunta": "Un centímetro cuadrado (cm²) es una unidad de:",
+    "opciones": {
+      "a": "Longitud",
+      "b": "Volumen",
+      "c": "Área",
+      "d": "Masa"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las unidades cuadradas (como cm², m², Km²) se utilizan para medir áreas o superficies."
+  },
+  {
+    "id": 1431,
+    "materia": "Geometría",
+    "pregunta": "Triángulo que tiene un ángulo mayor de 90° (obtuso):",
+    "opciones": {
+      "a": "Acutángulo",
+      "b": "Rectángulo",
+      "c": "Obtusángulo",
+      "d": "Equilátero"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un triángulo obtusángulo es aquel que tiene un ángulo interior obtuso (mayor de 90°)."
+  },
+  {
+    "id": 1432,
+    "materia": "Geometría",
+    "pregunta": "Triángulo que tiene dos lados iguales y, por lo tanto, dos ángulos iguales:",
+    "opciones": {
+      "a": "Escaleno",
+      "b": "Equilátero",
+      "c": "Isósceles",
+      "d": "Rectángulo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un triángulo isósceles tiene al menos dos lados de igual longitud y los ángulos opuestos a esos lados también son iguales."
+  },
+  {
+    "id": 1433,
+    "materia": "Geometría",
+    "pregunta": "Si el perímetro de un cuadrado es 20 cm, ¿cuánto mide cada lado?",
+    "opciones": {
+      "a": "4 cm",
+      "b": "5 cm",
+      "c": "10 cm",
+      "d": "20 cm"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El perímetro de un cuadrado es 4 veces la longitud de su lado (P = 4L). Si P = 20 cm, entonces L = 20/4 = 5 cm."
+  },
+  {
+    "id": 1434,
+    "materia": "Geometría",
+    "pregunta": "El volumen de un cubo con lado de 3 cm es:",
+    "opciones": {
+      "a": "9 cm³",
+      "b": "18 cm³",
+      "c": "27 cm³",
+      "d": "6 cm³"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El volumen de un cubo es Lado³ (V = L³). Entonces V = 3³ = 3 × 3 × 3 = 27 cm³."
+  },
+  {
+    "id": 1435,
+    "materia": "Geometría",
+    "pregunta": "Un ángulo completo o perigonal mide:",
+    "opciones": {
+      "a": "90°",
+      "b": "180°",
+      "c": "270°",
+      "d": "360°"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Un ángulo completo representa una rotación completa alrededor de un punto, y su medida es de 360°."
+  }
+]

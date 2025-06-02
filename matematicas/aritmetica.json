@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1201,
+    "materia": "Aritmética",
+    "pregunta": "¿Cuál es el conjunto formado por los números que se emplean para contar, representado por el símbolo N?",
+    "opciones": {
+      "a": "Números enteros",
+      "b": "Números racionales",
+      "c": "Números naturales",
+      "d": "Números irracionales"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los números naturales (N = {1, 2, 3, 4,...}) son aquellos que se utilizan fundamentalmente para contar elementos."
+  },
+  {
+    "id": 1202,
+    "materia": "Aritmética",
+    "pregunta": "Si a y b son números naturales, la propiedad que establece que (a + b) también es un número natural se llama:",
+    "opciones": {
+      "a": "Propiedad conmutativa",
+      "b": "Propiedad asociativa",
+      "c": "Propiedad de clausura (o cerradura)",
+      "d": "Elemento neutro"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La propiedad de clausura para la suma de números naturales indica que la suma de dos números naturales siempre resulta en otro número natural."
+  },
+  {
+    "id": 1203,
+    "materia": "Aritmética",
+    "pregunta": "La propiedad que establece que a + b = b + a para números naturales 'a' y 'b' es la propiedad:",
+    "opciones": {
+      "a": "Asociativa",
+      "b": "Distributiva",
+      "c": "Del elemento neutro",
+      "d": "Conmutativa"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "La propiedad conmutativa de la suma establece que el orden de los sumandos no altera el resultado."
+  },
+  {
+    "id": 1204,
+    "materia": "Aritmética",
+    "pregunta": "El número 0 (cero) es el elemento identidad (o neutro) respecto a la operación de:",
+    "opciones": {
+      "a": "Multiplicación",
+      "b": "División",
+      "c": "Suma",
+      "d": "Potenciación"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El cero es el elemento neutro de la suma porque cualquier número sumado a cero da como resultado el mismo número (a + 0 = a)."
+  },
+  {
+    "id": 1205,
+    "materia": "Aritmética",
+    "pregunta": "El conjunto de los números cardinales (K) se forma por la unión del conjunto de los números naturales (N) con el:",
+    "opciones": {
+      "a": "Número 1",
+      "b": "Número -1",
+      "c": "Número 0",
+      "d": "Conjunto vacío"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los números cardinales (K = {0, 1, 2, 3,...}) incluyen el cero además de los números naturales."
+  },
+  {
+    "id": 1206,
+    "materia": "Aritmética",
+    "pregunta": "En la operación 53824 + 322 + 1545, los números 53824, 322 y 1545 son los:",
+    "opciones": {
+      "a": "Sumandos",
+      "b": "Productos",
+      "c": "Cocientes",
+      "d": "Diferencias"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Los sumandos son los números que se suman en una operación de adición."
+  },
+  {
+    "id": 1207,
+    "materia": "Aritmética",
+    "pregunta": "En la sustracción 70120 - 125, el número 70120 es el:",
+    "opciones": {
+      "a": "Sustraendo",
+      "b": "Minuendo",
+      "c": "Diferencia",
+      "d": "Resto"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El minuendo es la cantidad de la cual se resta otra (el sustraendo)."
+  },
+  {
+    "id": 1208,
+    "materia": "Aritmética",
+    "pregunta": "Los elementos con los cuales efectuamos la multiplicación se llaman:",
+    "opciones": {
+      "a": "Sumandos",
+      "b": "Dividendos",
+      "c": "Factores",
+      "d": "Cocientes"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los factores son los números que se multiplican para obtener un producto."
+  },
+  {
+    "id": 1209,
+    "materia": "Aritmética",
+    "pregunta": "En la división 544 ÷ 16 = 34, el número 16 es el:",
+    "opciones": {
+      "a": "Dividendo",
+      "b": "Cociente",
+      "c": "Residuo",
+      "d": "Divisor"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El divisor es el número por el cual se divide el dividendo."
+  },
+  {
+    "id": 1210,
+    "materia": "Aritmética",
+    "pregunta": "La operación inversa de la potenciación es la:",
+    "opciones": {
+      "a": "Suma",
+      "b": "Multiplicación",
+      "c": "Radicación",
+      "d": "División"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La radicación consiste en encontrar la base de una potencia, conocidos el exponente y el resultado de la potencia."
+  },
+  {
+    "id": 1211,
+    "materia": "Aritmética",
+    "pregunta": "El resultado de √64 es:",
+    "opciones": {
+      "a": "6",
+      "b": "7",
+      "c": "8",
+      "d": "9"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La raíz cuadrada de 64 es 8, porque 8 × 8 = 64."
+  },
+  {
+    "id": 1212,
+    "materia": "Aritmética",
+    "pregunta": "Si √x = 8, entonces x es igual a:",
+    "opciones": {
+      "a": "16",
+      "b": "32",
+      "c": "64",
+      "d": "4"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Si la raíz cuadrada de x es 8, entonces x es 8 al cuadrado, que es 64."
+  },
+  {
+    "id": 1213,
+    "materia": "Aritmética",
+    "pregunta": "Calcula el valor de la potencia 2⁵:",
+    "opciones": {
+      "a": "10",
+      "b": "25",
+      "c": "32",
+      "d": "7"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "2⁵ = 2 × 2 × 2 × 2 × 2 = 32."
+  },
+  {
+    "id": 1214,
+    "materia": "Aritmética",
+    "pregunta": "El Máximo Común Divisor (MCD) de 20 y 30 es:",
+    "opciones": {
+      "a": "5",
+      "b": "10",
+      "c": "20",
+      "d": "60"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los divisores de 20 son {1, 2, 4, 5, 10, 20}. Los divisores de 30 son {1, 2, 3, 5, 6, 10, 15, 30}. El MCD es 10."
+  },
+  {
+    "id": 1215,
+    "materia": "Aritmética",
+    "pregunta": "El Mínimo Común Múltiplo (MCM) de 24 y 36 es:",
+    "opciones": {
+      "a": "12",
+      "b": "24",
+      "c": "36",
+      "d": "72"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Múltiplos de 24: {24, 48, 72, 96,...}. Múltiplos de 36: {36, 72, 108,...}. El MCM es 72."
+  },
+  {
+    "id": 1216,
+    "materia": "Aritmética",
+    "pregunta": "El resultado de la operación con números enteros (+8) - (+2) es:",
+    "opciones": {
+      "a": "10",
+      "b": "6",
+      "c": "-6",
+      "d": "-10"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "(+8) - (+2) = 8 - 2 = 6."
+  },
+  {
+    "id": 1217,
+    "materia": "Aritmética",
+    "pregunta": "El resultado de la multiplicación (-9)(2) es:",
+    "opciones": {
+      "a": "18",
+      "b": "-18",
+      "c": "11",
+      "d": "-7"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Un número negativo multiplicado por un número positivo da un resultado negativo: (-9) × 2 = -18."
+  },
+  {
+    "id": 1218,
+    "materia": "Aritmética",
+    "pregunta": "El resultado de la división (-81) ÷ (-9) es:",
+    "opciones": {
+      "a": "9",
+      "b": "-9",
+      "c": "81",
+      "d": "-81"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Un número negativo dividido por un número negativo da un resultado positivo: (-81) ÷ (-9) = 9."
+  },
+  {
+    "id": 1219,
+    "materia": "Aritmética",
+    "pregunta": "Los números que se pueden representar en la forma a/b, donde b ≠ 0, se llaman:",
+    "opciones": {
+      "a": "Números naturales",
+      "b": "Números enteros",
+      "c": "Números racionales",
+      "d": "Números irracionales"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los números racionales son aquellos que pueden expresarse como el cociente de dos números enteros, con el denominador distinto de cero."
+  },
+  {
+    "id": 1220,
+    "materia": "Aritmética",
+    "pregunta": "En la fracción 2/3, el número 2 es el:",
+    "opciones": {
+      "a": "Denominador",
+      "b": "Cociente",
+      "c": "Numerador",
+      "d": "Divisor"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El numerador es el número superior de una fracción e indica cuántas partes se toman de la unidad."
+  },
+  {
+    "id": 1221,
+    "materia": "Aritmética",
+    "pregunta": "¿Cuál es el resultado de la suma de fracciones 2/3 + 5/3?",
+    "opciones": {
+      "a": "7/6",
+      "b": "7/3",
+      "c": "10/9",
+      "d": "3/7"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Cuando las fracciones tienen el mismo denominador, se suman los numeradores: 2/3 + 5/3 = (2+5)/3 = 7/3."
+  },
+  {
+    "id": 1222,
+    "materia": "Aritmética",
+    "pregunta": "Calcula el resultado de la multiplicación de fracciones (2/3) × (5/4):",
+    "opciones": {
+      "a": "10/12",
+      "b": "8/15",
+      "c": "7/7",
+      "d": "10/7"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Para multiplicar fracciones, se multiplican los numeradores entre sí y los denominadores entre sí: (2×5)/(3×4) = 10/12 (que se puede simplificar a 5/6)."
+  },
+  {
+    "id": 1223,
+    "materia": "Aritmética",
+    "pregunta": "¿Cuál es el resultado de (2/3)⁵?",
+    "opciones": {
+      "a": "10/15",
+      "b": "32/243",
+      "c": "10/243",
+      "d": "32/15"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "(2/3)⁵ = 2⁵ / 3⁵ = 32 / 243."
+  },
+  {
+    "id": 1224,
+    "materia": "Aritmética",
+    "pregunta": "La raíz cuadrada de la fracción 25/4 es:",
+    "opciones": {
+      "a": "5/2",
+      "b": "2/5",
+      "c": "25/2",
+      "d": "5/4"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "√(25/4) = √25 / √4 = 5/2."
+  },
+  {
+    "id": 1225,
+    "materia": "Aritmética",
+    "pregunta": "Una razón es el _________ indicado de dos números.",
+    "opciones": {
+      "a": "Producto",
+      "b": "Suma",
+      "c": "Cociente",
+      "d": "Diferencia"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Una razón compara dos cantidades mediante su cociente o división."
+  },
+  {
+    "id": 1226,
+    "materia": "Aritmética",
+    "pregunta": "La igualdad entre dos razones se llama:",
+    "opciones": {
+      "a": "Ecuación",
+      "b": "Fracción",
+      "c": "Porcentaje",
+      "d": "Proporción"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Una proporción establece que dos razones son equivalentes (a/b = c/d)."
+  },
+  {
+    "id": 1227,
+    "materia": "Aritmética",
+    "pregunta": "Si en una proporción 100/x = 75/42, ¿cuál es el valor de x?",
+    "opciones": {
+      "a": "56",
+      "b": "63",
+      "c": "31.5",
+      "d": "178.57"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "En una proporción, el producto de los extremos es igual al producto de los medios: 100 × 42 = 75 × x. Entonces 4200 = 75x. x = 4200/75 = 56."
+  },
+  {
+    "id": 1228,
+    "materia": "Aritmética",
+    "pregunta": "El 30% de 1466 es:",
+    "opciones": {
+      "a": "439.8",
+      "b": "488.6",
+      "c": "43.98",
+      "d": "1436"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "30% de 1466 = (30/100) × 1466 = 0.30 × 1466 = 439.8."
+  },
+  {
+    "id": 1229,
+    "materia": "Aritmética",
+    "pregunta": "El número 635,000,000 expresado en notación científica es:",
+    "opciones": {
+      "a": "6.35 × 10⁶",
+      "b": "63.5 × 10⁷",
+      "c": "6.35 × 10⁸",
+      "d": "0.635 × 10⁹"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "En notación científica, se expresa como un número entre 1 y 10 multiplicado por una potencia de 10. 635,000,000 = 6.35 × 10⁸."
+  },
+  {
+    "id": 1230,
+    "materia": "Aritmética",
+    "pregunta": "El número 0.002587 expresado en notación científica es:",
+    "opciones": {
+      "a": "2.587 × 10⁻³",
+      "b": "25.87 × 10⁻⁴",
+      "c": "0.2587 × 10⁻²",
+      "d": "2.587 × 10³"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "0.002587 = 2.587 × 10⁻³."
+  },
+  {
+    "id": 1231,
+    "materia": "Aritmética",
+    "pregunta": "El resultado de 10 ÷ 0 no está definido porque:",
+    "opciones": {
+      "a": "El resultado es 0",
+      "b": "El resultado es 1",
+      "c": "La división por cero no está definida",
+      "d": "El resultado es infinito"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La división por cero es una operación matemática que no tiene un resultado definido en los números reales."
+  },
+  {
+    "id": 1232,
+    "materia": "Aritmética",
+    "pregunta": "¿Cuál es el resultado de la operación ( -6 ) - ( -3 )?",
+    "opciones": {
+      "a": "-9",
+      "b": "-3",
+      "c": "3",
+      "d": "9"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "( -6 ) - ( -3 ) = -6 + 3 = -3."
+  },
+  {
+    "id": 1233,
+    "materia": "Aritmética",
+    "pregunta": "La fracción 12/100 simplificada es:",
+    "opciones": {
+      "a": "6/50",
+      "b": "3/25",
+      "c": "1/8",
+      "d": "12/10"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Dividiendo numerador y denominador por su MCD (4): 12÷4=3 y 100÷4=25, resulta 3/25."
+  },
+  {
+    "id": 1234,
+    "materia": "Aritmética",
+    "pregunta": "Si un granjero gasta dos bultos de alimento cada 24 días para 60 gallinas, ¿cuánto le durarán los dos bultos si aumenta el número de gallinas a 100 (proporción inversa)?",
+    "opciones": {
+      "a": "40 días",
+      "b": "14.4 días",
+      "c": "20 días",
+      "d": "10 días"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Es una proporción inversa: (60 gallinas * 24 días) / 100 gallinas = 1440 / 100 = 14.4 días."
+  },
+  {
+    "id": 1235,
+    "materia": "Aritmética",
+    "pregunta": "El número 1 es el elemento identidad (o neutro) respecto a la operación de:",
+    "opciones": {
+      "a": "Suma",
+      "b": "Resta",
+      "c": "Multiplicación",
+      "d": "División"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El uno es el elemento neutro de la multiplicación porque cualquier número multiplicado por uno da como resultado el mismo número (a × 1 = a)."
+  },
+  {
+    "id": 1236,
+    "materia": "Aritmética",
+    "pregunta": "Resolver: 3/5 + 2/5 =",
+    "opciones": {
+      "a": "1",
+      "b": "5/10",
+      "c": "6/25",
+      "d": "5/25"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "3/5 + 2/5 = (3+2)/5 = 5/5 = 1."
+  },
+  {
+    "id": 1237,
+    "materia": "Aritmética",
+    "pregunta": "La raíz cúbica de -27 es:",
+    "opciones": {
+      "a": "3",
+      "b": "-3",
+      "c": "9",
+      "d": "-9"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Porque (-3) × (-3) × (-3) = 9 × (-3) = -27."
+  },
+  {
+    "id": 1238,
+    "materia": "Aritmética",
+    "pregunta": "Convertir la fracción 3/4 a decimal:",
+    "opciones": {
+      "a": "0.25",
+      "b": "0.50",
+      "c": "0.75",
+      "d": "1.33"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "3 ÷ 4 = 0.75."
+  },
+  {
+    "id": 1239,
+    "materia": "Aritmética",
+    "pregunta": "Si el 30% de los alumnos de una escuela de 645 son hombres, ¿cuántos hombres hay?",
+    "opciones": {
+      "a": "193.5 (aproximadamente 194)",
+      "b": "215",
+      "c": "451.5",
+      "d": "180"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "30% de 645 = 0.30 × 645 = 193.5. Dado que no puede haber medio alumno, se aproxima o se considera el contexto."
+  },
+  {
+    "id": 1240,
+    "materia": "Aritmética",
+    "pregunta": "La superficie de la tierra es de 510,082,000 kilómetros cuadrados. En notación científica esto es aproximadamente:",
+    "opciones": {
+      "a": "5.1 × 10⁸ km²",
+      "b": "51.0 × 10⁷ km²",
+      "c": "0.51 × 10⁹ km²",
+      "d": "5.1 × 10⁷ km²"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "510,082,000 se escribe como 5.10082 × 10⁸, que se aproxima a 5.1 × 10⁸."
+  }
+]

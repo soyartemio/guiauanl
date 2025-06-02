@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1601,
+    "materia": "Probabilidad",
+    "pregunta": "¿Cómo se define la probabilidad de que ocurra un cierto evento?",
+    "opciones": {
+      "a": "El número total de formas en que puede ocurrir el evento.",
+      "b": "La razón del número de formas favorables de que ocurra entre el número total de formas posibles.",
+      "c": "La certeza absoluta de que el evento ocurrirá.",
+      "d": "El número de veces que el evento ha ocurrido en el pasado."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La probabilidad clásica se define como el cociente entre el número de casos favorables al evento y el número total de casos posibles."
+  },
+  {
+    "id": 1602,
+    "materia": "Probabilidad",
+    "pregunta": "¿Entre qué valores se encuentran siempre los valores de la probabilidad de un evento?",
+    "opciones": {
+      "a": "Entre -1 y 1",
+      "b": "Entre 0 y 100",
+      "c": "Entre 0 y 1",
+      "d": "Entre 1 y infinito"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La probabilidad de un evento siempre es un número entre 0 (evento imposible) y 1 (evento seguro), inclusive."
+  },
+  {
+    "id": 1603,
+    "materia": "Probabilidad",
+    "pregunta": "Si P(E) = a/N, donde 'a' es el número de casos favorables y 'N' el número total de casos, ¿qué representa 'N'?",
+    "opciones": {
+      "a": "Número de casos en contra.",
+      "b": "Número total de casos posibles.",
+      "c": "Número de casos favorables.",
+      "d": "La probabilidad del evento."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "En la fórmula clásica de probabilidad, N representa el espacio muestral, es decir, el conjunto de todos los resultados posibles."
+  },
+  {
+    "id": 1604,
+    "materia": "Probabilidad",
+    "pregunta": "Al tirar un dado, ¿cuál es la probabilidad de obtener un 4?",
+    "opciones": {
+      "a": "1/2",
+      "b": "1/3",
+      "c": "1/6",
+      "d": "4/6"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Hay 1 caso favorable (obtener un 4) y 6 casos posibles (1, 2, 3, 4, 5, 6). Por lo tanto, P(4) = 1/6."
+  },
+  {
+    "id": 1605,
+    "materia": "Probabilidad",
+    "pregunta": "Si P(E') es la probabilidad de que un evento NO ocurra, y P(E) es la probabilidad de que ocurra, ¿cuál es la relación entre ellas?",
+    "opciones": {
+      "a": "P(E) + P(E') = 0",
+      "b": "P(E) × P(E') = 1",
+      "c": "P(E) = P(E')",
+      "d": "P(E) + P(E') = 1"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "La suma de la probabilidad de que un evento ocurra y la probabilidad de que no ocurra es siempre 1. Por lo tanto, P(E') = 1 - P(E)."
+  },
+  {
+    "id": 1606,
+    "materia": "Probabilidad",
+    "pregunta": "En una urna hay 4 bolas blancas, 3 negras y 2 azules. ¿Cuál es la probabilidad de sacar una de color blanco?",
+    "opciones": {
+      "a": "4/5",
+      "b": "4/9",
+      "c": "1/4",
+      "d": "5/9"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Casos favorables (blancas) = 4. Total de casos (bolas) = 4 + 3 + 2 = 9. Probabilidad = 4/9."
+  },
+  {
+    "id": 1607,
+    "materia": "Probabilidad",
+    "pregunta": "La probabilidad de que ocurra uno u otro evento de dos eventos mutuamente excluyentes es:",
+    "opciones": {
+      "a": "El producto de sus probabilidades.",
+      "b": "La resta de sus probabilidades.",
+      "c": "La suma de sus probabilidades.",
+      "d": "El promedio de sus probabilidades."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Para eventos mutuamente excluyentes, P(A o B) = P(A) + P(B)."
+  },
+  {
+    "id": 1608,
+    "materia": "Probabilidad",
+    "pregunta": "¿Cuál es la probabilidad de que al lanzar un dado caiga un 3 ó un 5?",
+    "opciones": {
+      "a": "1/6",
+      "b": "2/6 (o 1/3)",
+      "c": "1/36",
+      "d": "5/6"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "P(3) = 1/6, P(5) = 1/6. Como son mutuamente excluyentes, P(3 ó 5) = P(3) + P(5) = 1/6 + 1/6 = 2/6 = 1/3."
+  },
+  {
+    "id": 1609,
+    "materia": "Probabilidad",
+    "pregunta": "La probabilidad de que ocurran dos eventos independientes conjuntamente es:",
+    "opciones": {
+      "a": "La suma de sus probabilidades.",
+      "b": "El producto de sus probabilidades.",
+      "c": "La diferencia de sus probabilidades.",
+      "d": "El cociente de sus probabilidades."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Para eventos independientes, P(A y B) = P(A) × P(B)."
+  },
+  {
+    "id": 1610,
+    "materia": "Probabilidad",
+    "pregunta": "¿Cuál es la probabilidad de que al lanzar una moneda y un dado, en la moneda caiga “águila” y en el dado un 3?",
+    "opciones": {
+      "a": "1/2",
+      "b": "1/6",
+      "c": "1/12",
+      "d": "2/8 (o 1/4)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "P(águila) = 1/2. P(3 en dado) = 1/6. Como son independientes, P(águila y 3) = (1/2) × (1/6) = 1/12."
+  },
+  {
+    "id": 1611,
+    "materia": "Probabilidad",
+    "pregunta": "Si la probabilidad de que llueva mañana es 0.3, ¿cuál es la probabilidad de que NO llueva mañana?",
+    "opciones": {
+      "a": "0.3",
+      "b": "0.5",
+      "c": "0.7",
+      "d": "1.0"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "P(no llueva) = 1 - P(llueva) = 1 - 0.3 = 0.7."
+  },
+  {
+    "id": 1612,
+    "materia": "Probabilidad",
+    "pregunta": "En una baraja española de 40 cartas, ¿cuál es la probabilidad de extraer una carta de oros?",
+    "opciones": {
+      "a": "1/40",
+      "b": "10/30",
+      "c": "1/4",
+      "d": "4/10"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Hay 10 cartas de oros en una baraja de 40. P(oros) = 10/40 = 1/4."
+  },
+  {
+    "id": 1613,
+    "materia": "Probabilidad",
+    "pregunta": "Si se tira una moneda al aire dos veces, ¿cuál es la probabilidad de que en ambas ocasiones salga águila?",
+    "opciones": {
+      "a": "1/2",
+      "b": "1/3",
+      "c": "1/4",
+      "d": "2/4"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "P(águila en 1er lanzamiento) = 1/2. P(águila en 2do lanzamiento) = 1/2. P(ambas águilas) = (1/2) × (1/2) = 1/4."
+  },
+  {
+    "id": 1614,
+    "materia": "Probabilidad",
+    "pregunta": "En un grupo de 50 alumnos, 6 de ellos usan lentes. ¿Cuál es la probabilidad de que uno elegido al azar NO use lentes?",
+    "opciones": {
+      "a": "6/50",
+      "b": "44/50 (o 22/25)",
+      "c": "50/6",
+      "d": "44/6"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Alumnos que no usan lentes = 50 - 6 = 44. P(no use lentes) = 44/50."
+  },
+  {
+    "id": 1615,
+    "materia": "Probabilidad",
+    "pregunta": "Si la probabilidad de un evento es 1, el evento es:",
+    "opciones": {
+      "a": "Imposible",
+      "b": "Poco probable",
+      "c": "Altamente probable",
+      "d": "Seguro"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Una probabilidad de 1 significa que el evento ocurrirá con certeza."
+  },
+  {
+    "id": 1616,
+    "materia": "Probabilidad",
+    "pregunta": "Al lanzar un dado bien construido, ¿cuál es la probabilidad de que aparezca en su cara superior un 7?",
+    "opciones": {
+      "a": "1/6",
+      "b": "1/7",
+      "c": "0",
+      "d": "1"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un dado estándar tiene caras numeradas del 1 al 6. Obtener un 7 es un evento imposible, por lo tanto, su probabilidad es 0."
+  },
+  {
+    "id": 1617,
+    "materia": "Probabilidad",
+    "pregunta": "Se tira un dado. ¿Cuál es la probabilidad de obtener un número mayor que 4?",
+    "opciones": {
+      "a": "1/6",
+      "b": "2/6 (o 1/3)",
+      "c": "3/6 (o 1/2)",
+      "d": "4/6 (o 2/3)"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los números mayores que 4 en un dado son 5 y 6 (2 casos favorables). Total de casos = 6. P(>4) = 2/6 = 1/3."
+  },
+  {
+    "id": 1618,
+    "materia": "Probabilidad",
+    "pregunta": "En una bolsa hay 4 esferas rojas, 3 azules y 2 blancas. ¿Cuál es la probabilidad de NO sacar una esfera azul?",
+    "opciones": {
+      "a": "3/9",
+      "b": "2/9",
+      "c": "6/9 (o 2/3)",
+      "d": "7/9"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Total de esferas = 9. Esferas no azules (rojas + blancas) = 4 + 2 = 6. P(no azul) = 6/9 = 2/3. Alternativamente, P(azul) = 3/9, P(no azul) = 1 - 3/9 = 6/9."
+  },
+  {
+    "id": 1619,
+    "materia": "Probabilidad",
+    "pregunta": "Si P(A) = 0.4 y P(B) = 0.5, y A y B son eventos independientes, ¿cuál es P(A y B)?",
+    "opciones": {
+      "a": "0.9",
+      "b": "0.1",
+      "c": "0.20",
+      "d": "0.45"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Para eventos independientes, P(A y B) = P(A) × P(B) = 0.4 × 0.5 = 0.20."
+  },
+  {
+    "id": 1620,
+    "materia": "Probabilidad",
+    "pregunta": "De una baraja de lotería de 54 cartas, ¿cuál es la probabilidad de sacar 'la rana' O el 'diablo'?",
+    "opciones": {
+      "a": "1/54",
+      "b": "2/54 (o 1/27)",
+      "c": "1/27 + 1/27",
+      "d": "52/54"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "P(rana) = 1/54. P(diablo) = 1/54. Son eventos mutuamente excluyentes. P(rana O diablo) = P(rana) + P(diablo) = 1/54 + 1/54 = 2/54 = 1/27."
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1301,
+    "materia": "Álgebra",
+    "pregunta": "Un grupo de números y letras combinadas entre sí mediante una o más operaciones fundamentales se llama:",
+    "opciones": {
+      "a": "Término",
+      "b": "Expresión Algebraica",
+      "c": "Coeficiente",
+      "d": "Ecuación"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Una expresión algebraica combina números (constantes), letras (variables) y operaciones matemáticas."
+  },
+  {
+    "id": 1302,
+    "materia": "Álgebra",
+    "pregunta": "En la expresión algebraica 5a² - 2ab + 3b, ¿cuántos términos hay?",
+    "opciones": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los términos están separados por los signos + o -. En este caso, los términos son 5a², -2ab y +3b."
+  },
+  {
+    "id": 1303,
+    "materia": "Álgebra",
+    "pregunta": "En el término -8a², el número -8 es el:",
+    "opciones": {
+      "a": "Exponente",
+      "b": "Parte literal",
+      "c": "Signo",
+      "d": "Coeficiente"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El coeficiente es el factor numérico de un término algebraico."
+  },
+  {
+    "id": 1304,
+    "materia": "Álgebra",
+    "pregunta": "El número que se coloca en la parte superior derecha de una o más letras del término, para indicar el número de veces que dicha letra se toma como factor, es el:",
+    "opciones": {
+      "a": "Coeficiente",
+      "b": "Exponente",
+      "c": "Signo",
+      "d": "Radical"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El exponente indica cuántas veces se multiplica la base por sí misma."
+  },
+  {
+    "id": 1305,
+    "materia": "Álgebra",
+    "pregunta": "¿Cómo se clasifican las expresiones algebraicas según el número de términos?",
+    "opciones": {
+      "a": "Simples y compuestas",
+      "b": "Lineales y cuadráticas",
+      "c": "Monomios, binomios, trinomios y polinomios",
+      "d": "Enteras y fraccionarias"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un monomio tiene un término, un binomio dos, un trinomio tres, y un polinomio dos o más términos."
+  },
+  {
+    "id": 1306,
+    "materia": "Álgebra",
+    "pregunta": "Los términos que tienen las mismas literales con los mismos exponentes correspondientes se llaman:",
+    "opciones": {
+      "a": "Términos diferentes",
+      "b": "Términos semejantes",
+      "c": "Términos opuestos",
+      "d": "Términos independientes"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Ejemplo: 6ab³ y -8ab³ son términos semejantes. Solo se pueden sumar o restar términos semejantes."
+  },
+  {
+    "id": 1307,
+    "materia": "Álgebra",
+    "pregunta": "Según la ley del producto de potencias de la misma base (aᵐ ⋅ aⁿ), el resultado es:",
+    "opciones": {
+      "a": "aᵐ⁻ⁿ",
+      "b": "aᵐ⁺ⁿ",
+      "c": "(a⋅a)ᵐⁿ",
+      "d": "aᵐⁿ"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Cuando se multiplican potencias de la misma base, se conserva la base y se suman los exponentes."
+  },
+  {
+    "id": 1308,
+    "materia": "Álgebra",
+    "pregunta": "La ley de la potencia de una potencia ((aᵐ)ⁿ) establece que el resultado es:",
+    "opciones": {
+      "a": "aᵐ⁺ⁿ",
+      "b": "aᵐ⁻ⁿ",
+      "c": "aᵐⁿ (a elevado a m por n)",
+      "d": "aᵐ/ⁿ"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Para elevar una potencia a otra potencia, se conserva la base y se multiplican los exponentes."
+  },
+  {
+    "id": 1309,
+    "materia": "Álgebra",
+    "pregunta": "Cualquier número o expresión (distinto de cero) elevado a la potencia 0 es igual a:",
+    "opciones": {
+      "a": "0",
+      "b": "1",
+      "c": "El mismo número",
+      "d": "Indefinido"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Por definición, a⁰ = 1, siempre que a ≠ 0."
+  },
+  {
+    "id": 1310,
+    "materia": "Álgebra",
+    "pregunta": "La expresión a⁻ⁿ es equivalente a:",
+    "opciones": {
+      "a": "-aⁿ",
+      "b": "1/aⁿ",
+      "c": "n√a",
+      "d": "(-a)ⁿ"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Un exponente negativo indica el recíproco de la base elevada al exponente positivo."
+  },
+  {
+    "id": 1311,
+    "materia": "Álgebra",
+    "pregunta": "El resultado de la adición algebraica 3a²b + 4a²b es:",
+    "opciones": {
+      "a": "7a⁴b²",
+      "b": "7a²b",
+      "c": "12a⁴b²",
+      "d": "a²b"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Son términos semejantes, por lo tanto, se suman los coeficientes y se conserva la parte literal: (3+4)a²b = 7a²b."
+  },
+  {
+    "id": 1312,
+    "materia": "Álgebra",
+    "pregunta": "El resultado de la sustracción 8ab² - 3ab² es:",
+    "opciones": {
+      "a": "5ab²",
+      "b": "11ab²",
+      "c": "5a²b⁴",
+      "d": "-5ab²"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Son términos semejantes, se restan los coeficientes: (8-3)ab² = 5ab²."
+  },
+  {
+    "id": 1313,
+    "materia": "Álgebra",
+    "pregunta": "El producto de (2x)(3y) es:",
+    "opciones": {
+      "a": "5xy",
+      "b": "6xy",
+      "c": "6x²y²",
+      "d": "2x3y"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Se multiplican los coeficientes (2×3=6) y las partes literales (x×y=xy), resultando 6xy."
+  },
+  {
+    "id": 1314,
+    "materia": "Álgebra",
+    "pregunta": "El resultado de la división (10m⁴n³) / (5m²n²) es:",
+    "opciones": {
+      "a": "2m²n",
+      "b": "5m⁶n⁵",
+      "c": "2m⁶n⁵",
+      "d": "50m²n"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Se dividen los coeficientes (10/5=2) y se restan los exponentes de las literales iguales (m⁴⁻²=m², n³⁻²=n). Resultado: 2m²n."
+  },
+  {
+    "id": 1315,
+    "materia": "Álgebra",
+    "pregunta": "El valor numérico de la expresión 4a + 3ab, si a=2 y b=3, es:",
+    "opciones": {
+      "a": "17",
+      "b": "26",
+      "c": "24",
+      "d": "14"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Sustituyendo: 4(2) + 3(2)(3) = 8 + 18 = 26."
+  },
+  {
+    "id": 1316,
+    "materia": "Álgebra",
+    "pregunta": "La representación algebraica de 'El triple de un número aumentado en cinco unidades' es:",
+    "opciones": {
+      "a": "3(x+5)",
+      "b": "3x + 5",
+      "c": "x/3 + 5",
+      "d": "5x + 3"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Si 'x' es el número, el triple es 3x, y aumentado en cinco es 3x + 5."
+  },
+  {
+    "id": 1317,
+    "materia": "Álgebra",
+    "pregunta": "El producto notable (x + y)² es igual a:",
+    "opciones": {
+      "a": "x² + y²",
+      "b": "x² - 2xy + y²",
+      "c": "x² + 2xy + y²",
+      "d": "x² - y²"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Es el cuadrado de un binomio: el cuadrado del primer término, más el doble producto del primero por el segundo, más el cuadrado del segundo término."
+  },
+  {
+    "id": 1318,
+    "materia": "Álgebra",
+    "pregunta": "El producto de dos binomios conjugados (x + y)(x - y) es igual a:",
+    "opciones": {
+      "a": "x² + y²",
+      "b": "x² - 2xy + y²",
+      "c": "x² + 2xy + y²",
+      "d": "x² - y²"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El producto de la suma por la diferencia de dos cantidades es igual a la diferencia de sus cuadrados."
+  },
+  {
+    "id": 1319,
+    "materia": "Álgebra",
+    "pregunta": "La operación que consiste en descomponer una expresión algebraica en dos o más factores cuyo producto es igual a la expresión propuesta se llama:",
+    "opciones": {
+      "a": "Simplificación",
+      "b": "Factorización",
+      "c": "Racionalización",
+      "d": "Desarrollo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Factorizar es expresar una suma o diferencia como un producto de factores."
+  },
+  {
+    "id": 1320,
+    "materia": "Álgebra",
+    "pregunta": "Al factorizar 6a³ + 4a² - 2a, el factor común es:",
+    "opciones": {
+      "a": "2",
+      "b": "a",
+      "c": "2a",
+      "d": "2a²"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El MCD de los coeficientes es 2, y la literal común con menor exponente es 'a'. Entonces el factor común es 2a. Factorizado: 2a(3a² + 2a - 1)."
+  },
+  {
+    "id": 1321,
+    "materia": "Álgebra",
+    "pregunta": "La factorización de una diferencia de dos cuadrados x² - y² es:",
+    "opciones": {
+      "a": "(x - y)(x - y)",
+      "b": "(x + y)(x + y)",
+      "c": "(x + y)(x - y)",
+      "d": "(x - y²)(x + 1)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Una diferencia de cuadrados se factoriza como el producto de binomios conjugados."
+  },
+  {
+    "id": 1322,
+    "materia": "Álgebra",
+    "pregunta": "El trinomio x² + 6x + 9 es un trinomio cuadrado perfecto. Su factorización es:",
+    "opciones": {
+      "a": "(x - 3)²",
+      "b": "(x + 3)(x - 3)",
+      "c": "(x + 3)²",
+      "d": "(x + 9)(x + 1)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La raíz de x² es x, la raíz de 9 es 3. El doble producto 2(x)(3) = 6x. Como el segundo término es positivo, es (x+3)²."
+  },
+  {
+    "id": 1323,
+    "materia": "Álgebra",
+    "pregunta": "En la factorización del trinomio x² - 10x + 21, se buscan dos números que sumados den -10 y multiplicados den 21. Estos números son:",
+    "opciones": {
+      "a": "-10 y -1",
+      "b": "7 y 3",
+      "c": "-7 y -3",
+      "d": "21 y 1"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "(-7) + (-3) = -10 y (-7) × (-3) = 21. La factorización es (x - 7)(x - 3)."
+  },
+  {
+    "id": 1324,
+    "materia": "Álgebra",
+    "pregunta": "Una relación en la cual a todo elemento de un conjunto “X” (dominio) le corresponde un valor de un segundo conjunto “Y” (rango) es una:",
+    "opciones": {
+      "a": "Ecuación",
+      "b": "Desigualdad",
+      "c": "Función",
+      "d": "Expresión"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Una función establece una correspondencia única entre los elementos del dominio y los del contradominio (o rango)."
+  },
+  {
+    "id": 1325,
+    "materia": "Álgebra",
+    "pregunta": "Si f(x) = 3x + 1, ¿cuál es el valor de f(2)?",
+    "opciones": {
+      "a": "6",
+      "b": "7",
+      "c": "5",
+      "d": "3"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "f(2) = 3(2) + 1 = 6 + 1 = 7."
+  },
+  {
+    "id": 1326,
+    "materia": "Álgebra",
+    "pregunta": "La gráfica de una función lineal como y = 2x + 1 es una:",
+    "opciones": {
+      "a": "Parábola",
+      "b": "Hipérbola",
+      "c": "Línea recta",
+      "d": "Circunferencia"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las funciones lineales (de la forma y = mx + b) siempre se representan gráficamente como una línea recta."
+  },
+  {
+    "id": 1327,
+    "materia": "Álgebra",
+    "pregunta": "El plano dividido en cuatro regiones por un sistema de ejes coordenados se llama:",
+    "opciones": {
+      "a": "Plano inclinado",
+      "b": "Plano cartesiano",
+      "c": "Plano ecuatorial",
+      "d": "Plano dimensional"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El plano cartesiano está formado por dos ejes perpendiculares (eje x y eje y) que se cortan en el origen."
+  },
+  {
+    "id": 1328,
+    "materia": "Álgebra",
+    "pregunta": "Una igualdad en la que el exponente de la variable es uno se llama:",
+    "opciones": {
+      "a": "Ecuación de segundo grado",
+      "b": "Ecuación de primer grado (o lineal)",
+      "c": "Inecuación",
+      "d": "Función cuadrática"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las ecuaciones de primer grado tienen la forma ax + b = c, donde la variable x tiene exponente 1."
+  },
+  {
+    "id": 1329,
+    "materia": "Álgebra",
+    "pregunta": "Resolver una ecuación es encontrar el valor de la ________ que haga verificar la igualdad.",
+    "opciones": {
+      "a": "Constante",
+      "b": "Variable",
+      "c": "Función",
+      "d": "Expresión"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La solución de una ecuación es el valor o valores de la incógnita (variable) que satisfacen la igualdad."
+  },
+  {
+    "id": 1330,
+    "materia": "Álgebra",
+    "pregunta": "Si 5x + 2 = 12, ¿cuál es el valor de x?",
+    "opciones": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "10/5"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "5x = 12 - 2; 5x = 10; x = 10/5; x = 2."
+  },
+  {
+    "id": 1331,
+    "materia": "Álgebra",
+    "pregunta": "La solución de la ecuación 3x + 4y = 36 si y=6 es:",
+    "opciones": {
+      "a": "x = 12",
+      "b": "x = 4",
+      "c": "x = 60/3",
+      "d": "x = 36 - 24"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "3x + 4(6) = 36; 3x + 24 = 36; 3x = 36 - 24; 3x = 12; x = 12/3; x = 4."
+  },
+  {
+    "id": 1332,
+    "materia": "Álgebra",
+    "pregunta": "Método de solución de sistemas de ecuaciones que consiste en obtener la gráfica de cada ecuación y encontrar el punto de intersección:",
+    "opciones": {
+      "a": "Método de suma y resta",
+      "b": "Método de sustitución",
+      "c": "Método gráfico",
+      "d": "Método de igualación"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El método gráfico representa cada ecuación como una recta y la solución del sistema es el punto donde se cruzan."
+  },
+  {
+    "id": 1333,
+    "materia": "Álgebra",
+    "pregunta": "Si dos rectas en un sistema de ecuaciones son paralelas distintas, el sistema:",
+    "opciones": {
+      "a": "Tiene una única solución",
+      "b": "No tiene solución",
+      "c": "Tiene infinidad de soluciones",
+      "d": "Tiene dos soluciones"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las rectas paralelas nunca se cortan, por lo tanto, no hay un punto común que satisfaga ambas ecuaciones."
+  },
+  {
+    "id": 1334,
+    "materia": "Álgebra",
+    "pregunta": "El método de solución de sistemas de ecuaciones que consiste en eliminar una variable sumando algebraicamente ambas ecuaciones es el método de:",
+    "opciones": {
+      "a": "Sustitución",
+      "b": "Igualación",
+      "c": "Gráfico",
+      "d": "Suma y resta (o reducción)"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Este método busca que los coeficientes de una variable sean opuestos para que se eliminen al sumar las ecuaciones."
+  },
+  {
+    "id": 1335,
+    "materia": "Álgebra",
+    "pregunta": "Las ecuaciones de la forma ax² + bx + c = 0 se llaman:",
+    "opciones": {
+      "a": "Ecuaciones lineales",
+      "b": "Ecuaciones de segundo grado (o cuadráticas)",
+      "c": "Ecuaciones exponenciales",
+      "d": "Ecuaciones logarítmicas"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Son ecuaciones donde el mayor exponente de la variable es 2."
+  },
+  {
+    "id": 1336,
+    "materia": "Álgebra",
+    "pregunta": "En una ecuación cuadrática, el término ax² es el término:",
+    "opciones": {
+      "a": "Lineal",
+      "b": "Independiente",
+      "c": "Cuadrático",
+      "d": "Constante"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Es el término que contiene la variable elevada al cuadrado."
+  },
+  {
+    "id": 1337,
+    "materia": "Álgebra",
+    "pregunta": "Si en una ecuación cuadrática ax² + c = 0 falta el término lineal (bx), se llama ecuación cuadrática:",
+    "opciones": {
+      "a": "Completa",
+      "b": "Incompleta pura",
+      "c": "Incompleta mixta",
+      "d": "Trinomial"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Cuando solo tiene el término cuadrático y el término independiente."
+  },
+  {
+    "id": 1338,
+    "materia": "Álgebra",
+    "pregunta": "La solución de la ecuación cuadrática incompleta 2x² - 32 = 0 es:",
+    "opciones": {
+      "a": "x = ±16",
+      "b": "x = ±4",
+      "c": "x = ±8",
+      "d": "x = ±2"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "2x² = 32; x² = 16; x = ±√16; x = ±4."
+  },
+  {
+    "id": 1339,
+    "materia": "Álgebra",
+    "pregunta": "El discriminante (D = b² - 4ac) de una ecuación cuadrática se utiliza para saber:",
+    "opciones": {
+      "a": "El valor exacto de las raíces",
+      "b": "El tipo de raíces que tiene la ecuación",
+      "c": "El vértice de la parábola",
+      "d": "El eje de simetría"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Si D > 0 hay dos raíces reales distintas; si D = 0 hay dos raíces reales iguales; si D < 0 no hay raíces reales (son complejas)."
+  },
+  {
+    "id": 1340,
+    "materia": "Álgebra",
+    "pregunta": "Si el discriminante de una ecuación cuadrática es menor que cero (D < 0), la ecuación:",
+    "opciones": {
+      "a": "Tiene dos raíces reales y distintas",
+      "b": "Tiene dos raíces reales e iguales",
+      "c": "No tiene raíces reales (tiene soluciones complejas)",
+      "d": "Tiene una raíz real y una compleja"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un discriminante negativo indica que las soluciones de la ecuación cuadrática son números complejos conjugados."
+  }
+]

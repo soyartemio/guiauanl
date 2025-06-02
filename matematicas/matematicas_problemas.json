@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1701,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "Un automóvil recorre 332 km con 28 litros de gasolina. ¿Cuántos kilómetros podrá recorrer con 42 litros de gasolina, manteniendo la misma eficiencia?",
+    "opciones": {
+      "a": "450 km",
+      "b": "498 km",
+      "c": "512 km",
+      "d": "550 km"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Eficiencia = 332 km / 28 L = 11.857 km/L. Distancia con 42 L = 11.857 km/L * 42 L = 498 km. O por regla de tres: (332/28) = (x/42) => x = (332 * 42) / 28 = 498 km."
+  },
+  {
+    "id": 1702,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "En una escuela hay 645 alumnos. Si el 30% son hombres, ¿cuántas mujeres hay en la escuela?",
+    "opciones": {
+      "a": "194",
+      "b": "451",
+      "c": "322",
+      "d": "500"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Hombres = 0.30 * 645 = 193.5. Mujeres = 645 - 193.5 = 451.5. Dado que no puede haber media persona, se redondea. Si se asume 193 hombres (redondeo a entero menor), Mujeres = 645 - 193 = 452. Si se asume 194 (redondeo a entero mayor), Mujeres = 645 - 194 = 451. La respuesta más cercana es 451."
+  },
+  {
+    "id": 1703,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "Si el precio de un artículo es de $560 y tiene un descuento del 15%, ¿cuál es el precio final del artículo?",
+    "opciones": {
+      "a": "$476",
+      "b": "$84",
+      "c": "$545",
+      "d": "$644"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Descuento = 0.15 * $560 = $84. Precio final = $560 - $84 = $476."
+  },
+  {
+    "id": 1704,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "Juan tiene $120. Gasta 1/4 de su dinero en un libro y 1/3 del resto en un refresco. ¿Cuánto dinero le queda?",
+    "opciones": {
+      "a": "$30",
+      "b": "$60",
+      "c": "$50",
+      "d": "$40"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Gasto en libro = $120 * (1/4) = $30. Resto = $120 - $30 = $90. Gasto en refresco = $90 * (1/3) = $30. Dinero que le queda = $90 - $30 = $60."
+  },
+  {
+    "id": 1705,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "La suma de tres números enteros consecutivos es 48. ¿Cuál es el número mayor?",
+    "opciones": {
+      "a": "15",
+      "b": "16",
+      "c": "17",
+      "d": "18"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Sean los números x, x+1, x+2. Entonces x + (x+1) + (x+2) = 48 => 3x + 3 = 48 => 3x = 45 => x = 15. Los números son 15, 16, 17. El mayor es 17."
+  },
+  {
+    "id": 1706,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "Si el doble de un número menos 5 es igual a 17, ¿cuál es el número?",
+    "opciones": {
+      "a": "9",
+      "b": "10",
+      "c": "11",
+      "d": "12"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Sea x el número. 2x - 5 = 17 => 2x = 17 + 5 => 2x = 22 => x = 11."
+  },
+  {
+    "id": 1707,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "Un rectángulo mide 25 metros de base y 30 metros de altura. ¿Cuál es la longitud de su diagonal?",
+    "opciones": {
+      "a": "35 m",
+      "b": "39.05 m",
+      "c": "42.15 m",
+      "d": "55 m"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Usando el Teorema de Pitágoras: d² = base² + altura² => d² = 25² + 30² = 625 + 900 = 1525. d = √1525 ≈ 39.05 metros."
+  },
+  {
+    "id": 1708,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "Un edificio proyecta una sombra de 108 metros si el ángulo de elevación del sol es de 61°. ¿Cuál es la altura aproximada del edificio? (tan(61°) ≈ 1.804)",
+    "opciones": {
+      "a": "59.87 m",
+      "b": "108 m",
+      "c": "194.83 m",
+      "d": "150.5 m"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "tan(ángulo) = altura / sombra => altura = sombra * tan(ángulo) => altura = 108 m * tan(61°) = 108 m * 1.804 ≈ 194.83 m."
+  },
+  {
+    "id": 1709,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "Las edades de tres hermanos suman 60 años. El mayor tiene el triple de edad que el menor, y el mediano tiene el doble de edad que el menor. ¿Qué edad tiene el hermano menor?",
+    "opciones": {
+      "a": "8 años",
+      "b": "10 años",
+      "c": "12 años",
+      "d": "15 años"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Sea x la edad del menor. Mediano = 2x. Mayor = 3x. x + 2x + 3x = 60 => 6x = 60 => x = 10 años."
+  },
+  {
+    "id": 1710,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "Un tinaco cilíndrico mide 0.80 metros de radio y 2.20 metros de altura. ¿Cuántos litros de agua caben en el tinaco? (Considera π ≈ 3.1416 y 1 m³ = 1000 litros)",
+    "opciones": {
+      "a": "4423.39 litros",
+      "b": "2211.70 litros",
+      "c": "5529.24 litros",
+      "d": "1769.36 litros"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Volumen (V) = π * r² * h = 3.1416 * (0.80 m)² * 2.20 m = 3.1416 * 0.64 m² * 2.20 m = 4.4233984 m³. En litros: 4.4233984 m³ * 1000 L/m³ ≈ 4423.39 litros."
+  },
+  {
+    "id": 1711,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "Seis obreros pueden completar un trabajo en 10 días. ¿Cuántos días necesitarán 4 obreros para hacer el mismo trabajo, asumiendo que todos trabajan al mismo ritmo?",
+    "opciones": {
+      "a": "6.67 días",
+      "b": "12 días",
+      "c": "15 días",
+      "d": "20 días"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Es una proporción inversa. (6 obreros * 10 días) = (4 obreros * x días) => 60 = 4x => x = 60/4 = 15 días."
+  },
+  {
+    "id": 1712,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "El perímetro de un rectángulo es de 46 cm. Si el largo es 5 cm más que el ancho, ¿cuáles son las dimensiones del rectángulo?",
+    "opciones": {
+      "a": "Ancho 9 cm, Largo 14 cm",
+      "b": "Ancho 10 cm, Largo 15 cm",
+      "c": "Ancho 8 cm, Largo 13 cm",
+      "d": "Ancho 11 cm, Largo 16 cm"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Sea 'a' el ancho y 'l' el largo. l = a + 5. Perímetro P = 2(a+l) = 46 => a+l = 23. Sustituyendo l: a + (a+5) = 23 => 2a + 5 = 23 => 2a = 18 => a = 9 cm. Entonces l = 9 + 5 = 14 cm."
+  },
+  {
+    "id": 1713,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "Si la suma de dos números es 35 y su diferencia es 5, ¿cuáles son los números?",
+    "opciones": {
+      "a": "15 y 20",
+      "b": "10 y 25",
+      "c": "12 y 23",
+      "d": "18 y 17"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Sean x e y los números. x + y = 35; x - y = 5. Sumando ambas ecuaciones: 2x = 40 => x = 20. Sustituyendo x en la primera: 20 + y = 35 => y = 15. Los números son 20 y 15."
+  },
+  {
+    "id": 1714,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "Un terreno rectangular tiene un área de 120 m². Si el largo mide 12 m, ¿cuánto mide el ancho?",
+    "opciones": {
+      "a": "8 m",
+      "b": "10 m",
+      "c": "12 m",
+      "d": "15 m"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Área = Largo × Ancho. 120 m² = 12 m × Ancho. Ancho = 120 m² / 12 m = 10 m."
+  },
+  {
+    "id": 1715,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "Desde una embarcación se observa un faro con un ángulo de elevación de 25° 38’. Si el faro tiene una altura de 48 metros sobre el nivel del mar, ¿cuál es la distancia horizontal aproximada del barco al faro? (tan(25°38') ≈ 0.480)",
+    "opciones": {
+      "a": "23.04 m",
+      "b": "48 m",
+      "c": "96 m",
+      "d": "100 m"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "tan(ángulo) = altura / distancia_horizontal => distancia_horizontal = altura / tan(ángulo) = 48 m / tan(25°38') = 48 m / 0.480 ≈ 100 m."
+  },
+  {
+    "id": 1716,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "Una fuente tiene forma de prisma hexagonal regular. Cada lado de la base mide 4 metros, el apotema de la base mide 3.25 metros y la altura de la fuente es de 1.35 metros. ¿Cuál es el volumen de agua necesario para llenarla, en metros cúbicos?",
+    "opciones": {
+      "a": "26.325 m³",
+      "b": "39.000 m³",
+      "c": "52.650 m³",
+      "d": "78.000 m³"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Perímetro base = 6 * 4m = 24m. Área base = (Perímetro * apotema) / 2 = (24m * 3.25m) / 2 = 78m² / 2 = 39m². Volumen = Área base * altura = 39m² * 1.35m = 52.65 m³."
+  },
+  {
+    "id": 1717,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "Si 3x - 7 = 2x + 5, ¿cuál es el valor de x?",
+    "opciones": {
+      "a": "2",
+      "b": "12",
+      "c": "-2",
+      "d": "-12"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "3x - 2x = 5 + 7 => x = 12."
+  },
+  {
+    "id": 1718,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "En una bolsa hay 4 esferas rojas, 3 azules y 2 blancas. ¿Cuál es la probabilidad de sacar una esfera que NO sea blanca?",
+    "opciones": {
+      "a": "2/9",
+      "b": "4/9",
+      "c": "3/9",
+      "d": "7/9"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Total de esferas = 4+3+2 = 9. Esferas no blancas (rojas + azules) = 4+3 = 7. Probabilidad = 7/9."
+  },
+  {
+    "id": 1719,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "El área de un triángulo es de 24 cm². Si su base mide 8 cm, ¿cuánto mide su altura?",
+    "opciones": {
+      "a": "3 cm",
+      "b": "4 cm",
+      "c": "6 cm",
+      "d": "12 cm"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Área = (base × altura) / 2 => 24 cm² = (8 cm × altura) / 2 => 48 cm² = 8 cm × altura => altura = 48 cm² / 8 cm = 6 cm."
+  },
+  {
+    "id": 1720,
+    "materia": "Matemáticas (Problemas)",
+    "pregunta": "Si se lanzan dos dados, ¿cuál es la probabilidad de que la suma de los puntos sea 7?",
+    "opciones": {
+      "a": "5/36",
+      "b": "6/36 (o 1/6)",
+      "c": "7/36",
+      "d": "1/7"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Combinaciones que suman 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) -> 6 combinaciones. Total de combinaciones posibles al lanzar dos dados = 6x6 = 36. Probabilidad = 6/36 = 1/6."
+  }
+]
