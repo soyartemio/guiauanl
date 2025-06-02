@@ -1,0 +1,1432 @@
+[
+  {
+    "id": 1,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "¿Cuál es el proceso biológico que permite a los organismos procesar sus alimentos, ocurriendo por medio del anabolismo y catabolismo?",
+    "opciones": {
+      "a": "Crecimiento",
+      "b": "Metabolismo",
+      "c": "Reproducción",
+      "d": "Adaptación"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El metabolismo es el proceso biológico que permite a los organismos procesar sus alimentos. Se divide en anabolismo (transformar sustancias sencillas en complejas) y catabolismo (desdoblamiento de sustancias complejas en sencillas)."
+  },
+  {
+    "id": 2,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Capacidad de los seres vivos de multiplicarse dando lugar a otros de su misma especie.",
+    "opciones": {
+      "a": "Organización",
+      "b": "Movimiento",
+      "c": "Reproducción",
+      "d": "Irritabilidad"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La reproducción es la capacidad de los seres vivos de multiplicarse, originando nuevos individuos de la misma especie."
+  },
+  {
+    "id": 3,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "¿Qué reino agrupa a organismos unicelulares procariontes que carecen de núcleo diferenciado, como las bacterias?",
+    "opciones": {
+      "a": "Reino Protista",
+      "b": "Reino Fungi",
+      "c": "Reino Monera",
+      "d": "Reino Plantae"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Reino Monera está compuesto por organismos unicelulares procariontes, como las bacterias y las algas azul-verdes, que no poseen un núcleo definido."
+  },
+  {
+    "id": 4,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Organismos que no pueden producir su propio alimento y dependen de otros para obtenerlo.",
+    "opciones": {
+      "a": "Autótrofos",
+      "b": "Heterótrofos",
+      "c": "Aeróbicos",
+      "d": "Anaerobios"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los heterótrofos son organismos que no pueden fabricar su propio alimento y lo obtienen consumiendo otros organismos."
+  },
+  {
+    "id": 5,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "La ciencia que estudia las relaciones que existen entre los seres vivos y el ambiente que los rodea se denomina:",
+    "opciones": {
+      "a": "Taxonomía",
+      "b": "Genética",
+      "c": "Ecología",
+      "d": "Paleontología"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La ecología estudia las interacciones de los seres vivos entre sí y con su entorno."
+  },
+  {
+    "id": 6,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "¿Cuáles son los organismos fotosintéticos que convierten la energía luminosa en energía alimenticia en un ecosistema?",
+    "opciones": {
+      "a": "Consumidores",
+      "b": "Descomponedores",
+      "c": "Productores",
+      "d": "Reductores"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los organismos productores, como las plantas, son la base de las cadenas alimenticias al convertir la energía solar en alimento mediante la fotosíntesis."
+  },
+  {
+    "id": 7,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Un ecosistema terrestre caracterizado por grandes pastizales, flora como acacias y fauna como cebras y leones es:",
+    "opciones": {
+      "a": "Desierto",
+      "b": "Tundra",
+      "c": "Selva",
+      "d": "Sabana"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "La sabana es un ecosistema de grandes pastizales con árboles dispersos como acacias, y fauna característica como cebras, jirafas y leones."
+  },
+  {
+    "id": 8,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "¿Cuál de los siguientes es un ejemplo de contaminante no biodegradable?",
+    "opciones": {
+      "a": "Papel",
+      "b": "Restos de vegetales",
+      "c": "Plásticos",
+      "d": "Telas de algodón"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los plásticos son contaminantes no degradables, ya que tardan mucho tiempo en descomponerse en el ambiente."
+  },
+  {
+    "id": 9,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El conocimiento que se obtiene a través del tiempo con la experiencia se denomina:",
+    "opciones": {
+      "a": "Conocimiento científico",
+      "b": "Conocimiento empírico",
+      "c": "Teoría",
+      "d": "Ley"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El conocimiento empírico se basa en la experiencia y la observación directa, a diferencia del científico que sigue un método."
+  },
+  {
+    "id": 10,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "En el método científico, ¿qué es una explicación provisional de la posible solución a un problema planteado?",
+    "opciones": {
+      "a": "Observación",
+      "b": "Experimentación",
+      "c": "Hipótesis",
+      "d": "Conclusión"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Una hipótesis es una suposición o explicación provisional que se formula para ser comprobada mediante la experimentación."
+  },
+  {
+    "id": 11,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Científico que postuló la teoría de la evolución basada en el principio del uso y desuso de los órganos y la herencia de los caracteres adquiridos:",
+    "opciones": {
+      "a": "Charles Darwin",
+      "b": "Gregor Mendel",
+      "c": "Jean Baptiste de Lamarck",
+      "d": "Louis Pasteur"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Jean Baptiste de Lamarck propuso que las especies evolucionaban mediante el uso o desuso de sus órganos y que estos cambios adquiridos se heredaban."
+  },
+  {
+    "id": 12,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Proceso de sobrevivencia de los organismos cuya variabilidad los hace más aptos para vivir en un medio particular, según Darwin:",
+    "opciones": {
+      "a": "Adaptación genética",
+      "b": "Selección Natural",
+      "c": "Mutación espontánea",
+      "d": "Herencia de caracteres adquiridos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La Selección Natural es el mecanismo central de la teoría de la evolución de Darwin, donde los individuos mejor adaptados a su entorno sobreviven y se reproducen más."
+  },
+  {
+    "id": 13,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Restos de organismos que vivieron en épocas pasadas, como huesos o conchas, estudiados por la Paleontología:",
+    "opciones": {
+      "a": "Minerales",
+      "b": "Rocas sedimentarias",
+      "c": "Fósiles",
+      "d": "Artefactos antiguos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los fósiles son restos o huellas de organismos preservados que proporcionan evidencia de la vida en el pasado."
+  },
+  {
+    "id": 14,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Instrumento que permite observar objetos demasiado pequeños para ser vistos a simple vista:",
+    "opciones": {
+      "a": "Telescopio",
+      "b": "Microscopio",
+      "c": "Lupa",
+      "d": "Periscopio"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El microscopio es el instrumento diseñado para ampliar imágenes de objetos muy pequeños, revelando detalles no visibles al ojo humano."
+  },
+  {
+    "id": 15,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Uno de los principios de la Teoría Celular establece que:",
+    "opciones": {
+      "a": "Las células solo se encuentran en animales.",
+      "b": "Todas las células proceden de células preexistentes.",
+      "c": "Las células no contienen información hereditaria.",
+      "d": "Los virus son la unidad básica de la vida."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La Teoría Celular postula que toda célula se origina de otra célula preexistente (Omnis cellula e cellula)."
+  },
+  {
+    "id": 16,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "¿Cuál de los siguientes elementos NO es uno de los seis principales que forman la materia viva (CHONPS)?",
+    "opciones": {
+      "a": "Carbono (C)",
+      "b": "Hidrógeno (H)",
+      "c": "Hierro (Fe)",
+      "d": "Oxígeno (O)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los seis bioelementos primarios son Carbono, Hidrógeno, Oxígeno, Nitrógeno, Fósforo y Azufre. El Hierro es un oligoelemento importante, pero no de los seis principales."
+  },
+  {
+    "id": 17,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Son biomoléculas que actúan como catalizadores, regulando la velocidad de las reacciones químicas en las células:",
+    "opciones": {
+      "a": "Carbohidratos",
+      "b": "Lípidos",
+      "c": "Enzimas",
+      "d": "Ácidos Nucleicos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las enzimas son proteínas especializadas que aceleran las reacciones bioquímicas sin consumirse en el proceso."
+  },
+  {
+    "id": 18,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Parte de la célula que conserva y mantiene constantes las condiciones del interior, regulando el intercambio de sustancias:",
+    "opciones": {
+      "a": "Núcleo",
+      "b": "Citoplasma",
+      "c": "Membrana celular",
+      "d": "Mitocondria"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La membrana celular (o plasmática) actúa como una barrera selectiva que controla el paso de sustancias hacia adentro y afuera de la célula."
+  },
+  {
+    "id": 19,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Proceso mediante el cual los seres vivos obtienen la materia y energía necesarias para sus funciones vitales:",
+    "opciones": {
+      "a": "Respiración",
+      "b": "Nutrición",
+      "c": "Excreción",
+      "d": "Circulación"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La nutrición es el conjunto de procesos por los cuales los organismos incorporan y transforman los nutrientes para obtener energía y construir sus propias estructuras."
+  },
+  {
+    "id": 20,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Grupo de células semejantes en estructura y función:",
+    "opciones": {
+      "a": "Órgano",
+      "b": "Sistema",
+      "c": "Tejido",
+      "d": "Organismo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un tejido es un conjunto de células similares que cumplen una función específica, como el tejido muscular o el tejido epitelial."
+  },
+  {
+    "id": 21,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Tipo de nutrición realizada por organismos que producen sus propios alimentos a partir de materia inorgánica, como las plantas:",
+    "opciones": {
+      "a": "Heterótrofa",
+      "b": "Autótrofa",
+      "c": "Saprófita",
+      "d": "Parasitaria"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La nutrición autótrofa es característica de organismos capaces de sintetizar su propio alimento, principalmente mediante la fotosíntesis."
+  },
+  {
+    "id": 22,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Proceso donde las plantas verdes transforman materia inorgánica (H2O y CO2) en materia orgánica nutritiva usando luz solar:",
+    "opciones": {
+      "a": "Respiración",
+      "b": "Digestión",
+      "c": "Fotosíntesis",
+      "d": "Transpiración"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La fotosíntesis es el proceso vital por el cual las plantas y otros organismos convierten la energía lumínica en energía química almacenada en moléculas orgánicas."
+  },
+  {
+    "id": 23,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Proceso fisiológico indispensable para la vida de los organismos aeróbicos, que implica un intercambio gaseoso con el medio ambiente:",
+    "opciones": {
+      "a": "Fotosíntesis",
+      "b": "Digestión",
+      "c": "Respiración",
+      "d": "Circulación"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La respiración es el proceso por el cual los organismos toman oxígeno del ambiente y liberan dióxido de carbono, obteniendo energía."
+  },
+  {
+    "id": 24,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El fenómeno referente a la absorción de parte de la energía que el suelo emite por ciertos gases atmosféricos, causando un aumento de temperatura global, se conoce como:",
+    "opciones": {
+      "a": "Lluvia ácida",
+      "b": "Destrucción de la capa de ozono",
+      "c": "Efecto invernadero",
+      "d": "Contaminación del agua"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El efecto invernadero es un proceso natural que se ve intensificado por la actividad humana, llevando al calentamiento global debido a la retención de calor por gases en la atmósfera."
+  },
+  {
+    "id": 25,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "La unión de los núcleos del óvulo y espermatozoide se denomina:",
+    "opciones": {
+      "a": "Ovulación",
+      "b": "Menstruación",
+      "c": "Fecundación",
+      "d": "Parto"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La fecundación es el proceso de fusión de los gametos masculino (espermatozoide) y femenino (óvulo) para formar un cigoto."
+  },
+  {
+    "id": 26,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "¿Cuál es la unidad estructural y funcional de vegetales y animales?",
+    "opciones": {
+      "a": "El tejido",
+      "b": "El órgano",
+      "c": "La célula",
+      "d": "El sistema"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La célula es la unidad estructural y funcional básica de todos los seres vivos."
+  },
+  {
+    "id": 27,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Regulación y mantenimiento del ambiente interno de un organismo:",
+    "opciones": {
+      "a": "Metabolismo",
+      "b": "Homeostasis",
+      "c": "Adaptación",
+      "d": "Irritabilidad"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La homeostasis es la capacidad de los organismos para mantener condiciones internas estables y constantes."
+  },
+  {
+    "id": 28,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "¿Quién utilizó el 'NOMBRE CIENTÍFICO' para distinguir a un ser vivo, constando de género y especie?",
+    "opciones": {
+      "a": "Aristóteles",
+      "b": "Teofrasto",
+      "c": "Carlos Linneo",
+      "d": "Charles Darwin"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Carlos Linneo es considerado el padre de la taxonomía moderna y estableció el sistema de nomenclatura binomial (género y especie)."
+  },
+  {
+    "id": 29,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Organismos que viven en ausencia del oxígeno libre del aire, como algunas levaduras y bacterias:",
+    "opciones": {
+      "a": "Aeróbicos",
+      "b": "Anaerobios",
+      "c": "Autótrofos",
+      "d": "Heterótrofos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los organismos anaerobios pueden vivir y llevar a cabo sus procesos metabólicos sin necesidad de oxígeno."
+  },
+  {
+    "id": 30,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Los factores abióticos de un sistema ecológico incluyen:",
+    "opciones": {
+      "a": "Plantas y animales",
+      "b": "Hongos y bacterias",
+      "c": "Luz, agua y suelo",
+      "d": "Productores y consumidores"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los factores abióticos son los componentes no vivos de un ecosistema, como la luz solar, el agua, el suelo, la temperatura."
+  },
+  {
+    "id": 31,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Comprende desde los organismos microscópicos hasta los animales de mayor tamaño que se encuentran en el medio y se alimentan de otros:",
+    "opciones": {
+      "a": "Organismos productores",
+      "b": "Organismos consumidores",
+      "c": "Organismos descomponedores",
+      "d": "Factores abióticos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los organismos consumidores obtienen energía alimentándose de otros organismos (productores o otros consumidores)."
+  },
+  {
+    "id": 32,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Cualquier ser vivo, es decir, una unidad capaz de realizar las funciones vitales, se denomina:",
+    "opciones": {
+      "a": "Población",
+      "b": "Comunidad",
+      "c": "Individuo",
+      "d": "Ecosistema"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un individuo es un organismo único capaz de realizar todas las funciones vitales."
+  },
+  {
+    "id": 33,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Ecosistema con clima muy frío, flora como musgos y líquenes, y fauna como alces y osos polares:",
+    "opciones": {
+      "a": "Selva",
+      "b": "Desierto",
+      "c": "Sabana",
+      "d": "Tundra"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "La tundra es un bioma caracterizado por bajas temperaturas, suelo congelado (permafrost) y vegetación de bajo crecimiento."
+  },
+  {
+    "id": 34,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "La contaminación del suelo se debe principalmente al uso de:",
+    "opciones": {
+      "a": "Desechos urbanos en ríos",
+      "b": "Emisiones de gases industriales",
+      "c": "Fertilizantes artificiales y plaguicidas",
+      "d": "Ruido excesivo en ciudades"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El uso indiscriminado de fertilizantes y plaguicidas en la agricultura es una de las principales causas de contaminación del suelo."
+  },
+  {
+    "id": 35,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Cuando en la experimentación los resultados afirman lo mismo una y otra vez, el conocimiento se generaliza y las hipótesis pasan a ser:",
+    "opciones": {
+      "a": "Observaciones",
+      "b": "Leyes",
+      "c": "Teorías",
+      "d": "Problemas"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Una teoría científica es una explicación bien fundamentada de algún aspecto del mundo natural, basada en un cuerpo de hechos que han sido repetidamente confirmados mediante observación y experimentación."
+  },
+  {
+    "id": 36,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Proceso donde ocurren modificaciones en el contenido genético de una especie, de una generación a la siguiente:",
+    "opciones": {
+      "a": "Homeostasis",
+      "b": "Evolución biológica",
+      "c": "Metabolismo",
+      "d": "Adaptación"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La evolución biológica se refiere a los cambios en las características heredables de las poblaciones biológicas a lo largo de generaciones sucesivas."
+  },
+  {
+    "id": 37,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Un cambio brusco que es hereditario o se produce por alteraciones de los genes y da origen a la variabilidad en los nuevos seres, se llama:",
+    "opciones": {
+      "a": "Adaptación",
+      "b": "Selección natural",
+      "c": "Mutación",
+      "d": "Especiación"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Una mutación es un cambio en la secuencia del ADN que puede generar nueva variabilidad genética."
+  },
+  {
+    "id": 38,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "La técnica de producir imágenes visibles de estructuras demasiado pequeñas para ser percibidas a simple vista se llama:",
+    "opciones": {
+      "a": "Telescopía",
+      "b": "Radiografía",
+      "c": "Microscopía",
+      "d": "Ecografía"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La microscopía es la ciencia de investigar objetos pequeños y estructuras usando un microscopio."
+  },
+  {
+    "id": 39,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Elemento químico que forma parte integral del ADN y del ARN, y es imprescindible para los organismos vivientes:",
+    "opciones": {
+      "a": "Azufre",
+      "b": "Fósforo",
+      "c": "Nitrógeno",
+      "d": "Calcio"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El fósforo es un componente esencial de los ácidos nucleicos (ADN y ARN) y del ATP, la molécula de energía de las células."
+  },
+  {
+    "id": 40,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Los virus están compuestos por un segmento de ácido nucleico (ADN o ARN) envuelto en una cápsula de:",
+    "opciones": {
+      "a": "Lípidos",
+      "b": "Carbohidratos",
+      "c": "Proteínas",
+      "d": "Celulosa"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La cápside de los virus, que protege su material genético, está compuesta principalmente por proteínas."
+  },
+  {
+    "id": 41,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "En la célula, ¿dónde se encuentran las estructuras portadoras de los caracteres hereditarios (cromosomas)?",
+    "opciones": {
+      "a": "Membrana celular",
+      "b": "Citoplasma",
+      "c": "Ribosomas",
+      "d": "Núcleo"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El núcleo es el orgánulo celular que contiene la mayor parte del material genético de la célula en forma de cromosomas."
+  },
+  {
+    "id": 42,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Enfermedades como la anemia, aterosclerosis y diabetes están frecuentemente relacionadas con una deficiente:",
+    "opciones": {
+      "a": "Respiración",
+      "b": "Circulación",
+      "c": "Nutrición",
+      "d": "Excreción"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Una nutrición deficiente, ya sea por exceso, defecto o mala calidad de los nutrientes, es un factor de riesgo para múltiples enfermedades."
+  },
+  {
+    "id": 43,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Tejido formado por células especializadas en recibir estímulos y transmitirlos a otras células:",
+    "opciones": {
+      "a": "Tejido epitelial",
+      "b": "Tejido conectivo",
+      "c": "Tejido muscular",
+      "d": "Tejido nervioso"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El tejido nervioso, compuesto por neuronas y células gliales, está especializado en la transmisión de impulsos nerviosos."
+  },
+  {
+    "id": 44,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El conjunto de reacciones que rompen las sustancias orgánicas y liberan energía se conoce como:",
+    "opciones": {
+      "a": "Anabolismo",
+      "b": "Catabolismo",
+      "c": "Fotosíntesis",
+      "d": "Homeostasis"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El catabolismo es la fase del metabolismo donde moléculas complejas se degradan a moléculas más simples, liberando energía."
+  },
+  {
+    "id": 45,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Método de conservación de alimentos que utiliza bajas temperaturas para minimizar la acción de microorganismos:",
+    "opciones": {
+      "a": "Pasteurización",
+      "b": "Esterilización",
+      "c": "Refrigeración",
+      "d": "Ahumado"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La refrigeración (0-6°C) ralentiza el crecimiento microbiano y las reacciones enzimáticas, conservando los alimentos por más tiempo."
+  },
+  {
+    "id": 46,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "¿Cuál es la principal causa del llamado efecto invernadero, asociado al calentamiento global?",
+    "opciones": {
+      "a": "El aumento del oxígeno atmosférico",
+      "b": "La disminución del dióxido de carbono",
+      "c": "El aumento del dióxido de carbono en la atmósfera",
+      "d": "La actividad volcánica exclusivamente"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El aumento de gases de efecto invernadero, principalmente dióxido de carbono por actividades humanas, es la causa principal del calentamiento global."
+  },
+  {
+    "id": 47,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El tiempo durante el cual se desarrolla un nuevo ser dentro de la madre, normalmente cuarenta semanas, se conoce como:",
+    "opciones": {
+      "a": "Lactancia",
+      "b": "Fecundación",
+      "c": "Parto",
+      "d": "Embarazo"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El embarazo o gestación es el período desde la fecundación hasta el nacimiento del nuevo ser."
+  },
+  {
+    "id": 48,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "¿Cuál de los siguientes es un método anticonceptivo mecánico?",
+    "opciones": {
+      "a": "Píldoras anticonceptivas",
+      "b": "Método del ritmo",
+      "c": "Diafragma",
+      "d": "Vasectomía"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El diafragma es un método de barrera (mecánico) que impide el paso de los espermatozoides al útero."
+  },
+  {
+    "id": 49,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Proceso biológico que requiere un solo progenitor para generar descendientes:",
+    "opciones": {
+      "a": "Reproducción sexual",
+      "b": "Reproducción asexual",
+      "c": "Fecundación",
+      "d": "Gametogénesis"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La reproducción asexual involucra a un único progenitor que produce descendientes genéticamente idénticos a él."
+  },
+  {
+    "id": 50,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Durante la mitosis, ¿en qué fase los pares de cromátidas se alinean en la parte central del huso acromático?",
+    "opciones": {
+      "a": "Profase",
+      "b": "Metafase",
+      "c": "Anafase",
+      "d": "Telofase"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "En la metafase de la mitosis, los cromosomas se alinean en el plano ecuatorial de la célula."
+  },
+  {
+    "id": 51,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "La Genética es una rama de la Biología que estudia:",
+    "opciones": {
+      "a": "La clasificación de los seres vivos",
+      "b": "Las interacciones de los organismos con su ambiente",
+      "c": "La estructura de las moléculas encargadas de transmitir las características hereditarias",
+      "d": "Los procesos de nutrición y respiración celular"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La Genética se enfoca en el estudio de la herencia y la variación, incluyendo la estructura y función de los genes y el ADN."
+  },
+  {
+    "id": 52,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Según Mendel, los caracteres que siempre se manifiestan de una generación a otra se llaman:",
+    "opciones": {
+      "a": "Recesivos",
+      "b": "Dominantes",
+      "c": "Híbridos",
+      "d": "Puros"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los caracteres dominantes son aquellos que se expresan fenotípicamente incluso si solo está presente una copia del alelo."
+  },
+  {
+    "id": 53,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El conjunto de genes que informan sobre las características de un ser vivo se le denomina:",
+    "opciones": {
+      "a": "Fenotipo",
+      "b": "Genotipo",
+      "c": "Cromosoma",
+      "d": "Alelo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El genotipo es la composición genética de un individuo para un conjunto particular de genes."
+  },
+  {
+    "id": 54,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "En la especie humana, una mujer tiene dos cromosomas sexuales:",
+    "opciones": {
+      "a": "XY",
+      "b": "XX",
+      "c": "XO",
+      "d": "YY"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las mujeres normalmente tienen dos cromosomas X (XX) como su par de cromosomas sexuales."
+  },
+  {
+    "id": 55,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El Síndrome de Down se presenta por el aumento de un cromosoma en el par número:",
+    "opciones": {
+      "a": "18",
+      "b": "21",
+      "c": "13",
+      "d": "X"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El Síndrome de Down es una condición genética causada por la presencia de una copia extra del cromosoma 21 (trisomía 21)."
+  },
+  {
+    "id": 56,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "¿Cuál es el nombre del proceso que se lleva a cabo en las especies para condicionarse rápida y gradualmente para lograr sobrevivir?",
+    "opciones": {
+      "a": "Movimiento",
+      "b": "Irritabilidad",
+      "c": "Adaptación",
+      "d": "Homeostasis"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La adaptación es el proceso evolutivo por el cual una especie se ajusta a su entorno para mejorar sus posibilidades de supervivencia y reproducción."
+  },
+  {
+    "id": 57,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El Reino Fungi agrupa a organismos eucariontes que carecen de clorofila y son saprofitos o parásitos. ¿Cuáles son ejemplos de este reino?",
+    "opciones": {
+      "a": "Bacterias y algas azul-verdes",
+      "b": "Protozoarios y algas",
+      "c": "Mohos, levaduras y hongos superiores",
+      "d": "Musgos y helechos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Reino Fungi incluye organismos como los mohos, las levaduras y los hongos, que obtienen nutrientes por absorción."
+  },
+  {
+    "id": 58,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El nombre científico 'Canis familiaris' se refiere al:",
+    "opciones": {
+      "a": "Gato doméstico",
+      "b": "Lobo gris",
+      "c": "Perro doméstico",
+      "d": "Zorro rojo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Canis familiaris es la nomenclatura binomial para el perro doméstico, donde 'Canis' es el género y 'familiaris' la especie."
+  },
+  {
+    "id": 59,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "En una cadena alimenticia, los hongos y bacterias que desdoblan compuestos orgánicos de organismos muertos son los:",
+    "opciones": {
+      "a": "Productores",
+      "b": "Consumidores primarios",
+      "c": "Consumidores secundarios",
+      "d": "Descomponedores"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Los descomponedores, como hongos y bacterias, juegan un papel crucial al reciclar nutrientes de la materia orgánica muerta."
+  },
+  {
+    "id": 60,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El conjunto de todos los individuos que pertenecen a una misma especie y viven juntos en un lugar determinado se llama:",
+    "opciones": {
+      "a": "Comunidad",
+      "b": "Población",
+      "c": "Ecosistema",
+      "d": "Biotopo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Una población es un grupo de individuos de la misma especie que coexisten en el mismo espacio y tiempo."
+  },
+  {
+    "id": 61,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "¿Cuál de estas acciones NO es una medida recomendada para prevenir problemas ambientales?",
+    "opciones": {
+      "a": "Realizar campañas de reforestación.",
+      "b": "Reciclar los desechos industriales.",
+      "c": "Incrementar el uso de vehículos que usan combustibles fósiles.",
+      "d": "Hacer conciencia de los graves problemas ambientales."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Incrementar el uso de vehículos que usan combustibles fósiles agrava los problemas ambientales como la contaminación del aire y el cambio climático."
+  },
+  {
+    "id": 62,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Teorías que afirmaban que no hay proceso de cambio y que el número de especies en la Tierra siempre ha permanecido igual desde su creación:",
+    "opciones": {
+      "a": "Teorías evolucionistas",
+      "b": "Teorías fijistas",
+      "c": "Teoría de la selección natural",
+      "d": "Teoría sintética de la evolución"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las teorías fijistas sostenían que las especies eran inmutables y habían sido creadas tal como se conocen actualmente."
+  },
+  {
+    "id": 63,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El fenómeno genético en cuyo proceso se desarrollan nuevas especies a partir de otras ancestrales se denomina:",
+    "opciones": {
+      "a": "Mutación",
+      "b": "Adaptación",
+      "c": "Especiación",
+      "d": "Hibridación"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La especiación es el proceso evolutivo mediante el cual surgen nuevas especies biológicas."
+  },
+  {
+    "id": 64,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Cada célula contiene toda la información hereditaria necesaria para el control de su propio ciclo. Esto la define como la unidad:",
+    "opciones": {
+      "a": "Estructural",
+      "b": "Fisiológica",
+      "c": "De origen",
+      "d": "Genética"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "La célula es la unidad genética porque contiene y transmite la información hereditaria a través del ADN."
+  },
+  {
+    "id": 65,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Elemento que forma parte del material genético y de otras moléculas en los seres vivos; uno de sus compuestos es el ácido sulfhídrico.",
+    "opciones": {
+      "a": "Carbono",
+      "b": "Fósforo",
+      "c": "Azufre",
+      "d": "Nitrógeno"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El azufre es un componente de algunos aminoácidos y vitaminas, y está presente en moléculas como el ácido sulfhídrico."
+  },
+  {
+    "id": 66,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Biomoléculas compuestas por carbono, hidrógeno y oxígeno, siendo la principal fuente de energía para los seres vivos. Incluyen azúcares simples y almidón.",
+    "opciones": {
+      "a": "Lípidos",
+      "b": "Proteínas",
+      "c": "Carbohidratos",
+      "d": "Ácidos nucleicos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los carbohidratos (glúcidos o hidratos de carbono) son la principal fuente de energía rápida para las células."
+  },
+  {
+    "id": 67,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El fenómeno de la 'lluvia ácida' es una consecuencia de la contaminación atmosférica principalmente por:",
+    "opciones": {
+      "a": "Exceso de ozono en la troposfera",
+      "b": "Dióxido de carbono y metano",
+      "c": "Óxidos de azufre y nitrógeno",
+      "d": "Partículas de polvo y polen"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La lluvia ácida se forma cuando los óxidos de azufre (SOx) y los óxidos de nitrógeno (NOx) reaccionan con el agua en la atmósfera."
+  },
+  {
+    "id": 68,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El estado de completo bienestar físico, mental y social relacionado con la sexualidad, y no solamente la ausencia de enfermedad, se define como:",
+    "opciones": {
+      "a": "Salud reproductiva",
+      "b": "Salud sexual",
+      "c": "Fertilidad",
+      "d": "Planificación familiar"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La salud sexual, según la OMS, es un estado de bienestar físico, emocional, mental y social en relación con la sexualidad."
+  },
+  {
+    "id": 69,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Las enfermedades de transmisión sexual (ETS) más comunes en el ser humano incluyen:",
+    "opciones": {
+      "a": "Gripe, resfriado y varicela",
+      "b": "Diabetes, hipertensión y asma",
+      "c": "Sífilis, gonorrea y SIDA",
+      "d": "Cáncer, artritis y osteoporosis"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Sífilis, gonorrea, herpes genital y SIDA (causado por el VIH) son ejemplos de enfermedades de transmisión sexual."
+  },
+  {
+    "id": 70,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "La etapa de la división celular (mitosis) donde las cromátidas hermanas se separan y se dirigen hacia los polos opuestos de la célula es:",
+    "opciones": {
+      "a": "Profase",
+      "b": "Metafase",
+      "c": "Anafase",
+      "d": "Telofase"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Durante la anafase, las cromátidas hermanas se separan y son arrastradas hacia polos opuestos por las fibras del huso."
+  },
+  {
+    "id": 71,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "En la meiosis, a diferencia de la mitosis, ocurren:",
+    "opciones": {
+      "a": "Una sola división celular, resultando en dos células hijas diploides.",
+      "b": "Dos divisiones celulares, resultando en cuatro células hijas haploides.",
+      "c": "Una replicación del ADN seguida de ninguna división.",
+      "d": "La formación de células somáticas idénticas."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La meiosis consiste en dos divisiones celulares sucesivas (Meiosis I y Meiosis II) que resultan en cuatro células haploides (gametos)."
+  },
+  {
+    "id": 72,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "La primera ley de Mendel establece que si se cruzan dos razas puras para un determinado carácter, los descendientes de la primera generación F1 serán:",
+    "opciones": {
+      "a": "Todos recesivos",
+      "b": "Una mezcla de dominantes y recesivos",
+      "c": "Todos iguales entre sí y a uno de los progenitores (dominante)",
+      "d": "Todos diferentes entre sí"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La Ley de la Uniformidad de Mendel establece que al cruzar dos líneas puras que difieren en un carácter, la descendencia F1 será uniforme y expresará el carácter dominante."
+  },
+  {
+    "id": 73,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Los cromosomas son cuerpos filamentosos formados principalmente por ADN que se encuentran en el:",
+    "opciones": {
+      "a": "Citoplasma de todas las células",
+      "b": "Núcleo de las células eucariontes",
+      "c": "Exterior de la membrana celular",
+      "d": "Interior de las mitocondrias"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "En las células eucariontes, los cromosomas, que contienen el ADN, se localizan dentro del núcleo."
+  },
+  {
+    "id": 74,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El Síndrome de Klinefelter se produce por un aumento de un cromosoma sexual X, siendo propio del sexo:",
+    "opciones": {
+      "a": "Femenino, resultando en XXX",
+      "b": "Masculino, resultando en XXY",
+      "c": "Femenino, resultando en XO",
+      "d": "Masculino, resultando en XYY"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El Síndrome de Klinefelter afecta a hombres y es causado por la presencia de un cromosoma X adicional (XXY)."
+  },
+  {
+    "id": 75,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El desplazamiento de un organismo o parte de él con respecto a un punto de referencia es la característica de los seres vivos llamada:",
+    "opciones": {
+      "a": "Crecimiento",
+      "b": "Movimiento",
+      "c": "Adaptación",
+      "d": "Organización"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El movimiento es la capacidad de cambiar de posición o lugar, una característica fundamental de muchos seres vivos."
+  },
+  {
+    "id": 76,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Son organismos eucariontes pluricelulares, terrestres o acuáticos, que poseen clorofila y realizan la fotosíntesis.",
+    "opciones": {
+      "a": "Reino Monera",
+      "b": "Reino Protista",
+      "c": "Reino Fungi",
+      "d": "Reino Plantae"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El Reino Plantae incluye a todos los organismos vegetales multicelulares que realizan fotosíntesis."
+  },
+  {
+    "id": 77,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "La rama de la biología que se encarga de clasificar a los seres vivos se llama:",
+    "opciones": {
+      "a": "Ecología",
+      "b": "Genética",
+      "c": "Taxonomía",
+      "d": "Fisiología"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La taxonomía es la ciencia de la clasificación de los organismos."
+  },
+  {
+    "id": 78,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "¿Cuál es el término para describir a los seres vivos con adaptaciones como extremidades para caminar o pulmones para respirar aire?",
+    "opciones": {
+      "a": "Acuáticos",
+      "b": "Terrestres",
+      "c": "Aeróbicos",
+      "d": "Anaerobios"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los organismos terrestres están adaptados para vivir en la tierra, con características como pulmones y extremidades para la locomoción terrestre."
+  },
+  {
+    "id": 79,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Bosques que se clasifican en caduciformes y de coníferas, con flora como arce y pino, y fauna como lobos y osos grises:",
+    "opciones": {
+      "a": "Selva tropical",
+      "b": "Bosques templados",
+      "c": "Sabana",
+      "d": "Tundra alpina"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los bosques templados se caracterizan por árboles como arces, robles, pinos y abetos, y una fauna diversa adaptada a estaciones marcadas."
+  },
+  {
+    "id": 80,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El proceso de transformar sustancias sencillas en complejas, parte del metabolismo, se llama:",
+    "opciones": {
+      "a": "Catabolismo",
+      "b": "Anabolismo",
+      "c": "Digestión",
+      "d": "Respiración"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El anabolismo es la fase constructiva del metabolismo, donde se sintetizan moléculas complejas a partir de otras más simples, consumiendo energía."
+  },
+  {
+    "id": 81,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "La principal función de la membrana celular es:",
+    "opciones": {
+      "a": "Producir energía para la célula.",
+      "b": "Almacenar información genética.",
+      "c": "Regular el intercambio de sustancias entre el interior y exterior de la célula.",
+      "d": "Sintetizar proteínas."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La membrana celular actúa como una barrera semipermeable que controla qué sustancias entran y salen de la célula."
+  },
+  {
+    "id": 82,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Un grupo de órganos que trabajan juntos para realizar una función compleja constituye un:",
+    "opciones": {
+      "a": "Tejido",
+      "b": "Sistema",
+      "c": "Célula",
+      "d": "Individuo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Un sistema está formado por un conjunto de órganos que colaboran para llevar a cabo una o más funciones vitales."
+  },
+  {
+    "id": 83,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "¿Cuál de los siguientes es un método de conservación de alimentos que alterna frío y calor en periodos cortos para eliminar microorganismos?",
+    "opciones": {
+      "a": "Congelación",
+      "b": "Esterilización",
+      "c": "Refrigeración",
+      "d": "Pasteurización"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "La pasteurización es un proceso térmico suave que reduce la carga microbiana en alimentos líquidos sin alterar significativamente sus propiedades."
+  },
+  {
+    "id": 84,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El hábito de inhalar el humo del tabaco, que puede causar desde irritación de vías respiratorias hasta cáncer pulmonar, se conoce como:",
+    "opciones": {
+      "a": "Alcoholismo",
+      "b": "Tabaquismo",
+      "c": "Drogadicción",
+      "d": "Sedentarismo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El tabaquismo es la adicción al tabaco, principalmente debido a la nicotina, y es un importante factor de riesgo para numerosas enfermedades."
+  },
+  {
+    "id": 85,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "La salida o expulsión del feto a través de la vagina, dividida en etapas como dilatación y expulsión, se llama:",
+    "opciones": {
+      "a": "Fecundación",
+      "b": "Embarazo",
+      "c": "Parto",
+      "d": "Lactancia"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El parto es el proceso fisiológico por el cual finaliza la gestación y el feto es expulsado del útero materno."
+  },
+  {
+    "id": 86,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Los caracteres observables en un individuo, resultado de la interacción de su genotipo y el ambiente, se denominan:",
+    "opciones": {
+      "a": "Genotipo",
+      "b": "Fenotipo",
+      "c": "Cariotipo",
+      "d": "Alelo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El fenotipo se refiere a las características físicas, bioquímicas y de comportamiento observables de un organismo."
+  },
+  {
+    "id": 87,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "En el ser humano, un individuo con cromosomas sexuales XY es genéticamente un:",
+    "opciones": {
+      "a": "Hombre",
+      "b": "Mujer",
+      "c": "Individuo con Síndrome de Turner",
+      "d": "Individuo con Síndrome de Down"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La combinación de cromosomas sexuales XY determina genéticamente el sexo masculino en los seres humanos."
+  },
+  {
+    "id": 88,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "¿Qué tipo de biomoléculas son las grasas, aceites y ceras, que sirven como reserva de energía y componentes estructurales?",
+    "opciones": {
+      "a": "Carbohidratos",
+      "b": "Proteínas",
+      "c": "Lípidos",
+      "d": "Ácidos nucleicos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los lípidos son un grupo diverso de moléculas hidrofóbicas que incluyen grasas, aceites, ceras, fosfolípidos y esteroides."
+  },
+  {
+    "id": 89,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El sistema digestivo en los mamíferos incluye órganos como:",
+    "opciones": {
+      "a": "Pulmones, tráquea y bronquios",
+      "b": "Corazón, arterias y venas",
+      "c": "Boca, esófago, estómago e intestino",
+      "d": "Riñones, uréteres y vejiga"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El sistema digestivo es responsable de la ingestión, digestión y absorción de los alimentos, e incluye órganos como la boca, esófago, estómago e intestinos."
+  },
+  {
+    "id": 90,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Los órganos responsables de realizar la fotosíntesis en las plantas son los:",
+    "opciones": {
+      "a": "Mitocondrias",
+      "b": "Cloroplastos",
+      "c": "Ribosomas",
+      "d": "Núcleos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los cloroplastos son los orgánulos celulares donde se lleva a cabo la fotosíntesis, ya que contienen clorofila."
+  },
+  {
+    "id": 91,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Una de las formas de reproducción celular en seres unicelulares donde una célula madre se divide en dos células hijas idénticas es:",
+    "opciones": {
+      "a": "Gemación",
+      "b": "Esporulación",
+      "c": "Bipartición",
+      "d": "Fragmentación"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La bipartición o fisión binaria es un tipo de reproducción asexual en la que un organismo unicelular se divide en dos."
+  },
+  {
+    "id": 92,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "¿Cuál es la capacidad biológica para responder a ciertos estímulos del medio ambiente?",
+    "opciones": {
+      "a": "Metabolismo",
+      "b": "Homeostasis",
+      "c": "Irritabilidad",
+      "d": "Crecimiento"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La irritabilidad es la capacidad de los seres vivos para detectar y responder a estímulos internos o externos."
+  },
+  {
+    "id": 93,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Los protozoarios y las algas (unicelulares o pluricelulares con núcleo definido) pertenecen al Reino:",
+    "opciones": {
+      "a": "Monera",
+      "b": "Protista",
+      "c": "Fungi",
+      "d": "Animalia"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El Reino Protista agrupa a organismos eucariontes, en su mayoría unicelulares, que no encajan en los reinos Plantae, Animalia o Fungi."
+  },
+  {
+    "id": 94,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El bioma con gran cantidad de lluvias, clima caluroso húmedo y fauna como insectos, reptiles y jaguares es:",
+    "opciones": {
+      "a": "Tundra",
+      "b": "Desierto",
+      "c": "Selva",
+      "d": "Bosque templado"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La selva tropical se caracteriza por su alta biodiversidad, lluvias abundantes y clima cálido y húmedo."
+  },
+  {
+    "id": 95,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Paso del método científico donde se confirma o refuta la hipótesis mediante la reproducción controlada de un fenómeno:",
+    "opciones": {
+      "a": "Observación",
+      "b": "Planteamiento del problema",
+      "c": "Experimentación",
+      "d": "Análisis de resultados"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La experimentación es la etapa clave del método científico donde se ponen a prueba las hipótesis."
+  },
+  {
+    "id": 96,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El fenómeno por el cual algunos animales o plantas adaptan su color o forma a objetos del medio para pasar inadvertidos se llama:",
+    "opciones": {
+      "a": "Mimetismo",
+      "b": "Hibernación",
+      "c": "Migración",
+      "d": "Depredación"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "El mimetismo es una adaptación evolutiva donde una especie imita la apariencia de otra o de su entorno para obtener una ventaja."
+  },
+  {
+    "id": 97,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Elemento que constituye el 78% del aire y forma parte de todos los seres vivos, reintegrándose a la naturaleza tras su descomposición:",
+    "opciones": {
+      "a": "Oxígeno",
+      "b": "Carbono",
+      "c": "Hidrógeno",
+      "d": "Nitrógeno"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El nitrógeno es esencial para la vida, formando parte de proteínas y ácidos nucleicos, y su ciclo es fundamental en los ecosistemas."
+  },
+  {
+    "id": 98,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Existen dos tipos de ácido nucleico: el ARN y el ADN, los cuales contienen los:",
+    "opciones": {
+      "a": "Lípidos estructurales",
+      "b": "Caracteres hereditarios",
+      "c": "Enzimas digestivas",
+      "d": "Pigmentos fotosintéticos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El ADN y el ARN son los ácidos nucleicos que almacenan y transmiten la información genética (caracteres hereditarios)."
+  },
+  {
+    "id": 99,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El período en el cual la madre alimenta al hijo con la leche materna se denomina:",
+    "opciones": {
+      "a": "Gestación",
+      "b": "Pubertad",
+      "c": "Lactancia",
+      "d": "Menopausia"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La lactancia es el proceso de alimentación del recién nacido o lactante con leche producida por la madre."
+  },
+  {
+    "id": 100,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El ciclo menstrual comprende desde la ovulación hasta la menstruación y generalmente tiene una duración de:",
+    "opciones": {
+      "a": "14 días",
+      "b": "28 días",
+      "c": "40 días",
+      "d": "7 días"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El ciclo menstrual promedio tiene una duración de aproximadamente 28 días, aunque puede variar entre mujeres."
+  },
+  {
+    "id": 101,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "La hormona sexual masculina secretada por los testículos es la:",
+    "opciones": {
+      "a": "Progesterona",
+      "b": "Estrógeno",
+      "c": "Testosterona",
+      "d": "Insulina"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La testosterona es la principal hormona sexual masculina, responsable del desarrollo de los caracteres sexuales secundarios y la espermatogénesis."
+  },
+  {
+    "id": 102,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "En la telofase de la mitosis, después de que los cromosomas llegan a los polos, se inicia la formación de una membrana núcleo y el proceso de división del citoplasma llamado:",
+    "opciones": {
+      "a": "Cariocinesis",
+      "b": "Interfase",
+      "c": "Citoquinesis",
+      "d": "Meiosis"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La citoquinesis es la división del citoplasma que ocurre al final de la mitosis o meiosis, resultando en dos células hijas separadas."
+  },
+  {
+    "id": 103,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Según la segunda ley de Mendel, al cruzar dos razas puras, los caracteres recesivos reaparecen en la segunda generación en una proporción de:",
+    "opciones": {
+      "a": "1 a 1 respecto a los dominantes",
+      "b": "3 a 1 respecto a los dominantes",
+      "c": "1 a 3 respecto a los dominantes",
+      "d": "Todos son recesivos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La Ley de la Segregación de Mendel predice que en la F2, la proporción fenotípica de dominante a recesivo es 3:1, por lo que el recesivo es 1 de 4, o 1 a 3 respecto al dominante."
+  },
+  {
+    "id": 104,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "La capacidad de los seres vivos para transformar, transportar y almacenar energía, resultando en un aumento de tamaño, se llama:",
+    "opciones": {
+      "a": "Metabolismo",
+      "b": "Crecimiento",
+      "c": "Reproducción",
+      "d": "Adaptación"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El crecimiento es el aumento irreversible de tamaño y/o masa de un organismo, resultado de procesos metabólicos."
+  },
+  {
+    "id": 105,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Son organismos pluricelulares, eucariontes, que no pueden fabricar su propio alimento y la mayoría son de reproducción sexual:",
+    "opciones": {
+      "a": "Reino Plantae",
+      "b": "Reino Fungi",
+      "c": "Reino Protista",
+      "d": "Reino Animalia"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El Reino Animalia comprende a los organismos multicelulares heterótrofos con capacidad de movimiento y sistemas nerviosos complejos."
+  },
+  {
+    "id": 106,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El fenómeno de la contaminación del aire por la quema de combustibles fósiles puede llevar a problemas como:",
+    "opciones": {
+      "a": "Eutrofización del agua",
+      "b": "Desertificación del suelo",
+      "c": "Formación de smog y lluvia ácida",
+      "d": "Pérdida de biodiversidad marina"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La quema de combustibles fósiles libera contaminantes que contribuyen a la formación de smog (niebla tóxica) y lluvia ácida."
+  },
+  {
+    "id": 107,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "El proceso de análisis minucioso de un fenómeno, utilizando los sentidos e instrumentos, es el primer paso del método científico:",
+    "opciones": {
+      "a": "Formulación de hipótesis",
+      "b": "Experimentación",
+      "c": "Observación",
+      "d": "Conclusión"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La observación es el punto de partida del método científico, donde se recopila información sobre un fenómeno."
+  },
+  {
+    "id": 108,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "¿Cuál es el principal gas que se desecha como subproducto del metabolismo energético y vapor de agua en la respiración aeróbica?",
+    "opciones": {
+      "a": "Oxígeno",
+      "b": "Nitrógeno",
+      "c": "Dióxido de carbono",
+      "d": "Metano"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "En la respiración aeróbica, el dióxido de carbono es un producto de desecho que se elimina del organismo."
+  },
+  {
+    "id": 109,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Las hormonas femeninas secretadas por los ovarios que regulan el ciclo menstrual y los caracteres sexuales secundarios son:",
+    "opciones": {
+      "a": "Testosterona y andrógenos",
+      "b": "Insulina y glucagón",
+      "c": "Estrógenos y progesterona",
+      "d": "Tiroxina y adrenalina"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los estrógenos y la progesterona son las principales hormonas sexuales femeninas, producidas por los ovarios."
+  },
+  {
+    "id": 110,
+    "materia": "Ciencias I (Biología)",
+    "pregunta": "Unidad hereditaria que controla la manifestación de una característica de un organismo:",
+    "opciones": {
+      "a": "Cromosoma",
+      "b": "Gen",
+      "c": "Proteína",
+      "d": "Célula"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Un gen es un segmento de ADN que contiene la información para una característica hereditaria específica."
+  }
+]
