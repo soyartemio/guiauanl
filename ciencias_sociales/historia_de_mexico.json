@@ -1,0 +1,847 @@
+[
+  {
+    "id": 601,
+    "materia": "Historia de México",
+    "pregunta": "¿Por dónde cruzaron los primeros grupos humanos provenientes de Asia para llegar a América?",
+    "opciones": {
+      "a": "El Océano Atlántico",
+      "b": "El Estrecho de Bering",
+      "c": "El Canal de Panamá",
+      "d": "El Océano Pacífico"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La teoría más aceptada sobre el poblamiento de América indica que los primeros humanos cruzaron desde Asia por el Estrecho de Bering durante la última glaciación."
+  },
+  {
+    "id": 602,
+    "materia": "Historia de México",
+    "pregunta": "La raíz de la aparición de los pueblos, las ciudades y las grandes civilizaciones y culturas del mundo fue el paso del nomadismo al:",
+    "opciones": {
+      "a": "Comercio",
+      "b": "Sedentarismo",
+      "c": "Pastoreo",
+      "d": "Industrialismo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El sedentarismo, posibilitado por el descubrimiento de la agricultura, permitió el establecimiento de comunidades permanentes y el desarrollo de civilizaciones."
+  },
+  {
+    "id": 603,
+    "materia": "Historia de México",
+    "pregunta": "Región del México antiguo, en plena zona tropical con lluvias frecuentes y vegetación abundante, donde se desarrollaron las más grandes civilizaciones:",
+    "opciones": {
+      "a": "Aridoamérica",
+      "b": "Oasisamérica",
+      "c": "Mesoamérica",
+      "d": "Patagonia"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Mesoamérica fue una vasta región cultural que abarcó gran parte de México y Centroamérica, caracterizada por un alto desarrollo civilizatorio."
+  },
+  {
+    "id": 604,
+    "materia": "Historia de México",
+    "pregunta": "Cultura más sobresaliente del período Preclásico en Mesoamérica, considerada la 'cultura madre' de México:",
+    "opciones": {
+      "a": "Maya",
+      "b": "Teotihuacana",
+      "c": "Olmeca",
+      "d": "Azteca"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La civilización Olmeca, que floreció en el Preclásico, es considerada la 'cultura madre' por su influencia en posteriores culturas mesoamericanas."
+  },
+  {
+    "id": 605,
+    "materia": "Historia de México",
+    "pregunta": "Ciudad del período Clásico, cerca del actual DF, con las pirámides del Sol y de la Luna como sus principales vestigios:",
+    "opciones": {
+      "a": "Chichén Itzá",
+      "b": "Monte Albán",
+      "c": "Teotihuacán",
+      "d": "Palenque"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Teotihuacán fue una de las ciudades más grandes e influyentes del período Clásico en Mesoamérica, famosa por sus imponentes pirámides."
+  },
+  {
+    "id": 606,
+    "materia": "Historia de México",
+    "pregunta": "Civilización del período Clásico conocida como los 'griegos de América' por su avanzado desarrollo cultural, asentada en el sureste de México y Centroamérica:",
+    "opciones": {
+      "a": "Zapotecas",
+      "b": "Mixtecas",
+      "c": "Mayas",
+      "d": "Toltecas"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La civilización Maya destacó por sus logros en matemáticas, astronomía, escritura y arte, comparables a las grandes civilizaciones del Viejo Mundo."
+  },
+  {
+    "id": 607,
+    "materia": "Historia de México",
+    "pregunta": "Pueblo del período Posclásico que prosperó en el estado de Hidalgo, cuya ciudad principal fue Tula (Tollan):",
+    "opciones": {
+      "a": "Mexicas",
+      "b": "Tarascos",
+      "c": "Olmecas",
+      "d": "Toltecas"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Los Toltecas fueron una importante cultura del Posclásico temprano, con Tula como su capital, conocida por sus guerreros atlantes."
+  },
+  {
+    "id": 608,
+    "materia": "Historia de México",
+    "pregunta": "Técnica agrícola avanzada desarrollada por los aztecas, que consistía en tierras labrantías flotantes sobre las aguas del lago:",
+    "opciones": {
+      "a": "Terrazas",
+      "b": "Chinampas",
+      "c": "Roza y quema",
+      "d": "Irrigación por canales"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las chinampas fueron un ingenioso sistema agrícola utilizado por los mexicas en los lagos del Valle de México, permitiendo una alta productividad."
+  },
+  {
+    "id": 609,
+    "materia": "Historia de México",
+    "pregunta": "¿Quién descubrió el continente americano el 12 de octubre de 1492, buscando una nueva ruta marítima a la India?",
+    "opciones": {
+      "a": "Hernán Cortés",
+      "b": "Vasco da Gama",
+      "c": "Cristóbal Colón",
+      "d": "Américo Vespucio"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Cristóbal Colón, navegante genovés al servicio de los Reyes Católicos de España, llegó a América en 1492."
+  },
+  {
+    "id": 610,
+    "materia": "Historia de México",
+    "pregunta": "La expedición que culminó con la derrota de los mexicas y la conquista de México fue liderada por:",
+    "opciones": {
+      "a": "Francisco Hernández de Córdoba",
+      "b": "Juan de Grijalva",
+      "c": "Hernán Cortés",
+      "d": "Diego de Velázquez"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Hernán Cortés fue el conquistador español que lideró la expedición que resultó en la caída del Imperio Azteca."
+  },
+  {
+    "id": 611,
+    "materia": "Historia de México",
+    "pregunta": "¿En qué año sucumbió el Imperio Azteca con la rendición de Cuauhtémoc, marcando oficialmente la Conquista de México?",
+    "opciones": {
+      "a": "1492",
+      "b": "1519",
+      "c": "1521",
+      "d": "1535"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El 13 de agosto de 1521, Tenochtitlán cayó ante los españoles y sus aliados indígenas, poniendo fin al Imperio Azteca."
+  },
+  {
+    "id": 612,
+    "materia": "Historia de México",
+    "pregunta": "El territorio conquistado por los españoles en México comenzó a conocérsele como:",
+    "opciones": {
+      "a": "Virreinato del Perú",
+      "b": "Capitanía General de Guatemala",
+      "c": "Nueva España",
+      "d": "Reino de Nueva Granada"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Tras la conquista, el territorio que hoy es México y parte de Centroamérica y Estados Unidos se constituyó como el Virreinato de la Nueva España."
+  },
+  {
+    "id": 613,
+    "materia": "Historia de México",
+    "pregunta": "Una porción de tierra y un puñado de indígenas entregados a un militar español tras la conquista se conocía como:",
+    "opciones": {
+      "a": "Hacienda",
+      "b": "Encomienda",
+      "c": "Ejido",
+      "d": "Repartimiento"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La encomienda fue un sistema por el cual se concedía a un español (encomendero) el derecho a recibir tributo y trabajo de un grupo de indígenas."
+  },
+  {
+    "id": 614,
+    "materia": "Historia de México",
+    "pregunta": "¿Cuál fue la primera orden religiosa que llegó a la Nueva España para evangelizar a los indígenas?",
+    "opciones": {
+      "a": "Dominicos",
+      "b": "Agustinos",
+      "c": "Jesuitas",
+      "d": "Franciscanos"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Los franciscanos fueron los primeros misioneros en llegar a la Nueva España, seguidos por otras órdenes como dominicos y agustinos."
+  },
+  {
+    "id": 615,
+    "materia": "Historia de México",
+    "pregunta": "El jefe general del aparato de poder en la Nueva España, que gobernaba a nombre del rey, era el:",
+    "opciones": {
+      "a": "Corregidor",
+      "b": "Alcalde Mayor",
+      "c": "Virrey",
+      "d": "Gobernador"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Virrey era el representante directo del rey de España y la máxima autoridad en el virreinato."
+  },
+  {
+    "id": 616,
+    "materia": "Historia de México",
+    "pregunta": "Los hijos de españoles nacidos en América, que a menudo se sentían inferiores a los peninsulares, eran los:",
+    "opciones": {
+      "a": "Mestizos",
+      "b": "Indios",
+      "c": "Criollos",
+      "d": "Negros"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los criollos eran descendientes de españoles nacidos en América, y aunque tenían una posición social elevada, a menudo estaban excluidos de los cargos más altos."
+  },
+  {
+    "id": 617,
+    "materia": "Historia de México",
+    "pregunta": "¿Cuál fue una de las actividades económicas más importantes en la Nueva España, que llevó a la extracción masiva de oro y plata?",
+    "opciones": {
+      "a": "Agricultura de subsistencia",
+      "b": "Ganadería extensiva",
+      "c": "Minería",
+      "d": "Artesanía textil"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La minería, especialmente de plata, fue una actividad económica fundamental en la Nueva España y una gran fuente de riqueza para la Corona Española."
+  },
+  {
+    "id": 618,
+    "materia": "Historia de México",
+    "pregunta": "Escritora y monja jerónima, una de las más grandes figuras literarias del México colonial, autora de 'Respuesta a Sor Filotea'.",
+    "opciones": {
+      "a": "Sor Juana Inés de la Cruz",
+      "b": "La Malinche",
+      "c": "Leona Vicario",
+      "d": "Josefa Ortiz de Domínguez"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Sor Juana Inés de la Cruz fue una destacada poeta, dramaturga y erudita del Barroco novohispano."
+  },
+  {
+    "id": 619,
+    "materia": "Historia de México",
+    "pregunta": "La Conspiración de Querétaro, que fue descubierta y precipitó el inicio de la Independencia, fue prevenida a los insurgentes por:",
+    "opciones": {
+      "a": "Miguel Hidalgo",
+      "b": "Ignacio Allende",
+      "c": "Josefa Ortiz de Domínguez",
+      "d": "José María Morelos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Doña Josefa Ortiz de Domínguez, esposa del corregidor de Querétaro, alertó a los conspiradores sobre el descubrimiento de sus planes."
+  },
+  {
+    "id": 620,
+    "materia": "Historia de México",
+    "pregunta": "¿Quién dio el Grito de Dolores el 16 de septiembre de 1810, marcando el inicio de la Guerra de Independencia de México?",
+    "opciones": {
+      "a": "José María Morelos y Pavón",
+      "b": "Vicente Guerrero",
+      "c": "Miguel Hidalgo y Costilla",
+      "d": "Agustín de Iturbide"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El cura Miguel Hidalgo y Costilla llamó al levantamiento armado en el pueblo de Dolores, iniciando la lucha por la independencia."
+  },
+  {
+    "id": 621,
+    "materia": "Historia de México",
+    "pregunta": "Documento en el cual José María Morelos declaró la independencia y la soberanía de la Nueva España:",
+    "opciones": {
+      "a": "Plan de Iguala",
+      "b": "Constitución de Apatzingán",
+      "c": "Sentimientos de la Nación",
+      "d": "Tratados de Córdoba"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "En los 'Sentimientos de la Nación', Morelos delineó los principios para una nueva nación independiente y soberana."
+  },
+  {
+    "id": 622,
+    "materia": "Historia de México",
+    "pregunta": "El Plan que logró la consumación de la Independencia de México fue firmado por Agustín de Iturbide y Vicente Guerrero, y se conoce como:",
+    "opciones": {
+      "a": "Plan de Ayala",
+      "b": "Plan de San Luis",
+      "c": "Plan de Iguala",
+      "d": "Plan de Tuxtepec"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Plan de Iguala, proclamado en 1821, estableció las bases para la independencia de México y la unión de las fuerzas insurgentes y realistas."
+  },
+  {
+    "id": 623,
+    "materia": "Historia de México",
+    "pregunta": "¿Quién fue el primer emperador de México tras la independencia?",
+    "opciones": {
+      "a": "Guadalupe Victoria",
+      "b": "Vicente Guerrero",
+      "c": "Agustín de Iturbide (Agustín I)",
+      "d": "Antonio López de Santa Anna"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Agustín de Iturbide fue proclamado Emperador de México como Agustín I, aunque su imperio fue breve."
+  },
+  {
+    "id": 624,
+    "materia": "Historia de México",
+    "pregunta": "La Primera Constitución de México Independiente, que estableció una República Federal, fue promulgada en:",
+    "opciones": {
+      "a": "1810",
+      "b": "1821",
+      "c": "1824",
+      "d": "1857"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La Constitución Federal de los Estados Unidos Mexicanos de 1824 estableció el sistema republicano y federal en México."
+  },
+  {
+    "id": 625,
+    "materia": "Historia de México",
+    "pregunta": "Conflicto bélico entre México y Francia en 1838, originado por reclamaciones económicas de ciudadanos franceses:",
+    "opciones": {
+      "a": "Guerra de Reforma",
+      "b": "Guerra de los Pasteles",
+      "c": "Intervención Americana",
+      "d": "Segunda Intervención Francesa"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La Guerra de los Pasteles fue un breve conflicto causado por las reclamaciones de indemnización de un pastelero francés, entre otras."
+  },
+  {
+    "id": 626,
+    "materia": "Historia de México",
+    "pregunta": "Tratado mediante el cual México cedió a Estados Unidos los territorios de Texas, Nuevo México, Arizona y Alta California en 1848:",
+    "opciones": {
+      "a": "Tratado de Velasco",
+      "b": "Tratado de Guadalupe Hidalgo",
+      "c": "Tratado de La Mesilla",
+      "d": "Tratado de Tordesillas"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El Tratado de Guadalupe Hidalgo puso fin a la guerra entre México y Estados Unidos, resultando en la pérdida de más de la mitad del territorio mexicano."
+  },
+  {
+    "id": 627,
+    "materia": "Historia de México",
+    "pregunta": "Las Leyes de Reforma, promulgadas durante el gobierno liberal de Benito Juárez, buscaban principalmente:",
+    "opciones": {
+      "a": "Fortalecer el poder de la Iglesia Católica",
+      "b": "Establecer una monarquía constitucional",
+      "c": "Separar la Iglesia del Estado y nacionalizar los bienes eclesiásticos",
+      "d": "Fomentar la intervención extranjera"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las Leyes de Reforma tenían como objetivo limitar el poder económico y político de la Iglesia Católica y establecer un estado laico."
+  },
+  {
+    "id": 628,
+    "materia": "Historia de México",
+    "pregunta": "La Batalla de Puebla, donde el ejército mexicano derrotó al ejército francés, ocurrió el:",
+    "opciones": {
+      "a": "16 de septiembre de 1810",
+      "b": "5 de mayo de 1862",
+      "c": "20 de noviembre de 1910",
+      "d": "13 de septiembre de 1847"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El 5 de mayo de 1862, las fuerzas mexicanas bajo el mando de Ignacio Zaragoza obtuvieron una importante victoria sobre el ejército francés en Puebla."
+  },
+  {
+    "id": 629,
+    "materia": "Historia de México",
+    "pregunta": "¿Quién fue el archiduque austriaco que gobernó México como Emperador durante la Segunda Intervención Francesa?",
+    "opciones": {
+      "a": "Napoleón III",
+      "b": "Fernando VII",
+      "c": "Maximiliano de Habsburgo",
+      "d": "Carlos V"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Maximiliano de Habsburgo fue impuesto como Emperador de México por los conservadores mexicanos con el apoyo de Napoleón III de Francia."
+  },
+  {
+    "id": 630,
+    "materia": "Historia de México",
+    "pregunta": "Periodo de la historia de México caracterizado por el gobierno de Porfirio Díaz, que duró más de 30 años:",
+    "opciones": {
+      "a": "La Reforma",
+      "b": "El Porfiriato",
+      "c": "El Maximato",
+      "d": "La República Restaurada"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El Porfiriato (1876-1911) fue un largo período de dictadura bajo Porfirio Díaz, caracterizado por el desarrollo económico y la represión política."
+  },
+  {
+    "id": 631,
+    "materia": "Historia de México",
+    "pregunta": "La frase «¡Mátalos en caliente!» se asocia con la represión durante el gobierno de:",
+    "opciones": {
+      "a": "Benito Juárez",
+      "b": "Antonio López de Santa Anna",
+      "c": "Porfirio Díaz",
+      "d": "Lázaro Cárdenas"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Esta frase se atribuye a Porfirio Díaz y refleja la dureza con la que se reprimía cualquier intento de sublevación durante su gobierno."
+  },
+  {
+    "id": 632,
+    "materia": "Historia de México",
+    "pregunta": "Libro publicado por Francisco I. Madero que proponía al General Díaz renunciar a la reelección y permitir elecciones libres:",
+    "opciones": {
+      "a": "Los Grandes Problemas Nacionales",
+      "b": "La Sucesión Presidencial en 1910",
+      "c": "México Bárbaro",
+      "d": "Regeneración"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "En 'La Sucesión Presidencial en 1910', Madero criticó la dictadura de Díaz y abogó por la democracia y la no reelección."
+  },
+  {
+    "id": 633,
+    "materia": "Historia de México",
+    "pregunta": "El Plan proclamado por Francisco I. Madero que convocó a la lucha armada contra el gobierno de Porfirio Díaz fue el:",
+    "opciones": {
+      "a": "Plan de Ayala",
+      "b": "Plan de San Luis",
+      "c": "Plan de Guadalupe",
+      "d": "Plan de Tuxtepec"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El Plan de San Luis Potosí, proclamado por Madero en 1910, llamó al levantamiento armado contra la dictadura de Díaz."
+  },
+  {
+    "id": 634,
+    "materia": "Historia de México",
+    "pregunta": "Líder revolucionario del sur de México que proclamó el Plan de Ayala, exigiendo la devolución de tierras a los campesinos:",
+    "opciones": {
+      "a": "Pancho Villa",
+      "b": "Venustiano Carranza",
+      "c": "Emiliano Zapata",
+      "d": "Álvaro Obregón"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Emiliano Zapata, con su lema 'Tierra y Libertad', fue un caudillo clave de la Revolución Mexicana, enfocado en la reforma agraria."
+  },
+  {
+    "id": 635,
+    "materia": "Historia de México",
+    "pregunta": "El asesinato de Francisco I. Madero y José María Pino Suárez, y el golpe de estado de Victoriano Huerta, se conoce como:",
+    "opciones": {
+      "a": "La Decena Trágica",
+      "b": "La Guerra Cristera",
+      "c": "El Maximato",
+      "d": "La Convención de Aguascalientes"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La Decena Trágica (febrero de 1913) fue un período de diez días de combates en la Ciudad de México que culminó con el derrocamiento y asesinato de Madero."
+  },
+  {
+    "id": 636,
+    "materia": "Historia de México",
+    "pregunta": "La Constitución que actualmente rige a México, y que reconoció derechos sociales como los de obreros y campesinos, fue promulgada en:",
+    "opciones": {
+      "a": "1824",
+      "b": "1857",
+      "c": "1917",
+      "d": "1938"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La Constitución Política de los Estados Unidos Mexicanos de 1917, emanada de la Revolución, fue pionera en incluir derechos sociales."
+  },
+  {
+    "id": 637,
+    "materia": "Historia de México",
+    "pregunta": "El partido político fundado por Plutarco Elías Calles en 1929, que posteriormente se transformaría en el PRI, fue el:",
+    "opciones": {
+      "a": "Partido Liberal Mexicano (PLM)",
+      "b": "Partido Nacional Revolucionario (PNR)",
+      "c": "Partido Acción Nacional (PAN)",
+      "d": "Partido Comunista Mexicano (PCM)"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El PNR fue creado por Calles para aglutinar a las fuerzas revolucionarias y estabilizar el sistema político postrevolucionario."
+  },
+  {
+    "id": 638,
+    "materia": "Historia de México",
+    "pregunta": "¿Durante qué presidencia se llevó a cabo la Expropiación Petrolera en México, el 18 de marzo de 1938?",
+    "opciones": {
+      "a": "Plutarco Elías Calles",
+      "b": "Lázaro Cárdenas del Río",
+      "c": "Manuel Ávila Camacho",
+      "d": "Miguel Alemán Valdés"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El presidente Lázaro Cárdenas decretó la expropiación de la industria petrolera, que estaba en manos de compañías extranjeras."
+  },
+  {
+    "id": 639,
+    "materia": "Historia de México",
+    "pregunta": "El movimiento estudiantil de 1968 en México culminó trágicamente el 2 de octubre con la matanza en:",
+    "opciones": {
+      "a": "La Plaza de la Constitución (Zócalo)",
+      "b": "El Palacio Nacional",
+      "c": "La Plaza de las Tres Culturas de Tlatelolco",
+      "d": "Ciudad Universitaria"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La masacre de Tlatelolco fue un evento trágico donde el ejército reprimió violentamente una manifestación estudiantil."
+  },
+  {
+    "id": 640,
+    "materia": "Historia de México",
+    "pregunta": "La doctrina económica que se importó en México en las últimas décadas del siglo XX, caracterizada por el libre mercado y la reducción del proteccionismo estatal, es el:",
+    "opciones": {
+      "a": "Socialismo",
+      "b": "Comunismo",
+      "c": "Neoliberalismo",
+      "d": "Keynesianismo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El neoliberalismo promueve la libre competencia, la privatización de empresas estatales y la reducción de la intervención del Estado en la economía."
+  },
+  {
+    "id": 641,
+    "materia": "Historia de México",
+    "pregunta": "El programa implementado en 1942 para compensar la mano de obra estadounidense que se había ido a la Segunda Guerra Mundial, contratando campesinos mexicanos, se llamó:",
+    "opciones": {
+      "a": "Programa Bracero",
+      "b": "Plan Marshall",
+      "c": "Alianza para el Progreso",
+      "d": "Programa Oportunidades"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "El Programa Bracero fue un acuerdo entre México y Estados Unidos para permitir la contratación temporal de trabajadores agrícolas mexicanos en EE.UU."
+  },
+  {
+    "id": 642,
+    "materia": "Historia de México",
+    "pregunta": "El acuerdo comercial entre México, Estados Unidos y Canadá que entró en vigor en 1994 es conocido como:",
+    "opciones": {
+      "a": "MERCOSUR",
+      "b": "Pacto Andino",
+      "c": "Tratado de Libre Comercio de América del Norte (TLCAN o NAFTA)",
+      "d": "Unión Europea"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El TLCAN (ahora T-MEC) eliminó la mayoría de las barreras arancelarias entre los tres países, fomentando el comercio trilateral."
+  },
+  {
+    "id": 643,
+    "materia": "Historia de México",
+    "pregunta": "La principal fuente de ingresos del gobierno federal mexicano, y una de las empresas más grandes del mundo, es:",
+    "opciones": {
+      "a": "Comisión Federal de Electricidad (CFE)",
+      "b": "Teléfonos de México (TELMEX)",
+      "c": "Petróleos Mexicanos (PEMEX)",
+      "d": "Instituto Mexicano del Seguro Social (IMSS)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "PEMEX ha sido históricamente la empresa estatal petrolera de México y una fuente crucial de ingresos para el país."
+  },
+  {
+    "id": 644,
+    "materia": "Historia de México",
+    "pregunta": "Los envíos de dinero que los migrantes mexicanos en Estados Unidos hacen a sus lugares de origen se conocen como:",
+    "opciones": {
+      "a": "Inversión extranjera directa",
+      "b": "Exportaciones",
+      "c": "Remesas",
+      "d": "Subsidios"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las remesas son una importante fuente de divisas para México y un sustento para muchas familias."
+  },
+  {
+    "id": 645,
+    "materia": "Historia de México",
+    "pregunta": "El Artículo Tercero de la Constitución de 1917 establece que la educación en México debe ser:",
+    "opciones": {
+      "a": "Religiosa y privada",
+      "b": "Laica, gratuita y obligatoria",
+      "c": "Militarizada y técnica",
+      "d": "Opcional y de paga"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El Artículo 3° Constitucional garantiza el derecho a la educación, estableciendo su carácter laico, gratuito (en el nivel básico impartido por el Estado) y obligatorio."
+  },
+  {
+    "id": 646,
+    "materia": "Historia de México",
+    "pregunta": "La primera universidad del continente americano se instaló en:",
+    "opciones": {
+      "a": "Lima, Perú",
+      "b": "Santo Domingo, República Dominicana",
+      "c": "Ciudad de México, Nueva España",
+      "d": "Cambridge, Massachusetts"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La Real y Pontificia Universidad de México, fundada en 1551, es considerada una de las primeras universidades de América."
+  },
+  {
+    "id": 647,
+    "materia": "Historia de México",
+    "pregunta": "El náhuatl, el maya y el zapoteco son ejemplos de __________ en México.",
+    "opciones": {
+      "a": "Religiones prehispánicas",
+      "b": "Ciudades coloniales",
+      "c": "Lenguas indígenas",
+      "d": "Grupos musicales tradicionales"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "México es un país con una gran diversidad lingüística, con numerosas lenguas indígenas que se hablan además del español."
+  },
+  {
+    "id": 648,
+    "materia": "Historia de México",
+    "pregunta": "El período conocido como la 'Guerra de los tres años' (1858-1860) en México fue un conflicto entre:",
+    "opciones": {
+      "a": "México y Estados Unidos",
+      "b": "Insurgentes y Realistas",
+      "c": "Liberales y Conservadores",
+      "d": "México y Francia"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La Guerra de Reforma fue una guerra civil entre liberales, que defendían la Constitución de 1857, y conservadores, que se oponían a ella."
+  },
+  {
+    "id": 649,
+    "materia": "Historia de México",
+    "pregunta": "La 'Noche Triste' se refiere a un episodio de la Conquista de México donde:",
+    "opciones": {
+      "a": "Los mexicas fueron derrotados definitivamente.",
+      "b": "Hernán Cortés y sus hombres huyeron de Tenochtitlán con grandes pérdidas.",
+      "c": "Moctezuma fue asesinado.",
+      "d": "Se fundó la Villa Rica de la Vera Cruz."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La Noche Triste (30 de junio de 1520) fue la retirada de Hernán Cortés y sus tropas de Tenochtitlán bajo el ataque de los mexicas, sufriendo numerosas bajas."
+  },
+  {
+    "id": 650,
+    "materia": "Historia de México",
+    "pregunta": "La principal demanda del movimiento zapatista durante la Revolución Mexicana fue:",
+    "opciones": {
+      "a": "Sufragio efectivo, no reelección",
+      "b": "Nacionalización del petróleo",
+      "c": "Reforma agraria y devolución de tierras a los campesinos",
+      "d": "Educación laica y gratuita"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El zapatismo, bajo el lema 'Tierra y Libertad', luchó primordialmente por la restitución de las tierras comunales a los campesinos."
+  },
+  {
+    "id": 651,
+    "materia": "Historia de México",
+    "pregunta": "El sistema de 'castas' en la Nueva España clasificaba a la población según su:",
+    "opciones": {
+      "a": "Nivel de riqueza",
+      "b": "Origen étnico y mezcla racial",
+      "c": "Oficio o profesión",
+      "d": "Afiliación religiosa"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El sistema de castas colonial era una jerarquía social basada en el origen racial y las mezclas entre españoles, indígenas y africanos."
+  },
+  {
+    "id": 652,
+    "materia": "Historia de México",
+    "pregunta": "La construcción de la 'Historia Patria' en el México posrevolucionario buscaba:",
+    "opciones": {
+      "a": "Criticar los errores de la Revolución.",
+      "b": "Fomentar la inversión extranjera.",
+      "c": "Difundir el pasado del país y unirlo con el presente revolucionario, fomentando el nacionalismo.",
+      "d": "Promover la separación de la Iglesia y el Estado."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La 'Historia Patria' oficial buscaba crear una narrativa unificada que legitimara el nuevo régimen y fortaleciera la identidad nacional."
+  },
+  {
+    "id": 653,
+    "materia": "Historia de México",
+    "pregunta": "El período de gobierno en México (1928-1934) dominado por Plutarco Elías Calles, aunque no fuera presidente formalmente, se conoce como:",
+    "opciones": {
+      "a": "Porfiriato",
+      "b": "Maximato",
+      "c": "Cardenismo",
+      "d": "República Restaurada"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Durante el Maximato, Calles, conocido como el 'Jefe Máximo de la Revolución', ejerció una gran influencia sobre los presidentes en turno."
+  },
+  {
+    "id": 654,
+    "materia": "Historia de México",
+    "pregunta": "El Artículo 27 de la Constitución de 1917 establece que la propiedad de las tierras y aguas comprendidas dentro de los límites del territorio nacional corresponde originariamente a:",
+    "opciones": {
+      "a": "Los hacendados",
+      "b": "Las compañías extranjeras",
+      "c": "La Nación",
+      "d": "La Iglesia"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Artículo 27 sentó las bases para la reforma agraria y la soberanía del Estado sobre los recursos naturales."
+  },
+  {
+    "id": 655,
+    "materia": "Historia de México",
+    "pregunta": "La 'Guerra Cristera' (1926-1929) fue un conflicto armado en México entre el gobierno y:",
+    "opciones": {
+      "a": "Grupos indígenas rebeldes",
+      "b": "Facciones revolucionarias",
+      "c": "Milicias católicas que se oponían a las leyes anticlericales",
+      "d": "Sindicatos obreros"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La Guerra Cristera fue una rebelión popular contra las políticas anticlericales del gobierno de Plutarco Elías Calles."
+  },
+  {
+    "id": 656,
+    "materia": "Historia de México",
+    "pregunta": "¿Quién fue el primer presidente constitucional de México, electo en 1824?",
+    "opciones": {
+      "a": "Agustín de Iturbide",
+      "b": "Guadalupe Victoria",
+      "c": "Vicente Guerrero",
+      "d": "Anastasio Bustamante"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Guadalupe Victoria (cuyo nombre real era José Miguel Ramón Adaucto Fernández y Félix) fue el primer presidente de la República Mexicana."
+  },
+  {
+    "id": 657,
+    "materia": "Historia de México",
+    "pregunta": "La destrucción de la capa de Ozono y el calentamiento de la tierra son ejemplos de:",
+    "opciones": {
+      "a": "Problemas sociales locales",
+      "b": "Avances tecnológicos",
+      "c": "Deterioro ambiental global",
+      "d": "Conflictos políticos regionales"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Estos son problemas ambientales de gran escala que afectan al planeta en su conjunto y requieren acciones coordinadas."
+  },
+  {
+    "id": 658,
+    "materia": "Historia de México",
+    "pregunta": "El Protocolo de Kyoto, que entró en vigor en 2005, tiene como objetivo principal:",
+    "opciones": {
+      "a": "Promover el libre comercio",
+      "b": "Proteger los derechos humanos",
+      "c": "Disminuir la emisión de gases de efecto invernadero",
+      "d": "Combatir el narcotráfico"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Protocolo de Kyoto es un acuerdo internacional para reducir las emisiones de gases que causan el calentamiento global."
+  },
+  {
+    "id": 659,
+    "materia": "Historia de México",
+    "pregunta": "La caída del Muro de Berlín en 1989 simbolizó:",
+    "opciones": {
+      "a": "El inicio de la Segunda Guerra Mundial",
+      "b": "El fin de la Guerra Fría y la reunificación de Alemania",
+      "c": "La creación de la Unión Europea",
+      "d": "El auge del comunismo en Europa"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La caída del Muro de Berlín fue un evento crucial que marcó el colapso del bloque soviético y el fin de la Guerra Fría."
+  },
+  {
+    "id": 660,
+    "materia": "Historia de México",
+    "pregunta": "En el contexto de la Guerra Fría, el mundo se dividió principalmente en dos bloques liderados por:",
+    "opciones": {
+      "a": "Reino Unido y Francia",
+      "b": "China y Japón",
+      "c": "Estados Unidos y la Unión Soviética",
+      "d": "Alemania e Italia"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La Guerra Fría fue un enfrentamiento ideológico, político, económico y militar entre el bloque capitalista liderado por EE.UU. y el bloque comunista liderado por la URSS."
+  },
+  {
+    "id": 661,
+    "materia": "Historia de México",
+    "pregunta": "La organización política que se dio en la Nueva España, donde el Virrey gobernaba a nombre del Rey, se llamó:",
+    "opciones": {
+      "a": "Capitanía General",
+      "b": "Audiencia Real",
+      "c": "Virreinato",
+      "d": "Monarquía Constitucional"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Virreinato fue la forma de gobierno establecida por la Corona Española en sus colonias americanas, con el Virrey como máxima autoridad."
+  },
+  {
+    "id": 662,
+    "materia": "Historia de México",
+    "pregunta": "El 'sitio de Cuautla' fue un importante episodio de la Guerra de Independencia liderado por:",
+    "opciones": {
+      "a": "Miguel Hidalgo",
+      "b": "Ignacio Allende",
+      "c": "José María Morelos",
+      "d": "Vicente Guerrero"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Durante el sitio de Cuautla (1812), las fuerzas insurgentes de José María Morelos resistieron el asedio del ejército realista, convirtiéndose en un símbolo de la lucha independentista."
+  },
+  {
+    "id": 663,
+    "materia": "Historia de México",
+    "pregunta": "El Tratado de Libre Comercio de América del Norte (TLCAN) entró en vigor en el año:",
+    "opciones": {
+      "a": "1989",
+      "b": "1994",
+      "c": "2000",
+      "d": "1917"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El TLCAN entró en vigor el 1 de enero de 1994, creando una de las zonas de libre comercio más grandes del mundo."
+  },
+  {
+    "id": 664,
+    "materia": "Historia de México",
+    "pregunta": "El fin del monopolio de 71 años del Partido del Estado (PRI) en México ocurrió en las elecciones del año:",
+    "opciones": {
+      "a": "1988",
+      "b": "1994",
+      "c": "2000",
+      "d": "2006"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "En las elecciones presidenciales del año 2000, Vicente Fox Quesada (PAN) ganó, marcando la primera alternancia en el poder en México después de siete décadas de gobierno del PRI."
+  },
+  {
+    "id": 665,
+    "materia": "Historia de México",
+    "pregunta": "La 'Guerra Sucia' en México se refiere a un período de represión estatal contra movimientos de oposición y disidencia, principalmente durante las décadas de:",
+    "opciones": {
+      "a": "1910 y 1920",
+      "b": "1930 y 1940",
+      "c": "1960 y 1970",
+      "d": "1990 y 2000"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La 'Guerra Sucia' fue un período de represión política y violaciones a los derechos humanos por parte del Estado mexicano contra grupos opositores, especialmente en los años 60 y 70."
+  }
+]
