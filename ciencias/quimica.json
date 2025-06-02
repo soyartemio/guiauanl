@@ -1,0 +1,1042 @@
+[
+  {
+    "id": 401,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "¿Cuál es la ciencia que estudia la composición y propiedades de la materia y sus transformaciones con intervención de la energía?",
+    "opciones": {
+      "a": "Física",
+      "b": "Biología",
+      "c": "Química",
+      "d": "Geología"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La química es la ciencia que estudia la materia, su composición, estructura, propiedades y las transformaciones que experimenta."
+  },
+  {
+    "id": 402,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Todo lo que ocupa un lugar en el espacio y tiene masa, peso y volumen se define como:",
+    "opciones": {
+      "a": "Energía",
+      "b": "Materia",
+      "c": "Fuerza",
+      "d": "Campo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La materia es cualquier sustancia que posee masa y ocupa un volumen en el espacio."
+  },
+  {
+    "id": 403,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "La utilización de conocimientos científicos aplicados en procesos industriales para la fabricación de productos o en la investigación se llama:",
+    "opciones": {
+      "a": "Ciencia pura",
+      "b": "Tecnología",
+      "c": "Hipótesis",
+      "d": "Ley natural"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La tecnología es la aplicación práctica del conocimiento científico para resolver problemas o crear herramientas y procesos."
+  },
+  {
+    "id": 404,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El PVC (Cloruro de polivinilo) es un producto químico utilizado comúnmente en:",
+    "opciones": {
+      "a": "Alimentos",
+      "b": "Medicamentos",
+      "c": "Tuberías de drenaje",
+      "d": "Fertilizantes"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El PVC es un polímero termoplástico ampliamente utilizado en la construcción, incluyendo tuberías, ventanas y revestimientos."
+  },
+  {
+    "id": 405,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "La partícula más pequeña e indivisible de un elemento, según el modelo de Bohr, se representa como un sistema planetario. Esta partícula es el:",
+    "opciones": {
+      "a": "Molécula",
+      "b": "Ion",
+      "c": "Átomo",
+      "d": "Compuesto"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El átomo es la unidad básica de un elemento químico. El modelo de Bohr lo describe con un núcleo central y electrones orbitando."
+  },
+  {
+    "id": 406,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Partículas subatómicas con carga positiva que se encuentran en el núcleo del átomo:",
+    "opciones": {
+      "a": "Electrones",
+      "b": "Neutrones",
+      "c": "Protones",
+      "d": "Fotones"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los protones son partículas subatómicas con carga eléctrica positiva ubicadas en el núcleo del átomo."
+  },
+  {
+    "id": 407,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "La fuerza que mantiene unidos a los átomos para formar compuestos se llama:",
+    "opciones": {
+      "a": "Fuerza nuclear",
+      "b": "Enlace químico",
+      "c": "Fuerza de gravedad",
+      "d": "Fuerza electromotriz"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Un enlace químico es la fuerza de atracción que mantiene unidos a los átomos en las moléculas y los compuestos."
+  },
+  {
+    "id": 408,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Los electrones que se encuentran en el último nivel de energía de un átomo y son responsables de los enlaces químicos se llaman:",
+    "opciones": {
+      "a": "Electrones internos",
+      "b": "Electrones de valencia",
+      "c": "Electrones apareados",
+      "d": "Electrones libres"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los electrones de valencia son los electrones de la capa más externa de un átomo, que participan en la formación de enlaces químicos."
+  },
+  {
+    "id": 409,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Instrumento de laboratorio utilizado para medir la masa con precisión:",
+    "opciones": {
+      "a": "Probeta",
+      "b": "Pipeta",
+      "c": "Balanza",
+      "d": "Matraz"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La balanza es el instrumento diseñado para medir la masa de un objeto."
+  },
+  {
+    "id": 410,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El término LD50 en toxicología se refiere a:",
+    "opciones": {
+      "a": "La dosis máxima tolerada de una sustancia.",
+      "b": "La dosis mínima que causa efectos visibles.",
+      "c": "La dosis que causa la muerte al 50% de los animales de prueba.",
+      "d": "El límite de detección de una sustancia tóxica."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "LD50 (Dosis Letal 50) es una medida de la toxicidad aguda de una sustancia, indicando la dosis necesaria para matar al 50% de una población de prueba."
+  },
+  {
+    "id": 411,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Unidad de medida de concentración que indica la cantidad de unidades de una sustancia por cada millón de unidades del conjunto:",
+    "opciones": {
+      "a": "Porcentaje (%)",
+      "b": "Molaridad (M)",
+      "c": "Partes por millón (ppm)",
+      "d": "Normalidad (N)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Partes por millón (ppm) es una unidad utilizada para expresar concentraciones muy bajas de una sustancia en una mezcla."
+  },
+  {
+    "id": 412,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Las propiedades físicas que no involucran cambios en la composición del material, como el olor o el color, son:",
+    "opciones": {
+      "a": "Propiedades químicas",
+      "b": "Propiedades cualitativas",
+      "c": "Propiedades cuantitativas",
+      "d": "Propiedades intensivas"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las propiedades cualitativas describen las cualidades de la materia sin medición numérica, como el color, olor, forma."
+  },
+  {
+    "id": 413,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "¿Cuál de los siguientes es un estado de agregación de la materia donde las partículas están muy dispersas y tienden a ocupar todo el espacio?",
+    "opciones": {
+      "a": "Sólido",
+      "b": "Líquido",
+      "c": "Gas",
+      "d": "Coloide"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "En el estado gaseoso, las partículas tienen alta energía cinética, están muy separadas y se mueven libremente, ocupando todo el volumen disponible."
+  },
+  {
+    "id": 414,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Las propiedades que dependen de la cantidad total de materia del cuerpo, como la masa y el volumen, son:",
+    "opciones": {
+      "a": "Propiedades intensivas",
+      "b": "Propiedades extensivas",
+      "c": "Propiedades específicas",
+      "d": "Propiedades químicas"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las propiedades extensivas dependen de la cantidad de materia presente, como la masa, el volumen y la longitud."
+  },
+  {
+    "id": 415,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "La temperatura a la cual una sustancia cambia de estado sólido a líquido se llama:",
+    "opciones": {
+      "a": "Punto de ebullición",
+      "b": "Punto de fusión",
+      "c": "Punto de sublimación",
+      "d": "Punto triple"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El punto de fusión es la temperatura constante a la cual un sólido pasa al estado líquido a una presión determinada."
+  },
+  {
+    "id": 416,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Proceso de cambio de estado de líquido a sólido:",
+    "opciones": {
+      "a": "Fusión",
+      "b": "Evaporación",
+      "c": "Condensación",
+      "d": "Solidificación"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "La solidificación es el cambio de fase de una sustancia del estado líquido al estado sólido."
+  },
+  {
+    "id": 417,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "En una disolución, el componente que se encuentra en menor cantidad y se disuelve es el:",
+    "opciones": {
+      "a": "Solvente",
+      "b": "Soluto",
+      "c": "Disolvente",
+      "d": "Mezcla"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El soluto es la sustancia que se disuelve en un disolvente para formar una disolución, generalmente presente en menor proporción."
+  },
+  {
+    "id": 418,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Cuando el disolvente es el agua, las disoluciones se llaman:",
+    "opciones": {
+      "a": "Disoluciones orgánicas",
+      "b": "Disoluciones concentradas",
+      "c": "Disoluciones acuosas",
+      "d": "Disoluciones saturadas"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Una disolución acuosa es aquella en la que el agua actúa como disolvente."
+  },
+  {
+    "id": 419,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "La unidad de medida para la masa en el sistema internacional de unidades es el:",
+    "opciones": {
+      "a": "Gramo (g)",
+      "b": "Kilogramo (kg)",
+      "c": "Litro (L)",
+      "d": "Metro cúbico (m³)"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El kilogramo (kg) es la unidad base de masa en el Sistema Internacional (SI)."
+  },
+  {
+    "id": 420,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Una mezcla donde es imposible distinguir una parte de otra, incluso con un microscopio, se llama:",
+    "opciones": {
+      "a": "Mezcla heterogénea",
+      "b": "Mezcla homogénea (o disolución)",
+      "c": "Suspensión",
+      "d": "Coloide"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Una mezcla homogénea, también llamada disolución, tiene una composición uniforme en todas sus partes."
+  },
+  {
+    "id": 421,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Método de separación de mezclas que consiste en hacer pasar una mezcla por un material poroso que retiene las partículas sólidas:",
+    "opciones": {
+      "a": "Decantación",
+      "b": "Filtración",
+      "c": "Destilación",
+      "d": "Sublimación"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La filtración se utiliza para separar sólidos insolubles de un líquido o gas haciéndolos pasar a través de un medio filtrante."
+  },
+  {
+    "id": 422,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Proceso de cambio de estado de un sólido directamente a gas, sin pasar por el estado líquido:",
+    "opciones": {
+      "a": "Evaporación",
+      "b": "Condensación",
+      "c": "Sublimación",
+      "d": "Fusión"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La sublimación es la transición de una sustancia directamente del estado sólido al estado gaseoso."
+  },
+  {
+    "id": 423,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El modelo atómico de __________ considera al átomo como una esfera sólida (bola de billar) indivisible.",
+    "opciones": {
+      "a": "Thomson",
+      "b": "Rutherford",
+      "c": "Dalton",
+      "d": "Bohr"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El modelo atómico de Dalton fue el primero en proponer que la materia estaba compuesta por átomos indivisibles e indestructibles."
+  },
+  {
+    "id": 424,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El modelo de Lewis utiliza puntos alrededor del símbolo del elemento para representar los:",
+    "opciones": {
+      "a": "Protones en el núcleo",
+      "b": "Neutrones totales",
+      "c": "Electrones de valencia",
+      "d": "Electrones internos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los diagramas de puntos de Lewis muestran los electrones de valencia de un átomo, que son los que participan en los enlaces químicos."
+  },
+  {
+    "id": 425,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "En la tabla periódica, las columnas verticales que agrupan elementos con propiedades químicas similares se llaman:",
+    "opciones": {
+      "a": "Períodos",
+      "b": "Grupos o familias",
+      "c": "Series",
+      "d": "Bloques"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los grupos o familias en la tabla periódica contienen elementos con la misma configuración de electrones de valencia, lo que les confiere propiedades químicas similares."
+  },
+  {
+    "id": 426,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Elementos como el Silicio (Si) y el Germanio (Ge), que poseen características de metales y no metales, se clasifican como:",
+    "opciones": {
+      "a": "Metales alcalinos",
+      "b": "Halógenos",
+      "c": "Gases nobles",
+      "d": "Metaloides"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Los metaloides o semimetales tienen propiedades intermedias entre los metales y los no metales, y a menudo son semiconductores."
+  },
+  {
+    "id": 427,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Tipo de enlace químico donde los átomos comparten electrones, generalmente entre no metales:",
+    "opciones": {
+      "a": "Enlace iónico",
+      "b": "Enlace covalente",
+      "c": "Enlace metálico",
+      "d": "Puente de hidrógeno"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "En un enlace covalente, los átomos comparten uno o más pares de electrones para alcanzar una configuración electrónica estable."
+  },
+  {
+    "id": 428,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Las sustancias iniciales en una reacción química se denominan:",
+    "opciones": {
+      "a": "Productos",
+      "b": "Reactivos",
+      "c": "Catalizadores",
+      "d": "Solutos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los reactivos son las sustancias que se consumen o transforman durante una reacción química para formar productos."
+  },
+  {
+    "id": 429,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "La Ley de la Conservación de la Materia, establecida por Lavoisier, postula que:",
+    "opciones": {
+      "a": "La materia se crea constantemente en el universo.",
+      "b": "La materia se destruye en las reacciones nucleares.",
+      "c": "La materia no se crea ni se destruye, solo se transforma.",
+      "d": "La materia puede convertirse completamente en energía."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Este principio fundamental establece que la masa total de los reactivos es igual a la masa total de los productos en una reacción química."
+  },
+  {
+    "id": 430,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El número de Avogadro, que define la cantidad de partículas en un mol, es aproximadamente:",
+    "opciones": {
+      "a": "6.02 x 10^20",
+      "b": "6.02 x 10^23",
+      "c": "3.14 x 10^15",
+      "d": "1.60 x 10^-19"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Un mol de cualquier sustancia contiene aproximadamente 6.022 x 10^23 entidades elementales (átomos, moléculas, iones, etc.)."
+  },
+  {
+    "id": 431,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Sustancias que contienen el ion Hidrógeno (H+) como radical y tienen sabor agrio:",
+    "opciones": {
+      "a": "Bases",
+      "b": "Ácidos",
+      "c": "Sales",
+      "d": "Óxidos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los ácidos son sustancias que, en disolución acuosa, liberan iones H+ (protones) y típicamente tienen sabor agrio."
+  },
+  {
+    "id": 432,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "La escala de pH se utiliza para medir el grado de ________ o ________ de las sustancias.",
+    "opciones": {
+      "a": "densidad, viscosidad",
+      "b": "acidez, alcalinidad (basicidad)",
+      "c": "solubilidad, conductividad",
+      "d": "pureza, concentración"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La escala de pH mide la concentración de iones hidrógeno en una disolución, indicando si es ácida (pH < 7), neutra (pH = 7) o básica/alcalina (pH > 7)."
+  },
+  {
+    "id": 433,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Una reacción entre un ácido y una base, donde se forma una sal y agua, se llama:",
+    "opciones": {
+      "a": "Oxidación",
+      "b": "Reducción",
+      "c": "Neutralización",
+      "d": "Combustión"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Una reacción de neutralización ocurre cuando un ácido y una base reaccionan para formar agua y una sal, neutralizando sus propiedades."
+  },
+  {
+    "id": 434,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El modelo de Arrhenius define una base como una sustancia que en disolución acuosa libera iones:",
+    "opciones": {
+      "a": "Hidrógeno (H+)",
+      "b": "Hidroxilo (OH-)",
+      "c": "Sodio (Na+)",
+      "d": "Cloruro (Cl-)"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Según Arrhenius, una base es una sustancia que produce iones hidroxilo (OH-) cuando se disuelve en agua."
+  },
+  {
+    "id": 435,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "En una reacción de oxidación-reducción (redox), la sustancia que pierde electrones se:",
+    "opciones": {
+      "a": "Reduce",
+      "b": "Oxida",
+      "c": "Neutraliza",
+      "d": "Precipita"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La oxidación es el proceso de pérdida de electrones por una especie química."
+  },
+  {
+    "id": 436,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "La corrosión de los metales es un ejemplo de reacción de:",
+    "opciones": {
+      "a": "Neutralización",
+      "b": "Combustión",
+      "c": "Oxidación-reducción",
+      "d": "Precipitación"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La corrosión es un proceso electroquímico de oxidación en el cual un metal reacciona con su entorno (generalmente oxígeno y agua)."
+  },
+  {
+    "id": 437,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Un compuesto que conduce la corriente eléctrica cuando se funde o disuelve en agua se llama:",
+    "opciones": {
+      "a": "No electrolito",
+      "b": "Electrolito",
+      "c": "Aislante",
+      "d": "Semiconductor"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Un electrolito es una sustancia que produce iones en disolución, lo que permite que la disolución conduzca la electricidad."
+  },
+  {
+    "id": 438,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El proceso de utilizar energía eléctrica para producir un cambio químico se llama:",
+    "opciones": {
+      "a": "Generación voltaica",
+      "b": "Electrólisis",
+      "c": "Combustión",
+      "d": "Catálisis"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La electrólisis es el proceso de descomposición de una sustancia mediante el paso de una corriente eléctrica a través de ella."
+  },
+  {
+    "id": 439,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El electrodo positivo en una pila o celda electroquímica se llama:",
+    "opciones": {
+      "a": "Ánodo",
+      "b": "Cátodo",
+      "c": "Puente salino",
+      "d": "Electrolito"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Por convención, en una celda galvánica (pila), el cátodo es el electrodo positivo donde ocurre la reducción. En electrólisis, el cátodo es negativo."
+  },
+  {
+    "id": 440,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "La propiedad de los metales como el hierro o el níquel de ser atraídos por un imán se llama:",
+    "opciones": {
+      "a": "Diamagnetismo",
+      "b": "Paramagnetismo",
+      "c": "Ferromagnetismo",
+      "d": "Antiferromagnetismo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El ferromagnetismo es la propiedad de ciertos materiales, como el hierro, de ser fuertemente atraídos por los imanes y de poder ser magnetizados."
+  },
+  {
+    "id": 441,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El número que indica la cantidad de electrones que un átomo ha ganado, perdido o compartido al unirse con otro átomo se llama:",
+    "opciones": {
+      "a": "Número másico",
+      "b": "Número atómico",
+      "c": "Número de oxidación",
+      "d": "Número de Avogadro"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El número de oxidación (o estado de oxidación) representa la carga hipotética que tendría un átomo si todos sus enlaces con átomos de diferentes elementos fueran 100% iónicos."
+  },
+  {
+    "id": 442,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Los hidrocarburos son compuestos orgánicos constituidos principalmente por:",
+    "opciones": {
+      "a": "Carbono y oxígeno",
+      "b": "Hidrógeno y nitrógeno",
+      "c": "Carbono e hidrógeno",
+      "d": "Oxígeno y azufre"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los hidrocarburos son una clase de compuestos orgánicos formados únicamente por átomos de carbono e hidrógeno."
+  },
+  {
+    "id": 443,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "En la tabla periódica moderna, los elementos se ordenan según su:",
+    "opciones": {
+      "a": "Masa atómica creciente",
+      "b": "Número atómico creciente",
+      "c": "Electronegatividad decreciente",
+      "d": "Radio atómico creciente"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La tabla periódica moderna organiza los elementos en orden creciente de su número atómico (número de protones)."
+  },
+  {
+    "id": 444,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "La alotropía es una propiedad de algunos elementos que pueden presentar diferentes formas o texturas en el mismo estado físico. Un ejemplo es:",
+    "opciones": {
+      "a": "El agua como hielo, líquido y vapor",
+      "b": "El carbono como diamante y grafito",
+      "c": "El sodio metálico y el ion sodio",
+      "d": "El oxígeno gaseoso y el ozono"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El carbono presenta alotropía, existiendo como diamante, grafito, fulerenos, etc. El oxígeno y el ozono también son formas alotrópicas del oxígeno."
+  },
+  {
+    "id": 445,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El proceso de recubrir un metal con otro mediante electrólisis para protegerlo de la corrosión se llama:",
+    "opciones": {
+      "a": "Galvanizado (si es con zinc)",
+      "b": "Electrodeposición",
+      "c": "Pasivación",
+      "d": "Anodizado"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La electrodeposición es un proceso que utiliza la electrólisis para recubrir un objeto con una capa de metal. El galvanizado es un tipo específico de electrodeposición con zinc."
+  },
+  {
+    "id": 446,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "La cantidad de materia contenida en un cuerpo, que permanece constante en cualquier lugar del universo, es la:",
+    "opciones": {
+      "a": "Masa",
+      "b": "Peso",
+      "c": "Densidad",
+      "d": "Volumen"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La masa es una medida intrínseca de la cantidad de materia de un objeto."
+  },
+  {
+    "id": 447,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "En el proceso de combustión, el oxígeno actúa como:",
+    "opciones": {
+      "a": "Combustible",
+      "b": "Comburente (agente oxidante)",
+      "c": "Producto de la reacción",
+      "d": "Catalizador"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El comburente es la sustancia que provoca o favorece la combustión de otra, siendo el oxígeno el más común."
+  },
+  {
+    "id": 448,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Una sustancia con pH = 2 es:",
+    "opciones": {
+      "a": "Fuertemente ácida",
+      "b": "Ligeramente ácida",
+      "c": "Neutra",
+      "d": "Fuertemente básica"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Un pH de 2 indica una alta concentración de iones H+, característico de un ácido fuerte."
+  },
+  {
+    "id": 449,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "¿Cuál de los siguientes es un ejemplo de mezcla heterogénea?",
+    "opciones": {
+      "a": "Agua salada",
+      "b": "Aire limpio",
+      "c": "Aceite y agua",
+      "d": "Bronce (aleación de cobre y estaño)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "En una mezcla de aceite y agua, los componentes no se disuelven entre sí y forman fases separadas visibles, característico de una mezcla heterogénea."
+  },
+  {
+    "id": 450,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "La descripción breve de una reacción química por medio de símbolos y fórmulas se llama:",
+    "opciones": {
+      "a": "Diagrama de fases",
+      "b": "Ecuación química",
+      "c": "Modelo atómico",
+      "d": "Fórmula empírica"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Una ecuación química utiliza símbolos y fórmulas para representar los reactivos, productos y las condiciones de una reacción química."
+  },
+  {
+    "id": 451,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El estado de agregación que toma la forma del recipiente que lo contiene, tiene volumen constante, fluye y no es compresible es el:",
+    "opciones": {
+      "a": "Sólido",
+      "b": "Líquido",
+      "c": "Gas",
+      "d": "Plasma"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los líquidos adoptan la forma de su contenedor, mantienen un volumen relativamente constante y son prácticamente incompresibles."
+  },
+  {
+    "id": 452,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "La propiedad que tienen algunas sustancias de disolverse en un líquido se llama:",
+    "opciones": {
+      "a": "Densidad",
+      "b": "Viscosidad",
+      "c": "Solubilidad",
+      "d": "Maleabilidad"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La solubilidad es la capacidad de una sustancia (soluto) para disolverse en otra (disolvente) formando una disolución."
+  },
+  {
+    "id": 453,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El modelo atómico de Rutherford y Bohr describe al átomo con cargas positivas concentradas en un _________ y electrones que se mueven a su alrededor.",
+    "opciones": {
+      "a": "Núcleo muy pequeño",
+      "b": "Una nube difusa",
+      "c": "Una esfera sólida",
+      "d": "Orbitales fijos"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "El modelo de Rutherford-Bohr introdujo la idea de un núcleo denso y positivo con electrones orbitando a su alrededor en niveles de energía específicos."
+  },
+  {
+    "id": 454,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El símbolo químico 'Na' corresponde al elemento:",
+    "opciones": {
+      "a": "Nitrógeno",
+      "b": "Níquel",
+      "c": "Sodio",
+      "d": "Neón"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El símbolo 'Na' proviene del nombre en latín del sodio, 'Natrium'."
+  },
+  {
+    "id": 455,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Un enlace iónico se forma típicamente entre:",
+    "opciones": {
+      "a": "Dos átomos no metálicos",
+      "b": "Un metal y un no metal",
+      "c": "Dos átomos metálicos",
+      "d": "Un metaloide y un gas noble"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El enlace iónico se forma por la transferencia de electrones de un átomo metálico (que forma un catión) a un átomo no metálico (que forma un anión)."
+  },
+  {
+    "id": 456,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El peso molecular del agua (H₂O), considerando H=1 uma y O=16 uma, es:",
+    "opciones": {
+      "a": "17 uma",
+      "b": "18 uma",
+      "c": "32 uma",
+      "d": "16 uma"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El peso molecular del H₂O es (2 * 1 uma) + (1 * 16 uma) = 2 + 16 = 18 uma."
+  },
+  {
+    "id": 457,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Sustancias como el vinagre (ácido acético) o el jugo de limón (ácido cítrico) son ejemplos de:",
+    "opciones": {
+      "a": "Bases fuertes",
+      "b": "Ácidos orgánicos",
+      "c": "Sales neutras",
+      "d": "Óxidos básicos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El ácido acético y el ácido cítrico son ácidos carboxílicos, un tipo de ácido orgánico."
+  },
+  {
+    "id": 458,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Una sustancia con pH = 12 es:",
+    "opciones": {
+      "a": "Fuertemente ácida",
+      "b": "Ligeramente básica",
+      "c": "Neutra",
+      "d": "Fuertemente básica (alcalina)"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Un pH de 12 indica una baja concentración de iones H+ (o alta de OH-), característico de una base fuerte."
+  },
+  {
+    "id": 459,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El agente oxidante en una reacción redox es la sustancia que:",
+    "opciones": {
+      "a": "Pierde electrones y se oxida",
+      "b": "Gana electrones y se reduce",
+      "c": "Causa la reducción de otra sustancia (y él mismo se oxida)",
+      "d": "Causa la oxidación de otra sustancia (y él mismo se reduce)"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "Un agente oxidante es una especie que oxida a otra (hace que pierda electrones) y, al hacerlo, él mismo se reduce (gana electrones)."
+  },
+  {
+    "id": 460,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "La reacción 2H₂ + O₂ → 2H₂O es un ejemplo de reacción de:",
+    "opciones": {
+      "a": "Descomposición",
+      "b": "Síntesis o combinación",
+      "c": "Desplazamiento simple",
+      "d": "Neutralización"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Es una reacción de síntesis porque dos o más sustancias simples (hidrógeno y oxígeno) se combinan para formar un compuesto más complejo (agua)."
+  },
+  {
+    "id": 461,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El proceso de destilación se utiliza para separar mezclas basándose en la diferencia de:",
+    "opciones": {
+      "a": "Densidades",
+      "b": "Puntos de ebullición",
+      "c": "Tamaño de partícula",
+      "d": "Solubilidades"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La destilación separa componentes de una mezcla líquida aprovechando sus diferentes volatilidades o puntos de ebullición."
+  },
+  {
+    "id": 462,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "En el modelo atómico de Thomson (budín de pasas), los electrones se consideraban:",
+    "opciones": {
+      "a": "Orbitando el núcleo",
+      "b": "Incrustados en una esfera de carga positiva",
+      "c": "Concentrados en el núcleo",
+      "d": "Inexistentes"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Thomson propuso que el átomo era una esfera de carga positiva con electrones (carga negativa) incrustados en ella, como pasas en un budín."
+  },
+  {
+    "id": 463,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El máximo número de electrones de valencia que un átomo del segundo período (como el Neón) puede tener para cumplir la regla del octeto es:",
+    "opciones": {
+      "a": "2",
+      "b": "6",
+      "c": "8",
+      "d": "10"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La regla del octeto establece que los átomos tienden a completar su capa de valencia con 8 electrones para alcanzar estabilidad (excepto H y He que siguen la regla del dueto)."
+  },
+  {
+    "id": 464,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Los elementos del Grupo 1 de la tabla periódica (Li, Na, K, etc.) se conocen como:",
+    "opciones": {
+      "a": "Gases nobles",
+      "b": "Halógenos",
+      "c": "Metales alcalinotérreos",
+      "d": "Metales alcalinos"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El Grupo 1 (IA) corresponde a los metales alcalinos, que son muy reactivos y tienen un electrón de valencia."
+  },
+  {
+    "id": 465,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Un enlace covalente polar se forma cuando:",
+    "opciones": {
+      "a": "Los átomos comparten electrones de forma equitativa.",
+      "b": "Hay una transferencia completa de electrones.",
+      "c": "Los electrones se comparten de forma desigual debido a diferencias de electronegatividad.",
+      "d": "Se forma entre iones metálicos y un mar de electrones."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "En un enlace covalente polar, la diferencia de electronegatividad entre los átomos hace que los electrones compartidos se sientan más atraídos hacia el átomo más electronegativo, creando dipolos."
+  },
+  {
+    "id": 466,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Al balancear la ecuación H₂ + Cl₂ → HCl, el coeficiente correcto para HCl es:",
+    "opciones": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La ecuación balanceada es H₂ + Cl₂ → 2HCl, para tener 2 átomos de H y 2 átomos de Cl en ambos lados."
+  },
+  {
+    "id": 467,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El bicarbonato de sodio (NaHCO₃) es un ejemplo de:",
+    "opciones": {
+      "a": "Ácido fuerte",
+      "b": "Base fuerte",
+      "c": "Sal ácida",
+      "d": "Óxido metálico"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El bicarbonato de sodio es una sal que contiene un ion hidrógeno reemplazable (H en HCO₃⁻), por lo que puede actuar como una sal ácida o una base débil."
+  },
+  {
+    "id": 468,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El proceso de combustión de la gasolina en un motor es una reacción que libera energía, por lo tanto es:",
+    "opciones": {
+      "a": "Endotérmica",
+      "b": "Exotérmica",
+      "c": "De neutralización",
+      "d": "De precipitación"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Una reacción exotérmica es aquella que libera energía al entorno, generalmente en forma de calor y luz, como en la combustión."
+  },
+  {
+    "id": 469,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El agua oxigenada (H₂O₂) se utiliza comúnmente como antiséptico y desinfectante debido a sus propiedades:",
+    "opciones": {
+      "a": "Reductoras",
+      "b": "Oxidantes",
+      "c": "Ácidas",
+      "d": "Básicas"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El peróxido de hidrógeno (agua oxigenada) es un potente agente oxidante que puede matar microorganismos."
+  },
+  {
+    "id": 470,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "¿Qué tipo de partículas subatómicas no tienen carga eléctrica y se encuentran en el núcleo?",
+    "opciones": {
+      "a": "Protones",
+      "b": "Electrones",
+      "c": "Neutrones",
+      "d": "Positrones"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los neutrones son partículas subatómicas sin carga eléctrica neta, ubicadas en el núcleo del átomo junto con los protones."
+  },
+  {
+    "id": 471,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "La capacidad de los cuerpos para fraccionarse en pedazos cada vez más pequeños es la propiedad de:",
+    "opciones": {
+      "a": "Divisibilidad",
+      "b": "Impenetrabilidad",
+      "c": "Porosidad",
+      "d": "Inercia"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La divisibilidad es la propiedad general de la materia que permite que pueda ser dividida en partes más pequeñas."
+  },
+  {
+    "id": 472,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El cambio de estado de gas a líquido se llama:",
+    "opciones": {
+      "a": "Evaporación",
+      "b": "Sublimación",
+      "c": "Condensación",
+      "d": "Solidificación"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La condensación es el proceso por el cual un gas se transforma en líquido, generalmente por enfriamiento o aumento de presión."
+  },
+  {
+    "id": 473,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El símbolo químico 'Fe' corresponde al elemento:",
+    "opciones": {
+      "a": "Flúor",
+      "b": "Fósforo",
+      "c": "Francio",
+      "d": "Hierro"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El símbolo 'Fe' proviene del nombre en latín del hierro, 'Ferrum'."
+  },
+  {
+    "id": 474,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Los elementos del Grupo 17 de la tabla periódica (F, Cl, Br, I) se conocen como:",
+    "opciones": {
+      "a": "Metales alcalinos",
+      "b": "Gases nobles",
+      "c": "Halógenos",
+      "d": "Calcógenos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Grupo 17 (VIIA) corresponde a los halógenos, que son no metales muy reactivos con siete electrones de valencia."
+  },
+  {
+    "id": 475,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "Una sustancia que se comporta como ácido o como base, dependiendo de las condiciones, se llama:",
+    "opciones": {
+      "a": "Anfótera",
+      "b": "Isótopa",
+      "c": "Alótropa",
+      "d": "Isómera"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Una sustancia anfótera (o anfotérica) puede reaccionar tanto como un ácido como una base. El agua es un ejemplo común."
+  },
+  {
+    "id": 476,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "En una pila galvánica, la transformación de energía que ocurre es de:",
+    "opciones": {
+      "a": "Energía eléctrica a energía química",
+      "b": "Energía química a energía eléctrica",
+      "c": "Energía térmica a energía eléctrica",
+      "d": "Energía lumínica a energía química"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Una pila o celda galvánica convierte la energía liberada en una reacción química espontánea (redox) en energía eléctrica."
+  },
+  {
+    "id": 477,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El concepto de que los átomos de un mismo elemento tienen igual número atómico pero diferente peso atómico se refiere a los:",
+    "opciones": {
+      "a": "Isómeros",
+      "b": "Alótropos",
+      "c": "Isótopos",
+      "d": "Iones"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los isótopos son átomos de un mismo elemento que tienen el mismo número de protones (número atómico) pero diferente número de neutrones (y por lo tanto, diferente masa atómica)."
+  },
+  {
+    "id": 478,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "La capacidad de combinación de un átomo, relacionada con sus electrones de valencia, se conoce como:",
+    "opciones": {
+      "a": "Valencia",
+      "b": "Masa atómica",
+      "c": "Radio iónico",
+      "d": "Electronegatividad"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La valencia de un átomo es el número de electrones que necesita ganar, perder o compartir para alcanzar la estabilidad, y determina cómo se combina con otros átomos."
+  },
+  {
+    "id": 479,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "El pH de una sustancia neutra, como el agua pura, es:",
+    "opciones": {
+      "a": "Menor que 7",
+      "b": "Igual a 7",
+      "c": "Mayor que 7",
+      "d": "Igual a 0"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Un pH de 7 indica una concentración igual de iones H+ y OH-, lo cual es característico de una sustancia neutra."
+  },
+  {
+    "id": 480,
+    "materia": "Ciencias III (Química)",
+    "pregunta": "En una reacción de oxidación, el número de oxidación de la especie que se oxida:",
+    "opciones": {
+      "a": "Aumenta",
+      "b": "Disminuye",
+      "c": "No cambia",
+      "d": "Se vuelve cero"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La oxidación implica una pérdida de electrones, lo que resulta en un aumento del número de oxidación."
+  }
+]
