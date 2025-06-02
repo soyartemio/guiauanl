@@ -1,0 +1,1432 @@
+[
+  {
+    "id": 201,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "¿Cómo se llama el provocar un fenómeno en forma controlada con finalidad de estudiarlo?",
+    "opciones": {
+      "a": "Observar",
+      "b": "Medir",
+      "c": "Experimentar",
+      "d": "Hipotetizar"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Experimentar es provocar un fenómeno bajo condiciones controladas para su estudio sistemático, fundamental en el método científico."
+  },
+  {
+    "id": 202,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Es comparar una cosa con otra que se ha tomado como base o patrón de medida.",
+    "opciones": {
+      "a": "Analizar",
+      "b": "Medir",
+      "c": "Clasificar",
+      "d": "Inferir"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Medir es el proceso de comparar una magnitud física con una unidad patrón establecida."
+  },
+  {
+    "id": 203,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "¿Cuál de las siguientes es una magnitud fundamental de la Física?",
+    "opciones": {
+      "a": "Velocidad",
+      "b": "Fuerza",
+      "c": "Longitud",
+      "d": "Área"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La longitud, la masa y el tiempo son consideradas magnitudes fundamentales en la mecánica clásica."
+  },
+  {
+    "id": 204,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Unidad de longitud en el Sistema Internacional de Unidades (SI):",
+    "opciones": {
+      "a": "Kilogramo",
+      "b": "Segundo",
+      "c": "Metro",
+      "d": "Newton"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El metro (m) es la unidad base de longitud en el Sistema Internacional."
+  },
+  {
+    "id": 205,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Rama de la física que estudia los diferentes tipos de movimiento sin atender a las causas que los originan:",
+    "opciones": {
+      "a": "Dinámica",
+      "b": "Estática",
+      "c": "Cinemática",
+      "d": "Óptica"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La cinemática se enfoca en la descripción del movimiento (posición, velocidad, aceleración) sin considerar las fuerzas que lo producen."
+  },
+  {
+    "id": 206,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El camino recto o curvo que un cuerpo sigue en su recorrido se le denomina:",
+    "opciones": {
+      "a": "Desplazamiento",
+      "b": "Trayectoria",
+      "c": "Distancia",
+      "d": "Velocidad"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La trayectoria es la línea geométrica que describe un cuerpo al moverse en el espacio."
+  },
+  {
+    "id": 207,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Tipo de movimiento donde un móvil describe una trayectoria rectilínea y mantiene una velocidad constante:",
+    "opciones": {
+      "a": "Movimiento circular uniforme",
+      "b": "Movimiento rectilíneo uniformemente acelerado (MRUA)",
+      "c": "Movimiento rectilíneo uniforme (MRU)",
+      "d": "Caída libre"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El MRU se caracteriza por una velocidad constante y una trayectoria en línea recta, lo que implica aceleración nula."
+  },
+  {
+    "id": 208,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "¿Qué tipo de cantidad física es la velocidad, que posee magnitud, dirección y sentido?",
+    "opciones": {
+      "a": "Escalar",
+      "b": "Vectorial",
+      "c": "Fundamental",
+      "d": "Derivada simple"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La velocidad es una cantidad vectorial, ya que para su completa definición se requiere magnitud, dirección y sentido."
+  },
+  {
+    "id": 209,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La energía que se transfiere de un punto a través de un medio material, debido a una perturbación, se llama:",
+    "opciones": {
+      "a": "Onda",
+      "b": "Fuerza",
+      "c": "Masa",
+      "d": "Corriente"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Una onda es una perturbación que propaga energía sin transporte neto de materia."
+  },
+  {
+    "id": 210,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El número de crestas o ciclos de onda que pasan por un punto dado en unidad de tiempo se conoce como:",
+    "opciones": {
+      "a": "Amplitud",
+      "b": "Longitud de onda",
+      "c": "Período",
+      "d": "Frecuencia"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "La frecuencia (V o f) de una onda es el número de oscilaciones o ciclos por unidad de tiempo, usualmente medida en Hertz (Hz)."
+  },
+  {
+    "id": 211,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Científico italiano que demostró que, en ausencia de fricción, todos los cuerpos caen con la misma aceleración:",
+    "opciones": {
+      "a": "Isaac Newton",
+      "b": "Albert Einstein",
+      "c": "Galileo Galilei",
+      "d": "Arquímedes"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Galileo Galilei realizó experimentos sobre la caída de los cuerpos, concluyendo que la aceleración de la gravedad es constante para todos los objetos, independientemente de su masa, si se desprecia la resistencia del aire."
+  },
+  {
+    "id": 212,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El valor de la aceleración de la gravedad al nivel del mar y a 45° de latitud es aproximadamente:",
+    "opciones": {
+      "a": "9.8 m/s",
+      "b": "9.8 m/s²",
+      "c": "10 m/s²",
+      "d": "9.8 N"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La aceleración debida a la gravedad (g) en la superficie de la Tierra es aproximadamente 9.8 m/s²."
+  },
+  {
+    "id": 213,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El cambio de velocidad de un cuerpo en la unidad de tiempo se define como:",
+    "opciones": {
+      "a": "Desplazamiento",
+      "b": "Aceleración",
+      "c": "Fuerza",
+      "d": "Trabajo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La aceleración es la tasa de cambio de la velocidad con respecto al tiempo."
+  },
+  {
+    "id": 214,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Rama de la mecánica que estudia las causas que producen los cambios en el movimiento:",
+    "opciones": {
+      "a": "Cinemática",
+      "b": "Estática",
+      "c": "Dinámica",
+      "d": "Termodinámica"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La dinámica estudia la relación entre las fuerzas que actúan sobre un cuerpo y los efectos que producirán sobre el movimiento de ese cuerpo."
+  },
+  {
+    "id": 215,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "¿Cuál de las Leyes de Newton establece que un cuerpo en reposo tiende a permanecer en reposo y un objeto en movimiento tiende a continuar en movimiento con velocidad constante a menos que actúe una fuerza externa?",
+    "opciones": {
+      "a": "Primera Ley de Newton (Ley de la Inercia)",
+      "b": "Segunda Ley de Newton (Ley de la Fuerza)",
+      "c": "Tercera Ley de Newton (Ley de Acción y Reacción)",
+      "d": "Ley de la Gravitación Universal"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La Primera Ley de Newton, o Ley de la Inercia, postula que un objeto permanecerá en su estado de reposo o de movimiento rectilíneo uniforme a menos que una fuerza neta externa actúe sobre él."
+  },
+  {
+    "id": 216,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La unidad de Fuerza en el Sistema Internacional es el:",
+    "opciones": {
+      "a": "Joule (J)",
+      "b": "Watt (W)",
+      "c": "Newton (N)",
+      "d": "Metro por segundo (m/s)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Newton (N) es la unidad de fuerza en el SI, definida como la fuerza necesaria para proporcionar una aceleración de 1 m/s² a un objeto de 1 kg de masa."
+  },
+  {
+    "id": 217,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La resistencia que todo objeto material opone a los cambios en su estado de movimiento o reposo se llama:",
+    "opciones": {
+      "a": "Peso",
+      "b": "Masa",
+      "c": "Inercia",
+      "d": "Aceleración"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La inercia es la propiedad de la materia que se resiste a cualquier cambio en su estado de movimiento."
+  },
+  {
+    "id": 218,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La capacidad de que dispone un cuerpo o un sistema de cuerpos para realizar un trabajo se define como:",
+    "opciones": {
+      "a": "Potencia",
+      "b": "Energía",
+      "c": "Fuerza",
+      "d": "Masa"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La energía es la capacidad de realizar trabajo. Es una propiedad fundamental en la física."
+  },
+  {
+    "id": 219,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La Ley de conservación de la Energía establece que:",
+    "opciones": {
+      "a": "La energía se crea constantemente.",
+      "b": "La energía se destruye en cada transformación.",
+      "c": "La energía no se crea ni se destruye, solo se transforma.",
+      "d": "La energía solo existe en forma de calor."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El principio de conservación de la energía afirma que la cantidad total de energía en un sistema aislado permanece constante, aunque puede transformarse de una forma a otra."
+  },
+  {
+    "id": 220,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La energía que se debe a la posición y al movimiento de un cuerpo se llama:",
+    "opciones": {
+      "a": "Energía térmica",
+      "b": "Energía química",
+      "c": "Energía mecánica",
+      "d": "Energía nuclear"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La energía mecánica es la suma de la energía potencial (debida a la posición) y la energía cinética (debida al movimiento) de un cuerpo."
+  },
+  {
+    "id": 221,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La energía que posee un objeto debido a su movimiento se denomina:",
+    "opciones": {
+      "a": "Energía potencial",
+      "b": "Energía cinética",
+      "c": "Energía elástica",
+      "d": "Energía gravitatoria"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La energía cinética es la energía asociada al movimiento de los objetos."
+  },
+  {
+    "id": 222,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Siempre que la energía se transfiere de un cuerpo a otro se produce un _________, definido como el producto de la fuerza por la distancia.",
+    "opciones": {
+      "a": "Calor",
+      "b": "Trabajo",
+      "c": "Impulso",
+      "d": "Momento"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El trabajo se realiza cuando una fuerza actúa sobre un objeto y este se desplaza en la dirección de la fuerza. Es una forma de transferencia de energía."
+  },
+  {
+    "id": 223,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La unidad en la cual queda expresado el trabajo en el S.I. es el:",
+    "opciones": {
+      "a": "Newton (N)",
+      "b": "Watt (W)",
+      "c": "Joule (J)",
+      "d": "Pascal (Pa)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Joule (J) es la unidad de trabajo y energía en el Sistema Internacional."
+  },
+  {
+    "id": 224,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La rapidez con que se efectúa un trabajo o se transforma la energía se llama:",
+    "opciones": {
+      "a": "Fuerza",
+      "b": "Energía",
+      "c": "Potencia",
+      "d": "Impulso"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La potencia es la cantidad de trabajo realizado por unidad de tiempo, o la tasa a la que se transfiere la energía."
+  },
+  {
+    "id": 225,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Unidad de potencia en el SI, que equivale a 1 joule por segundo:",
+    "opciones": {
+      "a": "Newton",
+      "b": "Caballo de Fuerza (Hp)",
+      "c": "Watt",
+      "d": "Caloría"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Watt (W) es la unidad de potencia en el SI, equivalente a un joule de trabajo realizado en un segundo."
+  },
+  {
+    "id": 226,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "¿Cuál de los siguientes es un ejemplo de estado de agregación de la materia?",
+    "opciones": {
+      "a": "Densidad",
+      "b": "Líquido",
+      "c": "Masa",
+      "d": "Volumen"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los estados de agregación comunes de la materia son sólido, líquido y gaseoso (y plasma)."
+  },
+  {
+    "id": 227,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Propiedad de la materia que la hace ocupar un lugar en el espacio, tener masa, energía, peso e inercia:",
+    "opciones": {
+      "a": "Materia",
+      "b": "Fuerza",
+      "c": "Campo",
+      "d": "Onda"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Materia es todo aquello que tiene masa y ocupa un volumen en el espacio."
+  },
+  {
+    "id": 228,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Las fuerzas que atraen las partículas entre sí en la materia se llaman fuerzas de:",
+    "opciones": {
+      "a": "Repulsión",
+      "b": "Cohesión",
+      "c": "Fricción",
+      "d": "Gravedad"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las fuerzas de cohesión son las fuerzas intermoleculares que mantienen unidas las partículas de una sustancia."
+  },
+  {
+    "id": 229,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Una sustancia formada por átomos que no puede ser descompuesta en otras sustancias más simples es un:",
+    "opciones": {
+      "a": "Compuesto",
+      "b": "Elemento",
+      "c": "Mezcla",
+      "d": "Ion"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Un elemento químico es una sustancia pura que no puede descomponerse en sustancias más simples por medios químicos ordinarios."
+  },
+  {
+    "id": 230,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La partícula más pequeña de la materia que puede existir como compuesto es una:",
+    "opciones": {
+      "a": "Átomo",
+      "b": "Molécula",
+      "c": "Protón",
+      "d": "Electrón"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Una molécula es la partícula más pequeña de un compuesto que conserva las propiedades químicas de ese compuesto."
+  },
+  {
+    "id": 231,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "¿Cuál de las siguientes es una propiedad general de la materia?",
+    "opciones": {
+      "a": "Densidad",
+      "b": "Punto de ebullición",
+      "c": "Masa",
+      "d": "Solubilidad"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La masa es una propiedad general de la materia, ya que todos los cuerpos la poseen. Las otras son propiedades específicas."
+  },
+  {
+    "id": 232,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La cantidad de masa contenida en la unidad de volumen se conoce como:",
+    "opciones": {
+      "a": "Peso",
+      "b": "Densidad",
+      "c": "Inercia",
+      "d": "Porosidad"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La densidad es una propiedad específica de la materia que relaciona la masa de una sustancia con el volumen que ocupa."
+  },
+  {
+    "id": 233,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La energía en forma de calor es la que determina los ___________ de la materia.",
+    "opciones": {
+      "a": "Colores",
+      "b": "Estados físicos",
+      "c": "Pesos atómicos",
+      "d": "Números cuánticos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La adición o remoción de calor (energía térmica) puede causar cambios en el estado físico de la materia (sólido, líquido, gas)."
+  },
+  {
+    "id": 234,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El instrumento más usado para medir temperaturas, basado en la dilatación de un fluido, es el:",
+    "opciones": {
+      "a": "Barómetro",
+      "b": "Manómetro",
+      "c": "Termómetro",
+      "d": "Calorímetro"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El termómetro mide la temperatura, comúnmente aprovechando la expansión térmica de un líquido como el mercurio o el alcohol."
+  },
+  {
+    "id": 235,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "En la escala Celsius, el punto de congelación del agua es:",
+    "opciones": {
+      "a": "32 °C",
+      "b": "0 °C",
+      "c": "100 °C",
+      "d": "273 °C"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La escala Celsius define el punto de congelación del agua como 0 °C y el punto de ebullición como 100 °C a presión atmosférica estándar."
+  },
+  {
+    "id": 236,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El punto de temperatura en que una sustancia cambia de estado sólido a líquido se llama:",
+    "opciones": {
+      "a": "Punto de ebullición",
+      "b": "Punto de fusión",
+      "c": "Punto triple",
+      "d": "Punto crítico"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El punto de fusión es la temperatura a la cual una sustancia sólida se transforma en líquida."
+  },
+  {
+    "id": 237,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "¿Cuál mecanismo de transmisión de calor es propio de los fluidos debido al movimiento de la sustancia?",
+    "opciones": {
+      "a": "Conducción",
+      "b": "Convección",
+      "c": "Radiación",
+      "d": "Evaporación"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La convección es la transferencia de calor mediante el movimiento de masas de un fluido (líquido o gas)."
+  },
+  {
+    "id": 238,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Una sustancia que bajo la acción de una fuerza puede fluir o escurrir se considera un:",
+    "opciones": {
+      "a": "Sólido cristalino",
+      "b": "Sólido amorfo",
+      "c": "Fluido",
+      "d": "Plasma"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los fluidos (líquidos y gases) son sustancias que pueden fluir y adoptar la forma del recipiente que los contiene."
+  },
+  {
+    "id": 239,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La fuerza aplicada por unidad de área se define como:",
+    "opciones": {
+      "a": "Densidad",
+      "b": "Peso específico",
+      "c": "Presión",
+      "d": "Trabajo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La presión es la fuerza ejercida perpendicularmente sobre una unidad de superficie."
+  },
+  {
+    "id": 240,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Principio que establece que la presión ejercida en un líquido encerrado se transmite con la misma intensidad en todas direcciones:",
+    "opciones": {
+      "a": "Principio de Arquímedes",
+      "b": "Principio de Pascal",
+      "c": "Principio de Bernoulli",
+      "d": "Ley de Hooke"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El Principio de Pascal es fundamental en la hidrostática y explica el funcionamiento de la prensa hidráulica."
+  },
+  {
+    "id": 241,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La resistencia que opone un líquido a fluir se llama:",
+    "opciones": {
+      "a": "Tensión superficial",
+      "b": "Capilaridad",
+      "c": "Viscosidad",
+      "d": "Densidad"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La viscosidad es una medida de la resistencia interna de un fluido a fluir."
+  },
+  {
+    "id": 242,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Según la hipótesis atómica de Dalton, toda la materia está constituida por pequeñas partículas denominadas:",
+    "opciones": {
+      "a": "Moléculas",
+      "b": "Iones",
+      "c": "Átomos",
+      "d": "Compuestos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La teoría atómica de Dalton postuló que los elementos están formados por partículas extremadamente pequeñas llamadas átomos."
+  },
+  {
+    "id": 243,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El estudio de las cargas eléctricas en reposo corresponde a la:",
+    "opciones": {
+      "a": "Electrodinámica",
+      "b": "Electrostática",
+      "c": "Magnetostática",
+      "d": "Electromagnetismo"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La electrostática es la rama de la física que estudia los efectos producidos en los cuerpos como consecuencia de sus cargas eléctricas en reposo."
+  },
+  {
+    "id": 244,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Materiales que oponen poca resistencia al paso de la electricidad, como los metales:",
+    "opciones": {
+      "a": "Aislantes",
+      "b": "Semiconductores",
+      "c": "Conductores",
+      "d": "Superconductores"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los conductores eléctricos son materiales que permiten el flujo libre de electrones."
+  },
+  {
+    "id": 245,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La Ley de las Cargas establece que cargas del mismo signo se ________ y cargas de signo contrario se ________.",
+    "opciones": {
+      "a": "atraen, repelen",
+      "b": "repelen, atraen",
+      "c": "neutralizan, ionizan",
+      "d": "ionizan, neutralizan"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Es un principio fundamental de la electrostática: cargas iguales se repelen, cargas opuestas se atraen."
+  },
+  {
+    "id": 246,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El flujo de electrones a través de un conductor se llama:",
+    "opciones": {
+      "a": "Voltaje",
+      "b": "Resistencia",
+      "c": "Corriente eléctrica",
+      "d": "Potencia eléctrica"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La corriente eléctrica es el movimiento ordenado de cargas eléctricas (generalmente electrones) a través de un material conductor."
+  },
+  {
+    "id": 247,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La Ley de Ohm establece que la intensidad de la corriente es directamente proporcional al voltaje e inversamente proporcional a la:",
+    "opciones": {
+      "a": "Carga",
+      "b": "Resistencia",
+      "c": "Potencia",
+      "d": "Energía"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La Ley de Ohm (I = V/R) relaciona la corriente (I), el voltaje (V) y la resistencia (R) en un circuito eléctrico."
+  },
+  {
+    "id": 248,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "En un circuito conectado en ________, la corriente eléctrica fluye por un solo camino.",
+    "opciones": {
+      "a": "Paralelo",
+      "b": "Serie",
+      "c": "Mixto",
+      "d": "Abierto"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "En un circuito en serie, los componentes están conectados uno tras otro, formando un único camino para la corriente."
+  },
+  {
+    "id": 249,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Los materiales que tienen la propiedad de atraer al hierro se les llama:",
+    "opciones": {
+      "a": "Conductores",
+      "b": "Aislantes",
+      "c": "Imanes",
+      "d": "Electrolitos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los imanes son materiales que producen un campo magnético y pueden atraer materiales ferromagnéticos como el hierro."
+  },
+  {
+    "id": 250,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El fenómeno que consiste en producir corriente eléctrica empleando campos magnéticos se llama:",
+    "opciones": {
+      "a": "Efecto fotoeléctrico",
+      "b": "Inducción electromagnética",
+      "c": "Electrólisis",
+      "d": "Termoelectricidad"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La inducción electromagnética, descubierta por Faraday, es la producción de una fuerza electromotriz (voltaje) en un conductor expuesto a un campo magnético variable."
+  },
+  {
+    "id": 251,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Aparato que convierte la energía eléctrica en energía mecánica:",
+    "opciones": {
+      "a": "Generador eléctrico",
+      "b": "Transformador",
+      "c": "Motor eléctrico",
+      "d": "Batería"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un motor eléctrico utiliza la interacción entre campos magnéticos y corrientes eléctricas para producir movimiento rotatorio (energía mecánica)."
+  },
+  {
+    "id": 252,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El cambio de la dirección de propagación de un haz de luz al pasar de un medio a otro se llama:",
+    "opciones": {
+      "a": "Reflexión",
+      "b": "Refracción",
+      "c": "Difracción",
+      "d": "Interferencia"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La refracción es el cambio de dirección de una onda (como la luz) al pasar de un medio a otro con diferente índice de refracción."
+  },
+  {
+    "id": 253,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Las lentes que tienen su centro más grueso que sus bordes y hacen converger los rayos de luz se llaman:",
+    "opciones": {
+      "a": "Lentes divergentes",
+      "b": "Lentes convergentes",
+      "c": "Lentes planas",
+      "d": "Espejos cóncavos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las lentes convergentes (convexas) son más gruesas en el centro y hacen que los rayos de luz paralelos converjan en un punto focal."
+  },
+  {
+    "id": 254,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "En el ojo humano, la estructura transparente que cubre el iris es la:",
+    "opciones": {
+      "a": "Retina",
+      "b": "Pupila",
+      "c": "Córnea",
+      "d": "Cristalino"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La córnea es la capa externa transparente en la parte frontal del ojo que cubre el iris y la pupila, y ayuda a refractar la luz."
+  },
+  {
+    "id": 255,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "¿Cuál es la principal fuente de luz en nuestro planeta?",
+    "opciones": {
+      "a": "La Luna",
+      "b": "Las estrellas lejanas",
+      "c": "El Sol",
+      "d": "Las lámparas incandescentes"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Sol es la estrella central de nuestro sistema solar y la principal fuente de energía lumínica y térmica para la Tierra."
+  },
+  {
+    "id": 256,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La luz blanca se descompone en siete colores fundamentales al atravesar un:",
+    "opciones": {
+      "a": "Lente divergente",
+      "b": "Espejo plano",
+      "c": "Prisma de cristal",
+      "d": "Filtro opaco"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un prisma de cristal dispersa la luz blanca en sus colores componentes (el espectro visible) debido a la refracción diferencial de las diferentes longitudes de onda."
+  },
+  {
+    "id": 257,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Magnitud física que se define como la cantidad de materia que contiene un cuerpo:",
+    "opciones": {
+      "a": "Peso",
+      "b": "Volumen",
+      "c": "Masa",
+      "d": "Densidad"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La masa es una medida de la cantidad de materia en un objeto y es una propiedad intrínseca del mismo."
+  },
+  {
+    "id": 258,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El estado de la materia que no tiene forma ni volumen propio y tiende a ocupar todo el espacio disponible es el:",
+    "opciones": {
+      "a": "Sólido",
+      "b": "Líquido",
+      "c": "Gaseoso",
+      "d": "Plasma"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los gases no tienen forma ni volumen definidos; se expanden para llenar completamente el recipiente que los contiene."
+  },
+  {
+    "id": 259,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Partícula subatómica con carga positiva que se encuentra en el núcleo del átomo:",
+    "opciones": {
+      "a": "Electrón",
+      "b": "Neutrón",
+      "c": "Protón",
+      "d": "Fotón"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los protones son partículas subatómicas con carga eléctrica positiva que, junto con los neutrones, forman el núcleo atómico."
+  },
+  {
+    "id": 260,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La fuerza de atracción gravitatoria que la Tierra ejerce sobre los cuerpos se llama:",
+    "opciones": {
+      "a": "Masa",
+      "b": "Peso",
+      "c": "Inercia",
+      "d": "Fuerza normal"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El peso es la fuerza con la que la gravedad atrae a un objeto hacia el centro de la Tierra (o de otro cuerpo celeste)."
+  },
+  {
+    "id": 261,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La energía radiante que produce el sol y se transforma a través del espacio en forma de rayos solares es un ejemplo de energía:",
+    "opciones": {
+      "a": "Mecánica",
+      "b": "Radiante o electromagnética",
+      "c": "Química",
+      "d": "Nuclear"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La energía radiante es la energía transportada por ondas electromagnéticas, como la luz solar."
+  },
+  {
+    "id": 262,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "En la escala Kelvin, ¿cuál es el punto de congelación del agua?",
+    "opciones": {
+      "a": "0 K",
+      "b": "100 K",
+      "c": "273 K",
+      "d": "373 K"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El punto de congelación del agua (0 °C) equivale a 273.15 K en la escala Kelvin."
+  },
+  {
+    "id": 263,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Dispositivo que convierte la energía mecánica en energía eléctrica:",
+    "opciones": {
+      "a": "Motor eléctrico",
+      "b": "Transformador",
+      "c": "Generador eléctrico",
+      "d": "Resistencia"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un generador eléctrico utiliza la inducción electromagnética para convertir energía mecánica (movimiento) en energía eléctrica."
+  },
+  {
+    "id": 264,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La unidad de carga eléctrica en el Sistema Internacional es el:",
+    "opciones": {
+      "a": "Ampere (A)",
+      "b": "Volt (V)",
+      "c": "Ohm (Ω)",
+      "d": "Coulomb (C)"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El Coulomb (C) es la unidad de medida de la carga eléctrica en el SI."
+  },
+  {
+    "id": 265,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El tiempo que tarda en producirse una onda completa se denomina:",
+    "opciones": {
+      "a": "Frecuencia",
+      "b": "Amplitud",
+      "c": "Período",
+      "d": "Longitud de onda"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El período (T) de una onda es el tiempo necesario para que se complete un ciclo completo de la onda."
+  },
+  {
+    "id": 266,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Cuando un cuerpo cae libremente, despreciando la fricción del aire, describe una trayectoria:",
+    "opciones": {
+      "a": "Circular",
+      "b": "Parabólica",
+      "c": "Recta",
+      "d": "Elíptica"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "En caída libre ideal (sin resistencia del aire), un objeto cae verticalmente, describiendo una trayectoria recta hacia abajo."
+  },
+  {
+    "id": 267,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La Segunda Ley de Newton establece que la aceleración de un cuerpo es directamente proporcional a la fuerza neta que actúa sobre él e inversamente proporcional a su:",
+    "opciones": {
+      "a": "Velocidad",
+      "b": "Masa",
+      "c": "Volumen",
+      "d": "Densidad"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La Segunda Ley de Newton (F=ma) relaciona fuerza, masa y aceleración. Para una fuerza dada, mayor masa implica menor aceleración."
+  },
+  {
+    "id": 268,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La energía almacenada en los combustibles como el petróleo o en los alimentos es un ejemplo de energía:",
+    "opciones": {
+      "a": "Térmica",
+      "b": "Mecánica",
+      "c": "Química",
+      "d": "Radiante"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La energía química es la energía potencial almacenada en los enlaces entre átomos y moléculas, que se libera o absorbe durante las reacciones químicas."
+  },
+  {
+    "id": 269,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La propiedad de algunos metales para ser extendidos en láminas se llama:",
+    "opciones": {
+      "a": "Ductilidad",
+      "b": "Maleabilidad",
+      "c": "Elasticidad",
+      "d": "Dureza"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La maleabilidad es la capacidad de un material de deformarse bajo compresión sin romperse, permitiendo formar láminas."
+  },
+  {
+    "id": 270,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La transferencia de calor por contacto molecular directo entre un cuerpo y otro se llama:",
+    "opciones": {
+      "a": "Convección",
+      "b": "Radiación",
+      "c": "Conducción",
+      "d": "Evaporación"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La conducción es la transferencia de energía térmica entre partículas adyacentes en un material debido a una diferencia de temperatura."
+  },
+  {
+    "id": 271,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Principio que establece que todo cuerpo sumergido total o parcialmente en un líquido recibe un empuje ascendente igual al peso del líquido desalojado:",
+    "opciones": {
+      "a": "Principio de Pascal",
+      "b": "Principio de Arquímedes",
+      "c": "Ley de Torricelli",
+      "d": "Ecuación de continuidad"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El Principio de Arquímedes explica la flotación de los cuerpos y es fundamental para el diseño de barcos y submarinos."
+  },
+  {
+    "id": 272,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El estudio de las cargas eléctricas en movimiento corresponde a la:",
+    "opciones": {
+      "a": "Electrostática",
+      "b": "Electrodinámica",
+      "c": "Termodinámica",
+      "d": "Óptica geométrica"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La electrodinámica estudia los fenómenos asociados a las cargas eléctricas en movimiento y los campos eléctricos y magnéticos variables."
+  },
+  {
+    "id": 273,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La unidad de resistencia eléctrica en el Sistema Internacional es el:",
+    "opciones": {
+      "a": "Ampere (A)",
+      "b": "Volt (V)",
+      "c": "Ohm (Ω)",
+      "d": "Watt (W)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Ohm (Ω) es la unidad de medida de la resistencia eléctrica."
+  },
+  {
+    "id": 274,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La primera ley del magnetismo establece que polos iguales se ________ y polos opuestos se ________.",
+    "opciones": {
+      "a": "atraen, repelen",
+      "b": "repelen, atraen",
+      "c": "neutralizan, magnetizan",
+      "d": "magnetizan, neutralizan"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Similar a las cargas eléctricas, los polos magnéticos iguales (Norte-Norte o Sur-Sur) se repelen, mientras que polos opuestos (Norte-Sur) se atraen."
+  },
+  {
+    "id": 275,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Las lentes que son más delgadas en el centro que en los bordes y hacen diverger los rayos de luz se llaman:",
+    "opciones": {
+      "a": "Lentes convergentes",
+      "b": "Lentes divergentes",
+      "c": "Espejos convexos",
+      "d": "Prismas"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las lentes divergentes (cóncavas) son más delgadas en el centro y hacen que los rayos de luz paralelos se separen o diverjan como si provinieran de un punto focal virtual."
+  },
+  {
+    "id": 276,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El color de la luz visible que tiene menor longitud de onda y mayor frecuencia es el:",
+    "opciones": {
+      "a": "Rojo",
+      "b": "Verde",
+      "c": "Azul",
+      "d": "Violeta"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "En el espectro visible, el color violeta tiene la longitud de onda más corta y, por lo tanto, la frecuencia más alta."
+  },
+  {
+    "id": 277,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Si la velocidad de un objeto aumenta, su aceleración es:",
+    "opciones": {
+      "a": "Negativa",
+      "b": "Positiva",
+      "c": "Cero",
+      "d": "Constante y negativa"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Una aceleración positiva indica un aumento en la velocidad del objeto en la dirección del movimiento."
+  },
+  {
+    "id": 278,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La Tercera Ley de Newton, o Ley de Acción y Reacción, establece que a toda fuerza de acción le corresponde una fuerza de reacción de:",
+    "opciones": {
+      "a": "Igual magnitud y misma dirección",
+      "b": "Diferente magnitud y misma dirección",
+      "c": "Igual magnitud y dirección opuesta",
+      "d": "Diferente magnitud y dirección opuesta"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Para cada acción, hay una reacción igual y opuesta. Las fuerzas siempre ocurren en pares."
+  },
+  {
+    "id": 279,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La energía que posee un cuerpo debido a su posición o estado, capaz de efectuar un trabajo, se llama:",
+    "opciones": {
+      "a": "Energía cinética",
+      "b": "Energía potencial",
+      "c": "Energía térmica",
+      "d": "Energía radiante"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La energía potencial es la energía almacenada en un objeto debido a su posición (ej. gravitatoria) o configuración (ej. elástica)."
+  },
+  {
+    "id": 280,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La unidad de medida de la potencia que equivale a 746 watts es el:",
+    "opciones": {
+      "a": "Joule",
+      "b": "Newton",
+      "c": "Caballo de Fuerza (Hp)",
+      "d": "Kilovatio-hora"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Caballo de Fuerza (Horsepower, Hp) es una unidad de potencia más antigua, comúnmente usada para motores, equivalente a aproximadamente 746 Watts."
+  },
+  {
+    "id": 281,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El estado de la materia que tiene forma y volumen propios y sus partículas están fuertemente unidas es el:",
+    "opciones": {
+      "a": "Líquido",
+      "b": "Gaseoso",
+      "c": "Sólido",
+      "d": "Plasma"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los sólidos mantienen una forma y volumen definidos debido a las fuertes fuerzas de cohesión entre sus partículas."
+  },
+  {
+    "id": 282,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La propiedad de la materia que consiste en presentar poros o espacios vacíos es la:",
+    "opciones": {
+      "a": "Impenetrabilidad",
+      "b": "Divisibilidad",
+      "c": "Porosidad",
+      "d": "Inercia"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La porosidad se refiere a la presencia de pequeños espacios o poros dentro de un material."
+  },
+  {
+    "id": 283,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "En la escala Fahrenheit, el punto de ebullición del agua es:",
+    "opciones": {
+      "a": "100 °F",
+      "b": "212 °F",
+      "c": "32 °F",
+      "d": "0 °F"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La escala Fahrenheit define el punto de ebullición del agua como 212 °F y el punto de congelación como 32 °F."
+  },
+  {
+    "id": 284,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El calor que se transmite por medio del sol es un ejemplo de:",
+    "opciones": {
+      "a": "Conducción",
+      "b": "Convección",
+      "c": "Radiación",
+      "d": "Advección"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La radiación es la transferencia de calor a través de ondas electromagnéticas, como la luz solar, que no requiere un medio material."
+  },
+  {
+    "id": 285,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La acción de las fuerzas que se presentan por la atracción entre las moléculas de un líquido se llama:",
+    "opciones": {
+      "a": "Viscosidad",
+      "b": "Tensión superficial",
+      "c": "Adhesión",
+      "d": "Capilaridad"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La tensión superficial es el efecto en la superficie de un líquido que hace que se comporte como una membrana elástica, debido a las fuerzas de cohesión entre sus moléculas."
+  },
+  {
+    "id": 286,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Materiales que no permiten el paso de la corriente eléctrica, como la madera o el plástico:",
+    "opciones": {
+      "a": "Conductores",
+      "b": "Aislantes",
+      "c": "Semiconductores",
+      "d": "Metales"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los aislantes eléctricos son materiales que ofrecen una alta resistencia al flujo de la corriente eléctrica."
+  },
+  {
+    "id": 287,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La unidad de intensidad de corriente eléctrica en el SI es el:",
+    "opciones": {
+      "a": "Volt (V)",
+      "b": "Ohm (Ω)",
+      "c": "Ampere (A)",
+      "d": "Coulomb (C)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Ampere (A) es la unidad de medida de la intensidad de la corriente eléctrica."
+  },
+  {
+    "id": 288,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "En un circuito en ________, la corriente eléctrica fluye por varios caminos y si se conectan diversas cargas, ninguna depende de las demás.",
+    "opciones": {
+      "a": "Serie",
+      "b": "Paralelo",
+      "c": "Cerrado simple",
+      "d": "Abierto"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "En un circuito en paralelo, los componentes están conectados en ramificaciones separadas, de modo que la corriente se divide entre ellas y el voltaje es el mismo en cada rama."
+  },
+  {
+    "id": 289,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Dispositivo electromagnético que permite aumentar o disminuir el voltaje de la corriente alterna:",
+    "opciones": {
+      "a": "Motor",
+      "b": "Generador",
+      "c": "Transformador",
+      "d": "Rectificador"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un transformador se utiliza para cambiar los niveles de voltaje en los sistemas de transmisión y distribución de energía eléctrica."
+  },
+  {
+    "id": 290,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "En el ojo humano, la parte que funciona como una lente normal que sirve para enfocar objetos es el:",
+    "opciones": {
+      "a": "Iris",
+      "b": "Pupila",
+      "c": "Retina",
+      "d": "Cristalino"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El cristalino es una lente biconvexa transparente en el ojo que, junto con la córnea, ayuda a refractar la luz para enfocarla en la retina."
+  },
+  {
+    "id": 291,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Las ondas electromagnéticas, como la luz visible, los rayos X y las ondas de radio, se propagan en el vacío a una velocidad de aproximadamente:",
+    "opciones": {
+      "a": "340 m/s",
+      "b": "1500 m/s",
+      "c": "300,000 km/s",
+      "d": "Mach 1"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La velocidad de la luz en el vacío (c) es una constante fundamental de la física, aproximadamente 299,792,458 metros por segundo (o 300,000 km/s)."
+  },
+  {
+    "id": 292,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "Si la velocidad de un objeto disminuye, su aceleración es:",
+    "opciones": {
+      "a": "Positiva",
+      "b": "Negativa (o desaceleración)",
+      "c": "Cero",
+      "d": "Constante y positiva"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Una aceleración negativa (o desaceleración) indica una disminución en la velocidad del objeto, o un aumento de velocidad en la dirección opuesta."
+  },
+  {
+    "id": 293,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La fuerza que se opone al movimiento entre dos superficies que están en contacto una con otra se llama:",
+    "opciones": {
+      "a": "Fuerza gravitatoria",
+      "b": "Fuerza de fricción",
+      "c": "Fuerza centrípeta",
+      "d": "Fuerza elástica"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La fuerza de fricción es una fuerza resistiva que se opone al movimiento relativo entre superficies en contacto."
+  },
+  {
+    "id": 294,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La energía nuclear se encuentra en:",
+    "opciones": {
+      "a": "Los enlaces químicos de las moléculas",
+      "b": "El movimiento de los electrones",
+      "c": "El núcleo del átomo",
+      "d": "Las ondas sonoras"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La energía nuclear es la energía almacenada en el núcleo de los átomos, liberada durante procesos como la fisión o la fusión nuclear."
+  },
+  {
+    "id": 295,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La propiedad de algunos metales para ser estirados y formar alambres se llama:",
+    "opciones": {
+      "a": "Maleabilidad",
+      "b": "Ductilidad",
+      "c": "Tenacidad",
+      "d": "Fragilidad"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La ductilidad es la capacidad de un material de deformarse bajo tracción sin romperse, permitiendo formar hilos o alambres."
+  },
+  {
+    "id": 296,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El efecto Doppler consiste en la alteración que sufre la _________ de una onda con respecto al movimiento relativo entre un receptor y una fuente emisora.",
+    "opciones": {
+      "a": "Amplitud",
+      "b": "Frecuencia",
+      "c": "Velocidad",
+      "d": "Intensidad"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El efecto Doppler es el cambio aparente en la frecuencia de una onda (sonido, luz) debido al movimiento relativo entre la fuente de la onda y el observador."
+  },
+  {
+    "id": 297,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La unidad de medida de la frecuencia en el SI es el:",
+    "opciones": {
+      "a": "Segundo (s)",
+      "b": "Metro (m)",
+      "c": "Hertz (Hz)",
+      "d": "Decibel (dB)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Hertz (Hz) es la unidad de frecuencia, equivalente a un ciclo por segundo."
+  },
+  {
+    "id": 298,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "En el Sistema Internacional, la unidad de masa es el:",
+    "opciones": {
+      "a": "Gramo (g)",
+      "b": "Kilogramo (kg)",
+      "c": "Newton (N)",
+      "d": "Libra (lb)"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El kilogramo (kg) es la unidad base de masa en el Sistema Internacional de Unidades."
+  },
+  {
+    "id": 299,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El movimiento uniforme acelerado (MUA) se caracteriza por tener una __________ constante.",
+    "opciones": {
+      "a": "Velocidad",
+      "b": "Aceleración",
+      "c": "Posición",
+      "d": "Distancia"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "En el MUA (o MRUA), la aceleración del objeto permanece constante a lo largo del tiempo."
+  },
+  {
+    "id": 300,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La Ley de la Gravitación Universal fue formulada por:",
+    "opciones": {
+      "a": "Galileo Galilei",
+      "b": "Johannes Kepler",
+      "c": "Isaac Newton",
+      "d": "Albert Einstein"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Isaac Newton formuló la Ley de la Gravitación Universal, que describe la fuerza de atracción entre dos objetos con masa."
+  },
+  {
+    "id": 301,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "En el ojo humano, la parte sensible a la luz donde se forman las imágenes es la:",
+    "opciones": {
+      "a": "Córnea",
+      "b": "Cristalino",
+      "c": "Retina",
+      "d": "Pupila"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La retina es una capa de tejido sensible a la luz en la parte posterior del ojo que contiene fotorreceptores (conos y bastones) donde se forma la imagen."
+  },
+  {
+    "id": 302,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La fuerza de atracción gravitatoria es _________ proporcional al producto de las masas e _________ proporcional al cuadrado de la distancia que las separa.",
+    "opciones": {
+      "a": "inversamente, directamente",
+      "b": "directamente, inversamente",
+      "c": "directamente, directamente",
+      "d": "inversamente, inversamente"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Según la Ley de Gravitación Universal de Newton, la fuerza es directamente proporcional al producto de las masas e inversamente proporcional al cuadrado de la distancia."
+  },
+  {
+    "id": 303,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "¿Cuál de las siguientes NO es una magnitud derivada?",
+    "opciones": {
+      "a": "Área",
+      "b": "Volumen",
+      "c": "Densidad",
+      "d": "Tiempo"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El tiempo es una magnitud fundamental. Área, volumen y densidad se derivan de magnitudes fundamentales."
+  },
+  {
+    "id": 304,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La distancia en línea recta que une a dos puntos, independientemente de la trayectoria, es el:",
+    "opciones": {
+      "a": "Desplazamiento",
+      "b": "Distancia recorrida",
+      "c": "Trayectoria",
+      "d": "Rapidez"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "El desplazamiento es una cantidad vectorial que representa el cambio de posición de un objeto; es la distancia más corta entre el punto inicial y final."
+  },
+  {
+    "id": 305,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La distancia entre dos crestas o dos valles consecutivos de una onda se llama:",
+    "opciones": {
+      "a": "Frecuencia",
+      "b": "Amplitud",
+      "c": "Período",
+      "d": "Longitud de onda"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "La longitud de onda (λ) es la distancia espacial que ocupa un ciclo completo de la onda."
+  },
+  {
+    "id": 306,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El sonido se produce por la _________ de los cuerpos sólidos, líquidos o gases.",
+    "opciones": {
+      "a": "Temperatura",
+      "b": "Vibración",
+      "c": "Densidad",
+      "d": "Presión"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El sonido es una onda mecánica que se propaga a través de un medio (sólido, líquido o gas) como resultado de la vibración de las partículas del medio."
+  },
+  {
+    "id": 307,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "En un circuito eléctrico, la oposición que presenta un conductor al flujo de la carga eléctrica se llama:",
+    "opciones": {
+      "a": "Intensidad",
+      "b": "Voltaje",
+      "c": "Resistencia",
+      "d": "Capacitancia"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La resistencia eléctrica es la medida de la oposición al paso de la corriente eléctrica a través de un conductor."
+  },
+  {
+    "id": 308,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El físico y químico danés que descubrió la relación entre la electricidad y el magnetismo en 1820 fue:",
+    "opciones": {
+      "a": "Michael Faraday",
+      "b": "André-Marie Ampère",
+      "c": "Christian Oersted",
+      "d": "James Clerk Maxwell"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Hans Christian Oersted observó que una corriente eléctrica desviaba la aguja de una brújula, demostrando la conexión entre electricidad y magnetismo."
+  },
+  {
+    "id": 309,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "La unidad de medida de la potencia eléctrica en un circuito es el:",
+    "opciones": {
+      "a": "Joule (J)",
+      "b": "Watt (W)",
+      "c": "Ampere (A)",
+      "d": "Volt (V)"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La potencia eléctrica se mide en Watts (W), que representa la energía consumida o disipada por unidad de tiempo."
+  },
+  {
+    "id": 310,
+    "materia": "Ciencias II (Física)",
+    "pregunta": "El modelo atómico que considera al átomo como una esfera sólida indivisible fue propuesto por:",
+    "opciones": {
+      "a": "Thomson",
+      "b": "Rutherford",
+      "c": "Dalton",
+      "d": "Bohr"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "John Dalton propuso un modelo atómico donde los átomos eran esferas indivisibles y los elementos estaban compuestos por átomos idénticos."
+  }
+]
