@@ -1,0 +1,977 @@
+[
+  {
+    "id": 501,
+    "materia": "Historia Universal",
+    "pregunta": "¿Cuál civilización agrícola se desarrolló a orillas del río Nilo y fue gobernada por un faraón considerado como un Dios?",
+    "opciones": {
+      "a": "Mesopotamia",
+      "b": "China",
+      "c": "India",
+      "d": "Egipto"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "La civilización egipcia floreció a lo largo del río Nilo, con una estructura social jerárquica encabezada por el faraón, y destacaron por sus pirámides y escritura jeroglífica."
+  },
+  {
+    "id": 502,
+    "materia": "Historia Universal",
+    "pregunta": "Civilización asiática cuya sociedad se distinguió por estar dividida en castas como Brahamanes, Chatrias, Vaisyas y Sudras.",
+    "opciones": {
+      "a": "China",
+      "b": "Japón",
+      "c": "India",
+      "d": "Persia"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La sociedad de la antigua India se caracterizó por un rígido sistema de castas que determinaba el rol y estatus de las personas desde su nacimiento."
+  },
+  {
+    "id": 503,
+    "materia": "Historia Universal",
+    "pregunta": "¿Qué significa la palabra 'Mesopotamia'?",
+    "opciones": {
+      "a": "Tierra fértil",
+      "b": "Región entre ríos",
+      "c": "Valle sagrado",
+      "d": "País de los faraones"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Mesopotamia, ubicada entre los ríos Tigris y Éufrates, significa 'tierra entre ríos' y es considerada una de las cunas de la civilización."
+  },
+  {
+    "id": 504,
+    "materia": "Historia Universal",
+    "pregunta": "Entre las aportaciones culturales de la civilización China se encuentran:",
+    "opciones": {
+      "a": "El Código de Hammurabi y la escritura cuneiforme",
+      "b": "Las pirámides y la escritura jeroglífica",
+      "c": "La imprenta, la pólvora, la porcelana y el compás",
+      "d": "El cero y los Vedas"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La antigua China realizó importantes invenciones como la imprenta de tipos móviles, la pólvora, la porcelana y el compás magnético."
+  },
+  {
+    "id": 505,
+    "materia": "Historia Universal",
+    "pregunta": "Ciudad-estado griega conocida como la 'polis de la democracia', donde esta forma de gobierno se originó y desarrolló.",
+    "opciones": {
+      "a": "Esparta",
+      "b": "Corinto",
+      "c": "Atenas",
+      "d": "Tebas"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Atenas es célebre por ser la cuna de la democracia, especialmente durante el liderazgo de Pericles."
+  },
+  {
+    "id": 506,
+    "materia": "Historia Universal",
+    "pregunta": "¿Quién es considerado el autor de las obras épicas 'La Ilíada' y 'La Odisea'?",
+    "opciones": {
+      "a": "Sócrates",
+      "b": "Platón",
+      "c": "Aristóteles",
+      "d": "Homero"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "A Homero se le atribuye la autoría de 'La Ilíada' y 'La Odisea', poemas épicos fundamentales de la literatura griega antigua."
+  },
+  {
+    "id": 507,
+    "materia": "Historia Universal",
+    "pregunta": "Según la leyenda, ¿quiénes fueron los fundadores de Roma?",
+    "opciones": {
+      "a": "César y Pompeyo",
+      "b": "Rómulo y Remo",
+      "c": "Augusto y Tiberio",
+      "d": "Eneas y Dido"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La leyenda romana cuenta que Rómulo y Remo, gemelos amamantados por una loba, fundaron la ciudad de Roma."
+  },
+  {
+    "id": 508,
+    "materia": "Historia Universal",
+    "pregunta": "Principal aportación de los romanos a la humanidad, basada en la justicia y la razón, cuyo principal representante fue Justiniano:",
+    "opciones": {
+      "a": "La filosofía estoica",
+      "b": "El arte del mosaico",
+      "c": "El Derecho Romano",
+      "d": "La arquitectura de acueductos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Derecho Romano es uno de los legados más importantes de Roma, influyendo en los sistemas legales de muchos países."
+  },
+  {
+    "id": 509,
+    "materia": "Historia Universal",
+    "pregunta": "¿Cuál era la ruta comercial que conectaba Europa con Asia, por donde circulaban mercancías como seda y especias, así como ideas y conocimientos?",
+    "opciones": {
+      "a": "La Ruta del Ámbar",
+      "b": "La Ruta de la Seda",
+      "c": "El Camino Real",
+      "d": "La Vía Apia"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La Ruta de la Seda fue una red de rutas comerciales que unía Oriente y Occidente, facilitando el intercambio de bienes e ideas."
+  },
+  {
+    "id": 510,
+    "materia": "Historia Universal",
+    "pregunta": "Grupo social que surgió en la Edad Media, conformado por mercaderes y banqueros que vivían en los burgos (ciudades comerciales):",
+    "opciones": {
+      "a": "Nobleza",
+      "b": "Clero",
+      "c": "Siervos",
+      "d": "Burguesía"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "La burguesía emergió como una nueva clase social en las ciudades medievales, dedicada al comercio y las finanzas."
+  },
+  {
+    "id": 511,
+    "materia": "Historia Universal",
+    "pregunta": "Constantinopla, capital del Imperio Bizantino, fue conquistada en 1453 por los:",
+    "opciones": {
+      "a": "Persas",
+      "b": "Mongoles",
+      "c": "Turcos Otomanos",
+      "d": "Vikingos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La caída de Constantinopla ante los turcos otomanos en 1453 marcó el fin del Imperio Bizantino y es un hito importante que señala el fin de la Edad Media."
+  },
+  {
+    "id": 512,
+    "materia": "Historia Universal",
+    "pregunta": "La alianza matrimonial de los reinos de Castilla y Aragón en 1469 sentó las bases para la unificación de:",
+    "opciones": {
+      "a": "Francia",
+      "b": "Inglaterra",
+      "c": "España",
+      "d": "Portugal"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El matrimonio de Isabel I de Castilla y Fernando II de Aragón fue crucial para la unificación de los reinos que conformarían España."
+  },
+  {
+    "id": 513,
+    "materia": "Historia Universal",
+    "pregunta": "Movimiento cultural y artístico que buscó alejarse del pensamiento medieval mediante la reivindicación de las culturas griega y latina:",
+    "opciones": {
+      "a": "El Gótico",
+      "b": "El Barroco",
+      "c": "El Renacimiento",
+      "d": "El Romanticismo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Renacimiento fue un período de gran florecimiento cultural en Europa, caracterizado por un renovado interés en el arte y la filosofía de la antigüedad clásica."
+  },
+  {
+    "id": 514,
+    "materia": "Historia Universal",
+    "pregunta": "¿Quién perfeccionó la imprenta, lo que permitió la difusión de ideas humanistas y el primer libro impreso fue la Biblia?",
+    "opciones": {
+      "a": "Leonardo Da Vinci",
+      "b": "Nicolás Copérnico",
+      "c": "Johannes Gutenberg",
+      "d": "Galileo Galilei"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Johannes Gutenberg es reconocido por desarrollar la imprenta de tipos móviles, una invención que revolucionó la difusión del conocimiento."
+  },
+  {
+    "id": 515,
+    "materia": "Historia Universal",
+    "pregunta": "Religioso alemán que propuso que la salvación del alma radicaba en la fe y no en las prácticas de la Iglesia Católica, iniciando la Reforma Protestante:",
+    "opciones": {
+      "a": "Juan Calvino",
+      "b": "Enrique VIII",
+      "c": "Martín Lutero",
+      "d": "Ignacio de Loyola"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Martín Lutero desafió las prácticas de la Iglesia Católica, como la venta de indulgencias, y sus 95 tesis son consideradas el inicio de la Reforma Protestante."
+  },
+  {
+    "id": 516,
+    "materia": "Historia Universal",
+    "pregunta": "La respuesta de la Iglesia Católica a la Reforma Protestante, donde se organizó el Concilio de Trento, se conoce como:",
+    "opciones": {
+      "a": "El Humanismo",
+      "b": "La Ilustración",
+      "c": "La Contrarreforma",
+      "d": "El Cisma de Oriente"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La Contrarreforma fue el movimiento de reforma interna y respuesta de la Iglesia Católica al protestantismo, reafirmando sus dogmas y corrigiendo abusos."
+  },
+  {
+    "id": 517,
+    "materia": "Historia Universal",
+    "pregunta": "Científico del Renacimiento que desarrolló el método experimental y perfeccionó el telescopio, apoyando la teoría heliocéntrica de Copérnico:",
+    "opciones": {
+      "a": "Isaac Newton",
+      "b": "Galileo Galilei",
+      "c": "Johannes Kepler",
+      "d": "Miguel Servet"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Galileo Galilei fue pionero en el uso del telescopio para observaciones astronómicas, lo que le proporcionó evidencia a favor del modelo heliocéntrico."
+  },
+  {
+    "id": 518,
+    "materia": "Historia Universal",
+    "pregunta": "Instrumento de navegación que determinaba la altura de los astros y permitía calcular la hora y la ubicación:",
+    "opciones": {
+      "a": "Brújula",
+      "b": "Cuadrante",
+      "c": "Astrolabio",
+      "d": "Sextante"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El astrolabio era un instrumento clave para la navegación astronómica, permitiendo a los marinos determinar su latitud."
+  },
+  {
+    "id": 519,
+    "materia": "Historia Universal",
+    "pregunta": "La Revolución Inglesa del siglo XVII puso de manifiesto las diferencias entre la monarquía y el:",
+    "opciones": {
+      "a": "Clero",
+      "b": "Parlamento",
+      "c": "Ejército",
+      "d": "Pueblo llano"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La Revolución Inglesa fue un conflicto entre el poder real y el Parlamento, que buscaba limitar la autoridad del monarca."
+  },
+  {
+    "id": 520,
+    "materia": "Historia Universal",
+    "pregunta": "¿Qué líder inglés tomó el poder y proclamó la república o Commonwealth en 1649 tras la ejecución del rey Carlos I?",
+    "opciones": {
+      "a": "Guillermo de Orange",
+      "b": "Jacobo II",
+      "c": "Oliver Cromwell",
+      "d": "Ricardo Corazón de León"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Oliver Cromwell lideró las fuerzas parlamentarias en la Guerra Civil Inglesa y gobernó como Lord Protector durante el período republicano."
+  },
+  {
+    "id": 521,
+    "materia": "Historia Universal",
+    "pregunta": "La Declaración de Independencia de los Estados Unidos de América fue aprobada el:",
+    "opciones": {
+      "a": "4 de julio de 1776",
+      "b": "14 de julio de 1789",
+      "c": "12 de octubre de 1492",
+      "d": "5 de mayo de 1862"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "El 4 de julio de 1776, el Congreso Continental adoptó la Declaración de Independencia, redactada principalmente por Thomas Jefferson."
+  },
+  {
+    "id": 522,
+    "materia": "Historia Universal",
+    "pregunta": "El asalto a la prisión de la Bastilla el 14 de julio de 1789 es considerado el inicio de la:",
+    "opciones": {
+      "a": "Revolución Americana",
+      "b": "Revolución Industrial",
+      "c": "Revolución Francesa",
+      "d": "Revolución Rusa"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La toma de la Bastilla, una prisión real símbolo del absolutismo, marcó el comienzo de la Revolución Francesa."
+  },
+  {
+    "id": 523,
+    "materia": "Historia Universal",
+    "pregunta": "Durante la Revolución Francesa, el período de excesos y ejecuciones masivas liderado por Robespierre se conoció como:",
+    "opciones": {
+      "a": "El Directorio",
+      "b": "El Consulado",
+      "c": "El Régimen del Terror",
+      "d": "La Restauración"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Régimen del Terror (1793-1794) fue una fase radical de la Revolución Francesa caracterizada por la represión y ejecuciones de opositores."
+  },
+  {
+    "id": 524,
+    "materia": "Historia Universal",
+    "pregunta": "¿Quién dio un golpe de estado en Francia, fundó el Consulado y posteriormente se proclamó Emperador?",
+    "opciones": {
+      "a": "Luis XVI",
+      "b": "Maximiliano Robespierre",
+      "c": "Napoleón Bonaparte",
+      "d": "Marqués de Lafayette"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Napoleón Bonaparte ascendió al poder tras un golpe de estado, estableciendo el Consulado y luego el Primer Imperio Francés."
+  },
+  {
+    "id": 525,
+    "materia": "Historia Universal",
+    "pregunta": "La invención de la máquina de vapor por James Watt fue un hito clave en la:",
+    "opciones": {
+      "a": "Revolución Agrícola",
+      "b": "Revolución Científica",
+      "c": "Revolución Industrial",
+      "d": "Revolución Neolítica"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La máquina de vapor de James Watt fue fundamental para la mecanización de la industria y el transporte durante la Revolución Industrial."
+  },
+  {
+    "id": 526,
+    "materia": "Historia Universal",
+    "pregunta": "En el siglo XIX, la nueva clase social formada por trabajadores asalariados que laboraban en las fábricas se denominó:",
+    "opciones": {
+      "a": "Burguesía",
+      "b": "Aristocracia",
+      "c": "Proletariado",
+      "d": "Campesinado"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El proletariado, o clase obrera, surgió con la Revolución Industrial, compuesto por trabajadores que vendían su fuerza de trabajo en las fábricas."
+  },
+  {
+    "id": 527,
+    "materia": "Historia Universal",
+    "pregunta": "¿Quiénes fueron pensadores socialistas utópicos que proponían organizar la sociedad con oportunidades más equitativas?",
+    "opciones": {
+      "a": "Adam Smith y David Ricardo",
+      "b": "John Locke y Montesquieu",
+      "c": "Proudhon, Saint Simon, Fourier, Blanc y Owen",
+      "d": "Karl Marx y Friedrich Engels"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los socialistas utópicos como Saint-Simon, Fourier y Owen criticaron el capitalismo y propusieron modelos de sociedades más justas e igualitarias."
+  },
+  {
+    "id": 528,
+    "materia": "Historia Universal",
+    "pregunta": "El archiduque Francisco Fernando fue asesinado en Sarajevo en 1914, lo que sirvió de pretexto para el inicio de:",
+    "opciones": {
+      "a": "La Guerra Franco-Prusiana",
+      "b": "La Primera Guerra Mundial",
+      "c": "La Segunda Guerra Mundial",
+      "d": "La Guerra Fría"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El asesinato del archiduque Francisco Fernando, heredero del trono austrohúngaro, fue el detonante de la Primera Guerra Mundial."
+  },
+  {
+    "id": 529,
+    "materia": "Historia Universal",
+    "pregunta": "Durante la Primera Guerra Mundial, la alianza integrada por Alemania y Austria-Hungría se conoció como:",
+    "opciones": {
+      "a": "La Triple Entente",
+      "b": "Los Aliados",
+      "c": "La Triple Alianza (o Potencias Centrales)",
+      "d": "El Eje"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La Triple Alianza, formada originalmente por Alemania, Austria-Hungría e Italia (que luego cambió de bando), constituyó las Potencias Centrales."
+  },
+  {
+    "id": 530,
+    "materia": "Historia Universal",
+    "pregunta": "La entrada de qué país en la Primera Guerra Mundial inclinó la balanza a favor de la Entente?",
+    "opciones": {
+      "a": "Rusia",
+      "b": "Italia",
+      "c": "Estados Unidos",
+      "d": "Japón"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La entrada de Estados Unidos en 1917 aportó recursos humanos y materiales significativos a la Triple Entente, contribuyendo a su victoria."
+  },
+  {
+    "id": 531,
+    "materia": "Historia Universal",
+    "pregunta": "La formación de sindicatos y la difusión del socialismo propuesto por Karl Marx, que sostenía la lucha entre burgueses y proletarios, fueron característicos del siglo:",
+    "opciones": {
+      "a": "XVII",
+      "b": "XVIII",
+      "c": "XIX",
+      "d": "XX"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El siglo XIX vio el auge del movimiento obrero, la formación de sindicatos y la difusión de las ideas socialistas y marxistas."
+  },
+  {
+    "id": 532,
+    "materia": "Historia Universal",
+    "pregunta": "El movimiento de renovación llamado Reforma, iniciado por Lutero, tuvo como una de sus consecuencias la división de Europa en reinos:",
+    "opciones": {
+      "a": "Solo católicos",
+      "b": "Solo protestantes",
+      "c": "Católicos y protestantes",
+      "d": "Ortodoxos y católicos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La Reforma Protestante fragmentó la unidad religiosa de Europa occidental, dando lugar a la coexistencia (y a menudo conflicto) entre católicos y diversas denominaciones protestantes."
+  },
+  {
+    "id": 533,
+    "materia": "Historia Universal",
+    "pregunta": "La organización fundada tras la Primera Guerra Mundial para solucionar conflictos mediante el diálogo, antecesora de la ONU, fue:",
+    "opciones": {
+      "a": "La OTAN",
+      "b": "El Pacto de Varsovia",
+      "c": "La Sociedad de las Naciones",
+      "d": "La Cruz Roja Internacional"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La Sociedad de las Naciones fue creada después de la Primera Guerra Mundial con el objetivo de mantener la paz y prevenir futuros conflictos."
+  },
+  {
+    "id": 534,
+    "materia": "Historia Universal",
+    "pregunta": "El socialismo en Rusia se inicia con la revolución de 1917, liderada por los bolcheviques y su dirigente:",
+    "opciones": {
+      "a": "José Stalin",
+      "b": "León Trotsky",
+      "c": "Vladimir Lenin",
+      "d": "Mijaíl Gorbachov"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Vladimir Lenin fue el líder de la facción bolchevique del Partido Obrero Socialdemócrata de Rusia y figura central de la Revolución Rusa de 1917."
+  },
+  {
+    "id": 535,
+    "materia": "Historia Universal",
+    "pregunta": "Líder del Partido Nacional Socialista Alemán (Nazi) que ascendió al poder como canciller en 1933:",
+    "opciones": {
+      "a": "Benito Mussolini",
+      "b": "Adolfo Hitler",
+      "c": "Francisco Franco",
+      "d": "Winston Churchill"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Adolfo Hitler se convirtió en canciller de Alemania en 1933 y posteriormente en Führer, estableciendo un régimen totalitario."
+  },
+  {
+    "id": 536,
+    "materia": "Historia Universal",
+    "pregunta": "El líder del Partido Fascista en Italia, que se propuso controlar al pueblo y se hacía llamar 'Il Duce', fue:",
+    "opciones": {
+      "a": "Adolfo Hitler",
+      "b": "José Stalin",
+      "c": "Benito Mussolini",
+      "d": "Franklin D. Roosevelt"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Benito Mussolini fundó el fascismo en Italia y gobernó como dictador desde 1922 hasta 1943."
+  },
+  {
+    "id": 537,
+    "materia": "Historia Universal",
+    "pregunta": "Las políticas económicas y sociales implementadas por Franklin D. Roosevelt en Estados Unidos para combatir la Gran Depresión se conocieron como:",
+    "opciones": {
+      "a": "El Plan Marshall",
+      "b": "La Doctrina Truman",
+      "c": "El New Deal (Nuevo Trato)",
+      "d": "La Gran Sociedad"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El New Deal fue un conjunto de programas y reformas implementadas por Roosevelt para estimular la economía y proporcionar alivio durante la Gran Depresión."
+  },
+  {
+    "id": 538,
+    "materia": "Historia Universal",
+    "pregunta": "La alianza militar formada en 1940 entre Alemania, Italia y Japón durante la Segunda Guerra Mundial fue llamada:",
+    "opciones": {
+      "a": "Los Aliados",
+      "b": "La Entente Cordiale",
+      "c": "El Eje Berlín-Roma-Tokio",
+      "d": "El Pacto Antikomintern"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las Potencias del Eje, principalmente Alemania, Italia y Japón, se unieron formalmente a través del Pacto Tripartito."
+  },
+  {
+    "id": 539,
+    "materia": "Historia Universal",
+    "pregunta": "El exterminio masivo de judíos y otras minorías por el régimen nazi durante la Segunda Guerra Mundial se conoce como:",
+    "opciones": {
+      "a": "La Gran Purga",
+      "b": "El Holocausto",
+      "c": "El Apartheid",
+      "d": "La Noche de los Cristales Rotos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El Holocausto fue el genocidio sistemático de aproximadamente seis millones de judíos europeos por parte de la Alemania nazi y sus colaboradores."
+  },
+  {
+    "id": 540,
+    "materia": "Historia Universal",
+    "pregunta": "La alianza político-militar de los países capitalistas formada en 1949 para defenderse de un posible ataque soviético fue:",
+    "opciones": {
+      "a": "El Pacto de Varsovia",
+      "b": "La Organización de las Naciones Unidas (ONU)",
+      "c": "La Organización del Tratado del Atlántico Norte (OTAN)",
+      "d": "La Comunidad Económica Europea (CEE)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La OTAN fue creada como una alianza defensiva entre Estados Unidos, Canadá y varias naciones de Europa Occidental contra la amenaza soviética."
+  },
+  {
+    "id": 541,
+    "materia": "Historia Universal",
+    "pregunta": "La alianza político-militar de los países socialistas formada en 1955 en respuesta a la OTAN fue:",
+    "opciones": {
+      "a": "La OTAN",
+      "b": "El Pacto de Varsovia",
+      "c": "El COMECON",
+      "d": "La Liga de las Naciones"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El Pacto de Varsovia fue una alianza militar formada por la Unión Soviética y sus aliados de Europa del Este como contrapeso a la OTAN."
+  },
+  {
+    "id": 542,
+    "materia": "Historia Universal",
+    "pregunta": "La crisis de los misiles en 1962 involucró la instalación de misiles nucleares soviéticos en:",
+    "opciones": {
+      "a": "Vietnam",
+      "b": "Corea",
+      "c": "Cuba",
+      "d": "Alemania Oriental"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La Crisis de los Misiles de Cuba fue un enfrentamiento directo entre Estados Unidos y la Unión Soviética por la instalación de misiles balísticos soviéticos en Cuba."
+  },
+  {
+    "id": 543,
+    "materia": "Historia Universal",
+    "pregunta": "El Estado de Israel fue proclamado en 1948, lo que generó conflictos con los países:",
+    "opciones": {
+      "a": "Europeos",
+      "b": "Africanos subsaharianos",
+      "c": "Árabes",
+      "d": "Asiáticos del Lejano Oriente"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La proclamación del Estado de Israel condujo inmediatamente a la guerra árabe-israelí de 1948 y a un conflicto prolongado en la región."
+  },
+  {
+    "id": 544,
+    "materia": "Historia Universal",
+    "pregunta": "El fenómeno migratorio intenso en la segunda mitad del siglo XX, donde muchas personas se trasladaron a ciudades o a otros países en busca de mejores condiciones de vida, fue una consecuencia de:",
+    "opciones": {
+      "a": "El fin de la Guerra Fría",
+      "b": "La descolonización",
+      "c": "Los avances en la industrialización y las desigualdades económicas",
+      "d": "La creación de la Unión Europea"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las disparidades económicas entre regiones y países, junto con la industrialización, impulsaron grandes movimientos migratorios."
+  },
+  {
+    "id": 545,
+    "materia": "Historia Universal",
+    "pregunta": "Ciudades que dirigen importantes industrias internacionales y son centros de poder económico global se conocen como:",
+    "opciones": {
+      "a": "Ciudades capitales",
+      "b": "Ciudades mundiales o metrópolis globales",
+      "c": "Ciudades industriales",
+      "d": "Ciudades perdidas"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las ciudades mundiales (o globales) son nodos clave en la economía global, centros financieros, culturales y de innovación."
+  },
+  {
+    "id": 546,
+    "materia": "Historia Universal",
+    "pregunta": "La invención del transistor fue fundamental para el desarrollo de la:",
+    "opciones": {
+      "a": "Industria textil",
+      "b": "Industria automotriz",
+      "c": "Industria Electrónica (radios, televisiones, computadoras)",
+      "d": "Industria farmacéutica"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El transistor reemplazó a los tubos de vacío, permitiendo la miniaturización y el desarrollo de la electrónica moderna."
+  },
+  {
+    "id": 547,
+    "materia": "Historia Universal",
+    "pregunta": "Aparato de guerra que permitía detectar aviones y barcos a grandes distancias, y cuyas microondas generadas accidentalmente llevaron al desarrollo del horno de microondas:",
+    "opciones": {
+      "a": "Sonar",
+      "b": "Radar",
+      "c": "Láser",
+      "d": "GPS"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El radar (Radio Detection and Ranging) fue crucial en la Segunda Guerra Mundial. El descubrimiento accidental de que sus microondas podían calentar llevó al horno de microondas."
+  },
+  {
+    "id": 548,
+    "materia": "Historia Universal",
+    "pregunta": "El fenómeno de la cultura de masas en la posguerra se vio impulsado por medios de comunicación como:",
+    "opciones": {
+      "a": "El telégrafo y el teléfono",
+      "b": "Los libros impresos y los periódicos",
+      "c": "La radio, el cine y la televisión",
+      "d": "El correo postal y las cartas"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La radio, el cine y especialmente la televisión se convirtieron en medios masivos de entretenimiento e información, moldeando la cultura popular."
+  },
+  {
+    "id": 549,
+    "materia": "Historia Universal",
+    "pregunta": "Corriente musical que surgió en la posguerra, retomando ritmos afroamericanos y representando una forma de protesta e inconformidad juvenil:",
+    "opciones": {
+      "a": "Jazz",
+      "b": "Blues",
+      "c": "Rock and Roll",
+      "d": "Música clásica"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Rock and Roll emergió en los años 50, fusionando influencias de R&B, country y gospel, y se asoció con la rebeldía juvenil."
+  },
+  {
+    "id": 550,
+    "materia": "Historia Universal",
+    "pregunta": "El arte que se rebela contra las reglas convencionales de la pintura tradicional, utilizando figuras irregulares y ausencia de contacto con las figuras reales, se conoce como:",
+    "opciones": {
+      "a": "Renacimiento",
+      "b": "Barroco",
+      "c": "Impresionismo",
+      "d": "Arte abstracto"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El arte abstracto se caracteriza por no representar objetos o seres reconocibles, sino que se enfoca en formas, colores y texturas."
+  },
+  {
+    "id": 551,
+    "materia": "Historia Universal",
+    "pregunta": "Personaje histórico que consolidó la democracia en Atenas, siendo un destacado político y orador.",
+    "opciones": {
+      "a": "Sócrates",
+      "b": "Pericles",
+      "c": "Alejandro Magno",
+      "d": "Leónidas"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Pericles fue un influyente estadista ateniense durante la Edad de Oro de Atenas, promoviendo la democracia y las artes."
+  },
+  {
+    "id": 552,
+    "materia": "Historia Universal",
+    "pregunta": "Emperador romano que le dio su mayor esplendor al imperio y durante cuyo gobierno nació Jesucristo.",
+    "opciones": {
+      "a": "Julio César",
+      "b": "Nerón",
+      "c": "Octavio Augusto",
+      "d": "Constantino"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Octavio Augusto fue el primer emperador romano, y su reinado (Pax Romana) se considera una época de gran prosperidad y esplendor."
+  },
+  {
+    "id": 553,
+    "materia": "Historia Universal",
+    "pregunta": "La sociedad estamental del Antiguo Régimen estaba integrada por nobleza, clero y el:",
+    "opciones": {
+      "a": "Proletariado",
+      "b": "Estado Llano o Tercer Estado",
+      "c": "Senado",
+      "d": "Ejército"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La sociedad del Antiguo Régimen se dividía en tres estamentos: el clero, la nobleza y el Tercer Estado (que incluía a la burguesía, campesinos y artesanos)."
+  },
+  {
+    "id": 554,
+    "materia": "Historia Universal",
+    "pregunta": "Hombre del Renacimiento por excelencia, conocido por obras como la Mona Lisa y La Última Cena, además de sus inventos y estudios anatómicos.",
+    "opciones": {
+      "a": "Miguel Ángel Buonarroti",
+      "b": "Rafael Sanzio",
+      "c": "Leonardo Da Vinci",
+      "d": "Donatello"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Leonardo Da Vinci fue un polímata renacentista, destacando como pintor, escultor, arquitecto, músico, científico, inventor, etc."
+  },
+  {
+    "id": 555,
+    "materia": "Historia Universal",
+    "pregunta": "La Guerra de los Cien Años fue un prolongado conflicto entre:",
+    "opciones": {
+      "a": "Inglaterra y Francia",
+      "b": "España y Portugal",
+      "c": "Roma y Cartago",
+      "d": "Austria y Prusia"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La Guerra de los Cien Años (1337-1453) fue una serie de conflictos entre los reinos de Inglaterra y Francia por disputas dinásticas y territoriales."
+  },
+  {
+    "id": 556,
+    "materia": "Historia Universal",
+    "pregunta": "Filósofo griego que se enfrentó a los sofistas y defendió la verdad y el bien, siendo maestro de Platón.",
+    "opciones": {
+      "a": "Aristóteles",
+      "b": "Sócrates",
+      "c": "Diógenes",
+      "d": "Epicuro"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Sócrates es conocido por su método de indagación (mayéutica) y su énfasis en la ética y el autoconocimiento."
+  },
+  {
+    "id": 557,
+    "materia": "Historia Universal",
+    "pregunta": "La 'ley del timbre' impuesta por la monarquía inglesa a sus colonias en Norteamérica obligaba a pagar impuestos por:",
+    "opciones": {
+      "a": "El té y el azúcar",
+      "b": "Las propiedades y la tierra",
+      "c": "Los libros, periódicos y documentos legales",
+      "d": "Las armas y municiones"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La Ley del Timbre de 1765 imponía un impuesto directo sobre muchos tipos de material impreso en las colonias americanas."
+  },
+  {
+    "id": 558,
+    "materia": "Historia Universal",
+    "pregunta": "Documento fundamental de la Revolución Francesa que proclamó los derechos inherentes a todos los ciudadanos:",
+    "opciones": {
+      "a": "El Edicto de Nantes",
+      "b": "La Declaración de los Derechos del Hombre y del Ciudadano",
+      "c": "El Código Napoleónico",
+      "d": "La Constitución de 1791"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Adoptada en 1789, esta declaración estableció los derechos fundamentales como la libertad, la igualdad y la propiedad."
+  },
+  {
+    "id": 559,
+    "materia": "Historia Universal",
+    "pregunta": "El crecimiento de la población a finales del siglo XVIII, especialmente en Inglaterra, se debió en parte a que la población se hizo más resistente a:",
+    "opciones": {
+      "a": "Las guerras",
+      "b": "Las hambrunas",
+      "c": "Las enfermedades",
+      "d": "Los cambios climáticos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Mejoras en la higiene, la nutrición y ciertos avances médicos contribuyeron a una mayor resistencia a las enfermedades y a una disminución de la mortalidad."
+  },
+  {
+    "id": 560,
+    "materia": "Historia Universal",
+    "pregunta": "Naturalista inglés autor de 'El Origen de las Especies', donde propuso la teoría de la evolución por selección natural:",
+    "opciones": {
+      "a": "Gregor Mendel",
+      "b": "Jean-Baptiste Lamarck",
+      "c": "Charles Darwin",
+      "d": "Alfred Russel Wallace"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Charles Darwin es el autor de la influyente teoría de la evolución mediante el mecanismo de la selección natural."
+  },
+  {
+    "id": 561,
+    "materia": "Historia Universal",
+    "pregunta": "La Primera Guerra Mundial se caracterizó por un largo período de estancamiento conocido como:",
+    "opciones": {
+      "a": "Guerra relámpago (Blitzkrieg)",
+      "b": "Guerra de guerrillas",
+      "c": "Guerra de trincheras",
+      "d": "Guerra total"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Gran parte del frente occidental en la Primera Guerra Mundial se caracterizó por la guerra de trincheras, con poco avance y enormes bajas."
+  },
+  {
+    "id": 562,
+    "materia": "Historia Universal",
+    "pregunta": "El conflicto más grave entre 1920 y 1960, que involucró al Eje Berlín-Roma-Tokio y a los Aliados, fue:",
+    "opciones": {
+      "a": "La Guerra Civil Española",
+      "b": "La Primera Guerra Mundial",
+      "c": "La Segunda Guerra Mundial",
+      "d": "La Guerra de Corea"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La Segunda Guerra Mundial (1939-1945) fue el conflicto más destructivo de la historia, enfrentando a las Potencias del Eje contra los Aliados."
+  },
+  {
+    "id": 563,
+    "materia": "Historia Universal",
+    "pregunta": "El 'escudo' que protege la vida en el planeta al impedir el ingreso de meteoritos e interceptar parte de la radiación solar es:",
+    "opciones": {
+      "a": "La hidrósfera",
+      "b": "La litósfera",
+      "c": "La atmósfera",
+      "d": "La biósfera"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La atmósfera terrestre cumple funciones vitales como proteger de la radiación solar dañina y de los impactos de meteoroides."
+  },
+  {
+    "id": 564,
+    "materia": "Historia Universal",
+    "pregunta": "Capa de la atmósfera donde se producen las auroras boreales y que refleja ondas de radio:",
+    "opciones": {
+      "a": "Tropósfera",
+      "b": "Estratósfera",
+      "c": "Mesósfera",
+      "d": "Ionósfera"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "La ionósfera, una capa de la atmósfera superior, contiene partículas ionizadas que reflejan las ondas de radio y donde se forman las auroras."
+  },
+  {
+    "id": 565,
+    "materia": "Historia Universal",
+    "pregunta": "Las plantas y animales que viven exclusivamente en espacios donde las condiciones climáticas y geológicas son propicias para su desarrollo se denominan:",
+    "opciones": {
+      "a": "Especies invasoras",
+      "b": "Especies cosmopolitas",
+      "c": "Especies endémicas",
+      "d": "Especies domesticadas"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Una especie endémica es aquella que se encuentra de forma natural únicamente en una región geográfica específica."
+  },
+  {
+    "id": 566,
+    "materia": "Historia Universal",
+    "pregunta": "El Fondo Monetario Internacional (FMI) tiene como objetivo principal:",
+    "opciones": {
+      "a": "Promover la educación ambiental a nivel mundial.",
+      "b": "Facilitar el comercio internacional y promover la cooperación monetaria.",
+      "c": "Brindar ayuda humanitaria en casos de desastre.",
+      "d": "Regular la producción de petróleo a nivel global."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El FMI busca fomentar la cooperación monetaria global, asegurar la estabilidad financiera, facilitar el comercio internacional y reducir la pobreza."
+  },
+  {
+    "id": 567,
+    "materia": "Historia Universal",
+    "pregunta": "Los países con altos niveles de desarrollo social y económico, como los del Grupo de los Ocho, se consideran:",
+    "opciones": {
+      "a": "Países Periféricos",
+      "b": "Países Semiperiféricos",
+      "c": "Países Centrales (o desarrollados)",
+      "d": "Países en vías de desarrollo"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los países centrales o desarrollados se caracterizan por su alta industrialización, ingresos per cápita elevados y altos índices de desarrollo humano."
+  },
+  {
+    "id": 568,
+    "materia": "Historia Universal",
+    "pregunta": "El valor total de los bienes y servicios producidos en un país durante un año se conoce como:",
+    "opciones": {
+      "a": "Índice de Precios al Consumidor (IPC)",
+      "b": "Producto Interno Bruto (PIB)",
+      "c": "Balanza Comercial",
+      "d": "Deuda Externa"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El Producto Interno Bruto (PIB) es un indicador clave de la actividad económica de un país."
+  },
+  {
+    "id": 569,
+    "materia": "Historia Universal",
+    "pregunta": "La industria que transforma el mineral de hierro en acero y hierro forjado se llama:",
+    "opciones": {
+      "a": "Industria textil",
+      "b": "Industria alimentaria",
+      "c": "Industria siderúrgica",
+      "d": "Industria química"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La siderurgia es la rama de la metalurgia que se ocupa de la producción de hierro y acero."
+  },
+  {
+    "id": 570,
+    "materia": "Historia Universal",
+    "pregunta": "La integración de los mercados internacionales y la transformación de las comunicaciones que impacta la producción y la cultura es un proceso conocido como:",
+    "opciones": {
+      "a": "Nacionalismo",
+      "b": "Regionalismo",
+      "c": "Globalización",
+      "d": "Aislamiento"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La globalización es un proceso complejo de interconexión e interdependencia creciente entre los países en los ámbitos económico, político, social y cultural."
+  },
+  {
+    "id": 571,
+    "materia": "Historia Universal",
+    "pregunta": "El conjunto de creencias y prácticas relacionadas con los dioses, que es parte de la diversidad cultural, se llama:",
+    "opciones": {
+      "a": "Etnia",
+      "b": "Lengua",
+      "c": "Religión",
+      "d": "Política"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La religión abarca sistemas de creencias, rituales y prácticas relacionadas con lo sagrado o divino."
+  },
+  {
+    "id": 572,
+    "materia": "Historia Universal",
+    "pregunta": "Las religiones que se basan en la existencia de un solo dios se llaman:",
+    "opciones": {
+      "a": "Politeístas",
+      "b": "Animistas",
+      "c": "Monoteístas",
+      "d": "Panteístas"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El monoteísmo es la creencia en la existencia de un único Dios. Ejemplos son el judaísmo, el cristianismo y el islam."
+  },
+  {
+    "id": 573,
+    "materia": "Historia Universal",
+    "pregunta": "Con la caída del régimen soviético a principios de los años noventa, resurgieron en Europa los:",
+    "opciones": {
+      "a": "Imperios coloniales",
+      "b": "Nacionalismos y conflictos étnicos",
+      "c": "Sistemas feudales",
+      "d": "Monarquías absolutas"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La disolución de la Unión Soviética y el fin de la Guerra Fría llevaron a la reafirmación de identidades nacionales y, en algunos casos, a conflictos basados en ellas."
+  },
+  {
+    "id": 574,
+    "materia": "Historia Universal",
+    "pregunta": "Una lengua que representa un símbolo de pertenencia e identidad cultural para un grupo de personas es parte de su:",
+    "opciones": {
+      "a": "Economía",
+      "b": "Raíz cultural",
+      "c": "Sistema político",
+      "d": "Geografía física"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La lengua es un componente fundamental de la identidad cultural de un pueblo, transmitiendo su historia, valores y cosmovisión."
+  },
+  {
+    "id": 575,
+    "materia": "Historia Universal",
+    "pregunta": "Principal cultivo en la economía de la India antigua, que crecía en las llanuras regadas por los ríos Indo y Ganges.",
+    "opciones": {
+      "a": "Trigo",
+      "b": "Arroz",
+      "c": "Maíz",
+      "d": "Algodón"
+    },
+    "respuesta_correcta": "d",
+    "explicacion": "El algodón fue un cultivo de gran importancia económica para la antigua civilización del valle del Indo."
+  }
+]
